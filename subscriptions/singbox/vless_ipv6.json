@@ -91,8 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @freevpnatm | 9",
-                "❔ XX | 🟢 | vless | @freevpnatm | 10",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -121,8 +119,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
-                "❔ XX | 🟢 | vless | @freevpnatm | 9",
-                "❔ XX | 🟢 | vless | @freevpnatm | 10",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
@@ -200,50 +196,6 @@
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
                 }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 9",
-            "type": "vless",
-            "server": "[2606:4700:3033::ac43:b0c4]",
-            "server_port": 443,
-            "uuid": "f69b7304-9bea-4740-a555-797514012a53",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZR7EK3UEnojchcVZUcmW"
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 10",
-            "type": "vless",
-            "server": "[2606:4700:3031::6815:117f]",
-            "server_port": 443,
-            "uuid": "f69b7304-9bea-4740-a555-797514012a53",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "FffvbGHyU.859885.Xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZR7EK3UEnojchcVZUcmW"
             }
         },
         {

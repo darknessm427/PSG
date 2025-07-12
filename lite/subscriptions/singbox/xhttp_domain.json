@@ -99,9 +99,6 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "proxy",
@@ -120,9 +117,6 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "auto",
@@ -232,42 +226,6 @@
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-            "type": "vless",
-            "server": "tel.v2angbot.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "48a2c4cb-b4ce-427d-8860-a512b1f2b849",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-            "type": "vless",
-            "server": "viop.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "f2806d75-82b6-4983-897e-29171592a589",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @zedping | 0",

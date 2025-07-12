@@ -99,15 +99,11 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 11",
-                "🇺🇸 US | 🔴 | vless | @manzariyeh_rasht | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -132,15 +128,11 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-                "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 11",
-                "🇺🇸 US | 🔴 | vless | @manzariyeh_rasht | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -258,42 +250,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ry_proxy | 13",
-            "type": "vless",
-            "server": "tel.v2angbot.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "48a2c4cb-b4ce-427d-8860-a512b1f2b849",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
-            "type": "vless",
-            "server": "viop.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "f2806d75-82b6-4983-897e-29171592a589",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnv2raytop | 10",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @zedping | 0",
             "type": "vless",
             "server": "speedtest.net",
@@ -335,15 +291,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "50eefafc-ac7f-4890-9435-063d9911dda3",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @manzariyeh_rasht | 16",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "e907cd5b-8d4e-406f-8f24-9133c23c7e4e",
             "flow": "",
             "packet_encoding": "xudp"
         },

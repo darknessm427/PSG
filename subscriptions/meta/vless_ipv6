@@ -25,8 +25,6 @@ dns:
 proxies: 
   - {"name":"❔ XX | 🟢 | vless | @deli_servers | 1","type":"vless","server":"[2a01:4f8:c012:81c0::1]","port":1,"uuid":"d3927fcb-1dd4-4a84-af91-75196dcc0ee9","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"4dsply.com","grpc-opts":{"grpc-service-name":"/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers"},"reality-opts":{"public-key":"L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ","short-id":"bbcb1cf7"}}
   - {"name":"❔ XX | 🟢 | vless | @fire_vpn_channel | 0","type":"vless","server":"[2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e]","port":443,"uuid":"ac864844-c86b-4ac5-bbe9-50fcc05123f2","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"srhrforall.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ","short-id":"6412"}}
-  - {"name":"❔ XX | 🟢 | vless | @freevpnatm | 9","type":"vless","server":"[2606:4700:3033::ac43:b0c4]","port":443,"uuid":"f69b7304-9bea-4740-a555-797514012a53","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"grpc-opts":{"grpc-service-name":"ZR7EK3UEnojchcVZUcmW"}}
-  - {"name":"❔ XX | 🟢 | vless | @freevpnatm | 10","type":"vless","server":"[2606:4700:3031::6815:117f]","port":443,"uuid":"f69b7304-9bea-4740-a555-797514012a53","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"FffvbGHyU.859885.Xyz","grpc-opts":{"grpc-service-name":"ZR7EK3UEnojchcVZUcmW"}}
   - {"name":"❔ XX | 🔴 | vless | @freevv2rayng | 6","type":"vless","server":"[2a12:5940:1527::2]","port":443,"uuid":"8bfbdbb1-9126-4372-96a1-5547d629559f","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔴 | vless | @freevv2rayng | 9","type":"vless","server":"[2a12:5940:1527::2]","port":8880,"uuid":"baa10442-7622-4b96-bd86-9f72aaac9846","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"cdnndsszakanalaslitest.possiblesayt.xyz."}}}
   - {"name":"❔ XX | 🔴 | vless | @freevv2rayng | 10","type":"vless","server":"[2a12:5940:1527::2]","port":443,"uuid":"78d743e4-1519-4770-aa84-ca0d6de0cc80","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
@@ -57,8 +55,6 @@ proxy-groups:
     proxies: 
       - '❔ XX | 🟢 | vless | @deli_servers | 1'
       - '❔ XX | 🟢 | vless | @fire_vpn_channel | 0'
-      - '❔ XX | 🟢 | vless | @freevpnatm | 9'
-      - '❔ XX | 🟢 | vless | @freevpnatm | 10'
       - '❔ XX | 🔴 | vless | @freevv2rayng | 6'
       - '❔ XX | 🔴 | vless | @freevv2rayng | 9'
       - '❔ XX | 🔴 | vless | @freevv2rayng | 10'
