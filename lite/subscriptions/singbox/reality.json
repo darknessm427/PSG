@@ -123,13 +123,14 @@
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 16",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇦🇲 AM | 🟢 | vless | @v2rayng_fars | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
@@ -176,13 +177,14 @@
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 16",
-                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇦🇲 AM | 🟢 | vless | @v2rayng_fars | 16",
+                "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
+                "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
+                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
@@ -1029,29 +1031,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 8",
-            "type": "vless",
-            "server": "bmi.raheaiande.ir",
-            "server_port": 1001,
-            "uuid": "8dd46858-12e7-4754-fdb8-489eef2d8425",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "ea.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
-                    "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @proxysudo | 2",
             "type": "vless",
             "server": "proxysudochannel.ddns.net",
@@ -1098,26 +1077,30 @@
             }
         },
         {
-            "tag": "🇦🇲 AM | 🟢 | vless | @v2rayng_fars | 16",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2aryng_vpn | 8",
             "type": "vless",
-            "server": "am2.aparat-movies-download.ir",
-            "server_port": 4450,
-            "uuid": "3e19f4d9-4c47-4f4d-8c65-98608f9b47b8",
+            "server": "parrot-love.ir",
+            "server_port": 2025,
+            "uuid": "417e0f23-34b1-45c6-803d-4b596c502672",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "zhaket.com",
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic",
+                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
                     "short_id": ""
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "sadf2341sad"
             }
         },
         {
@@ -1176,6 +1159,52 @@
             "server": "de1.marzban-locations.com",
             "server_port": 3030,
             "uuid": "3d1622e6-7ac5-4715-b635-7bd542e0a70b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayweb | 15",
+            "type": "vless",
+            "server": "hecror.bizipsych.ir",
+            "server_port": 38755,
+            "uuid": "7ff8a0c0-d0dd-4251-8f8f-46e9b44d44ba",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Hz-XqYNjjbZ4yOjM6IKlQSvzUbipK0DY5-rmH7f4SAo",
+                    "short_id": "585d50e4e2"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
+            "type": "vless",
+            "server": "it.panelmarzban.com",
+            "server_port": 3037,
+            "uuid": "a0a3e34d-87e4-4ff3-b04a-875c85325d62",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {

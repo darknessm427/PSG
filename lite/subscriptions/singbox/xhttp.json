@@ -110,7 +110,8 @@
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @summertimeus | 14",
                 "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6"
+                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -139,7 +140,8 @@
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @summertimeus | 14",
                 "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6"
+                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
+                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -396,6 +398,15 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "c8b98685-35a8-413d-8184-d844322ecc4a",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "c60c5106-08b1-4fe7-eff9-d665d62f3030",
             "flow": "",
             "packet_encoding": "xudp"
         }

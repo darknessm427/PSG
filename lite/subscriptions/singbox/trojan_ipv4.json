@@ -91,8 +91,7 @@
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -109,8 +108,7 @@
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
-                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 17",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -161,7 +159,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 17",
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
             "type": "trojan",
             "server": "104.21.94.69",
             "server_port": 443,
@@ -180,22 +178,6 @@
                 "path": "/TDUxZUop9k44oPiit2OdWk0KwirdY",
                 "headers": {
                     "Host": "dddcVbhnj.000890604.xyZ"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 19",
-            "type": "trojan",
-            "server": "154.211.8.240",
-            "server_port": 443,
-            "password": "Aimer",
-            "tls": {
-                "enabled": true,
-                "server_name": "ngepx.ambercc.filegear-sg.me",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
