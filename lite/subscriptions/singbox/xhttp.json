@@ -94,15 +94,15 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
-                "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
+                "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
+                "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
-                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 12",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
@@ -123,15 +123,15 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
-                "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
+                "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
+                "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
-                "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 12",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
@@ -196,7 +196,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @fastshovpn | 5",
+            "tag": "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
             "server_port": 80,
@@ -241,6 +241,24 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ashil.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
             "type": "vless",
             "server": "viop.fast.hosting-ip.com",
@@ -273,15 +291,6 @@
             "server": "151.101.67.8",
             "server_port": 80,
             "uuid": "8088c605-e0c2-4774-9ee4-7fa7e47b6112",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "29091907-ea23-474b-a1ae-58b0a3996ed6",
             "flow": "",
             "packet_encoding": "xudp"
         },

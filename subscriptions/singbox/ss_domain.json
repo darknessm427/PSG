@@ -100,7 +100,6 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇳🇱 NL | 🟢 | ss | @dalton_ping | 11",
                 "🇨🇭 CH | 🟢 | ss | @dalton_ping | 12",
-                "🇬🇧 GB | 🟢 | ss | @deamnet_proxy | 15",
                 "🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 9",
@@ -110,6 +109,7 @@
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
+                "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -147,7 +147,6 @@
                 "🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1",
                 "🇳🇱 NL | 🟢 | ss | @dalton_ping | 11",
                 "🇨🇭 CH | 🟢 | ss | @dalton_ping | 12",
-                "🇬🇧 GB | 🟢 | ss | @deamnet_proxy | 15",
                 "🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @fastkanfig | 9",
@@ -157,6 +156,7 @@
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
+                "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -275,14 +275,6 @@
             "password": "SasawZo4g7WaqlK3a2mCol"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @deamnet_proxy | 15",
-            "type": "shadowsocks",
-            "server": "admin.c2.webramz.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WstuSnlu4ieA9M0L"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
@@ -353,6 +345,14 @@
             "server_port": 40934,
             "method": "chacha20-ietf-poly1305",
             "password": "jxfYgVB87GkSQR4U7Ce6rNBkP5URFYJfH1bFNo84pr5fWXMYCkcPAUYBCrAz7NBkpixeHgdzYYYW7jVyo9LpwSakvQ7nuKj1"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+            "type": "shadowsocks",
+            "server": "admin.c2.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @proxy_confiingir | 1",

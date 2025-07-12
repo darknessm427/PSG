@@ -34,7 +34,6 @@ proxies:
   - {"name":"🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1","type":"ss","server":"account-mec.emofid.co","port":443,"password":"7ivrGEHY88sQk3DP","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🟢 | ss | @dalton_ping | 11","type":"ss","server":"h110vpnnl.outlinekeys.net","port":52571,"password":"jXfsyaUTwZxGuaSLwIky3S","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇨🇭 CH | 🟢 | ss | @dalton_ping | 12","type":"ss","server":"h110vpnch.outlinekeys.net","port":4248,"password":"SasawZo4g7WaqlK3a2mCol","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧 GB | 🟢 | ss | @deamnet_proxy | 15","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10","type":"ss","server":"series-a2-mec.varzesh360.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @fastkanfig | 8","type":"ss","server":"join.vpncustomize.vpncustomize.reziazaran.ir","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @fastkanfig | 9","type":"ss","server":"series-a2.samanehha.co","port":443,"password":"mps3FwmDjLrWaOVg","cipher":"chacha20-ietf-poly1305"}
@@ -44,6 +43,7 @@ proxies:
   - {"name":"🇺🇸 US | 🟢 | ss | @mester_v2ray | 15","type":"ss","server":"api.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇨🇳 CN | 🟢 | ss | @mftizi | 17","type":"ss","server":"hk01.x.quickcht3.club","port":52611,"password":"2be0c954-4291-45ea-b47d-ca713180550b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @mt_proxy | 4","type":"ss","server":"www2.broadalx.cfd","port":40934,"password":"jxfYgVB87GkSQR4U7Ce6rNBkP5URFYJfH1bFNo84pr5fWXMYCkcPAUYBCrAz7NBkpixeHgdzYYYW7jVyo9LpwSakvQ7nuKj1","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @proxy_confiingir | 1","type":"ss","server":"ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @public504 | 7","type":"ss","server":"seoul.dodohee.info","port":20976,"password":"Gy1ddTFQcNrkyJMaoDl1da","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @public504 | 8","type":"ss","server":"india.dodohee.info","port":6980,"password":"4e9ufa1a2jeANAVebF0wqN","cipher":"chacha20-ietf-poly1305"}
@@ -87,7 +87,6 @@ proxy-groups:
       - '🇬🇧 GB | 🟢 | ss | @custom_v2ray | 1'
       - '🇳🇱 NL | 🟢 | ss | @dalton_ping | 11'
       - '🇨🇭 CH | 🟢 | ss | @dalton_ping | 12'
-      - '🇬🇧 GB | 🟢 | ss | @deamnet_proxy | 15'
       - '🇬🇧 GB | 🟢 | ss | @expressvpn_420 | 10'
       - '🇬🇧 GB | 🟢 | ss | @fastkanfig | 8'
       - '🇬🇧 GB | 🟢 | ss | @fastkanfig | 9'
@@ -97,6 +96,7 @@ proxy-groups:
       - '🇺🇸 US | 🟢 | ss | @mester_v2ray | 15'
       - '🇨🇳 CN | 🟢 | ss | @mftizi | 17'
       - '❔ XX | 🟢 | ss | @mt_proxy | 4'
+      - '🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0'
       - '❔ XX | 🟢 | ss | @proxy_confiingir | 1'
       - '❔ XX | 🟢 | ss | @public504 | 7'
       - '❔ XX | 🟢 | ss | @public504 | 8'

@@ -89,14 +89,13 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @entrynet | 15",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 11",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 6",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5",
@@ -120,14 +119,13 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @entrynet | 15",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
                 "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 11",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 6",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5",
@@ -153,22 +151,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @NamiraNet | 67",
-            "type": "trojan",
-            "server": "download2hkt.windowsupdate.lol",
-            "server_port": 443,
-            "password": "af4d2493-9156-4514-9f6b-ee5d1a1e4713",
-            "tls": {
-                "enabled": true,
-                "server_name": "download2hkt.windowsupdate.lol",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -231,7 +213,23 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @entrynet | 15",
+            "tag": "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+            "type": "trojan",
+            "server": "t3.teslacdn2.live",
+            "server_port": 443,
+            "password": "e1c12e6f-a555-4ff8-b071-1e09dd5d91e6",
+            "tls": {
+                "enabled": true,
+                "server_name": "t3.teslacdn2.live",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @free_serverir | 39",
             "type": "trojan",
             "server": "top-azx.pages.dev",
             "server_port": 8443,
@@ -254,22 +252,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-            "type": "trojan",
-            "server": "t3.teslacdn2.live",
-            "server_port": 443,
-            "password": "e1c12e6f-a555-4ff8-b071-1e09dd5d91e6",
-            "tls": {
-                "enabled": true,
-                "server_name": "t3.teslacdn2.live",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
             "type": "trojan",
             "server": "usa.test3.net",
@@ -286,7 +268,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
+            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 11",
             "type": "trojan",
             "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
             "server_port": 15229,

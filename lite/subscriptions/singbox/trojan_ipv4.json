@@ -92,8 +92,6 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
-                "🇰🇭 KH | 🔴 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -111,8 +109,6 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇩🇪 DE | 🟢 | trojan | @freakconfig | 6",
                 "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
-                "🇰🇭 KH | 🔴 | trojan | @hope_net | 19",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 17",
@@ -182,36 +178,6 @@
                 "path": "/TDUxZUop9k44oPiit2OdWk0KwirdY",
                 "headers": {
                     "Host": "dddcVbhnj.000890604.xyZ"
-                }
-            }
-        },
-        {
-            "tag": "🇰🇭 KH | 🔴 | trojan | @hope_net | 19",
-            "type": "trojan",
-            "server": "92.243.74.2",
-            "server_port": 8443,
-            "password": "Aimer"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
-            "type": "trojan",
-            "server": "104.21.75.120",
-            "server_port": 2053,
-            "password": "100b5163-fbb8-425d-9621-44d119555aa4",
-            "tls": {
-                "enabled": true,
-                "server_name": "MaHSA2.cffoRm.SitE",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/trWCuRIwSn9S6fDZGE/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=",
-                "headers": {
-                    "Host": "MaHSA2.cffoRm.SitE"
                 }
             }
         },
