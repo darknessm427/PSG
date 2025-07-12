@@ -103,15 +103,14 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 11",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 12",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @summertimeus | 14",
                 "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15"
+                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -133,15 +132,14 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @freevirgoolnet | 8",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 11",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 12",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @summertimeus | 14",
                 "🇳🇱 NL | 🟢 | vless | @trueproxy | 3",
-                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15"
+                "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -288,11 +286,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 12",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "50eefafc-ac7f-4890-9435-063d9911dda3",
+            "uuid": "e907cd5b-8d4e-406f-8f24-9133c23c7e4e",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -398,15 +396,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "c8b98685-35a8-413d-8184-d844322ecc4a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 15",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "c60c5106-08b1-4fe7-eff9-d665d62f3030",
             "flow": "",
             "packet_encoding": "xudp"
         }

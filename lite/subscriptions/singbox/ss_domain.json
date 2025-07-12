@@ -98,8 +98,7 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "❔ XX | 🟢 | ss | @vpidiamond | 9",
-                "🇨🇭 CH | 🟢 | ss | @vpnv2rayngv | 15"
+                "❔ XX | 🟢 | ss | @vpidiamond | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -116,8 +115,7 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "❔ XX | 🟢 | ss | @vpidiamond | 9",
-                "🇨🇭 CH | 🟢 | ss | @vpnv2rayngv | 15"
+                "❔ XX | 🟢 | ss | @vpidiamond | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -207,14 +205,6 @@
             "server_port": 23377,
             "method": "aes-256-gcm",
             "password": "4cY4N/FWyfZ1r21mu4oj/L5E6WHN9b8VAeitl+Mk7CQ="
-        },
-        {
-            "tag": "🇨🇭 CH | 🟢 | ss | @vpnv2rayngv | 15",
-            "type": "shadowsocks",
-            "server": "h110vpnch.outlinekeys.net",
-            "server_port": 4248,
-            "method": "chacha20-ietf-poly1305",
-            "password": "SasawZo4g7WaqlK3a2mCol"
         }
     ],
     "route": {
