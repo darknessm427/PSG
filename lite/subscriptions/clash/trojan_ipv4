@@ -30,7 +30,6 @@ proxies:
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 15","type":"trojan","server":"51.44.58.153","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @proxyfn | 18","type":"trojan","server":"51.91.11.29","port":80,"password":"598c19f3-a48e-47cd-8451-1ba04ea094d0","skip-cert-verify":false}
-  - {"name":"🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19","type":"trojan","server":"13.36.29.194","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14","type":"trojan","server":"51.44.58.153","port":22223,"password":"telegram-id-v2rayvpnchannel","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @webhube | 4","type":"trojan","server":"15.204.175.111","port":2083,"password":"t2WqbIW2JE","skip-cert-verify":false}
@@ -54,7 +53,6 @@ proxy-groups:
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 15'
       - '🇫🇷 FR | 🟢 | trojan | @proxyfn | 18'
-      - '🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19'
       - '🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45'
       - '🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14'
       - '🇺🇸 US | 🟢 | trojan | @webhube | 4'

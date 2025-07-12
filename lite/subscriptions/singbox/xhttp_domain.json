@@ -98,8 +98,8 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "proxy",
@@ -117,8 +117,8 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 4",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "❔ XX | 🟢 | vless | @freakconfig2 | 7",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
             "tag": "auto",
@@ -221,20 +221,20 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 6",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "44f2c910-07a4-478e-861b-aed3d0750980",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
             "type": "vless",
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 16",
-            "type": "vless",
-            "server": "HydroVpn.quantumflow.ir",
-            "server_port": 80,
-            "uuid": "7700accb-e544-4bf5-b3a2-c44f841c0cc7",
             "flow": "",
             "packet_encoding": "xudp"
         },

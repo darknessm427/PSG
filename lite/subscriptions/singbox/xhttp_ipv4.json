@@ -92,12 +92,13 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
+                "🇺🇸 US | 🔴 | vless | @lranonline_new | 9",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 1"
+                "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 0"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,12 +109,13 @@
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @ghalagyann2 | 9",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 9",
+                "🇺🇸 US | 🔴 | vless | @lranonline_new | 9",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 1"
+                "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 0"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -148,6 +150,15 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "e907cd5b-8d4e-406f-8f24-9133c23c7e4e",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @lranonline_new | 9",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "29091907-ea23-474b-a1ae-58b0a3996ed6",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -225,7 +236,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 1",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fast | 0",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,

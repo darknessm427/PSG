@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 12",
@@ -101,7 +100,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
@@ -113,7 +111,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 12",
@@ -124,7 +121,6 @@
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 16",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇺🇸 US | 🟢 | trojan | @webhube | 4"
@@ -158,29 +154,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "production.tj.ojan.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5",
-            "type": "trojan",
-            "server": "www.digitalocean.com",
-            "server_port": 443,
-            "password": "trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "azadnet-9ya.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "azadnet-9ya.pages.dev"
                 }
             }
         },
@@ -355,22 +328,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "speedtest.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
-            "type": "trojan",
-            "server": "13.36.29.194",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

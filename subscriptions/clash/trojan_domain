@@ -23,16 +23,16 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
-  - {"name":"🇨🇳 CN | 🔴 | trojan | @NamiraNet | 66","type":"trojan","server":"q1.46322416.xyz","port":20220,"password":"0b9c9261-7209-4dcc-b268-2fa74f6cd536","skip-cert-verify":true}
   - {"name":"❔ XX | 🟢 | trojan | @armodchannel | 59","type":"trojan","server":"asia.artunnel57.host","port":443,"password":"fa9b326c-ca6f-4bb2-88f5-a163b404fcf8","skip-cert-verify":false}
   - {"name":"❔ XX | 🔴 | trojan | @armodchannel | 60","type":"trojan","server":"asia.artunnel57.host","port":80,"password":"fa9b326c-ca6f-4bb2-88f5-a163b404fcf8","skip-cert-verify":false}
+  - {"name":"🇨🇳 CN | 🔴 | trojan | @connect_sho | 16","type":"trojan","server":"q1.46322416.xyz","port":20220,"password":"0b9c9261-7209-4dcc-b268-2fa74f6cd536","skip-cert-verify":true}
   - {"name":"🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2","type":"trojan","server":"production.tj.ojan.workers.dev","port":443,"password":"9yu6m5okr","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @fati_ffx | 1","type":"trojan","server":"t3.teslacdn2.live","port":443,"password":"e1c12e6f-a555-4ff8-b071-1e09dd5d91e6","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @free_serverir | 39","type":"trojan","server":"top-azx.pages.dev","port":8443,"password":"123456","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @hopev2ray | 1","type":"trojan","server":"usa.test3.net","port":443,"password":"7cf2d310-489f-11f0-8746-1239d0255272","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @iraniv2ray | 3","type":"trojan","server":"lllliraniv2rayllll.norooz.shop","port":2083,"password":"BWDcALS5TU","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @jiedianf | 6","type":"trojan","server":"e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net","port":15229,"password":"bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b","skip-cert-verify":true}
-  - {"name":"🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5","type":"trojan","server":"www.digitalocean.com","port":443,"password":"trojan","skip-cert-verify":false}
+  - {"name":"🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 4","type":"trojan","server":"www.digitalocean.com","port":443,"password":"trojan","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @maradona_vpn | 4","type":"trojan","server":"maradona_vpn.history-paint.art","port":443,"password":"maradona_vpn","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @maradona_vpn | 6","type":"trojan","server":"maradona_vpn14.history-paint.art","port":443,"password":"maradona_vpn","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @maradona_vpn | 7","type":"trojan","server":"maradona_vpn10.history-paint.art","port":443,"password":"maradona_vpn","skip-cert-verify":false}
@@ -58,16 +58,16 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
-      - '🇨🇳 CN | 🔴 | trojan | @NamiraNet | 66'
       - '❔ XX | 🟢 | trojan | @armodchannel | 59'
       - '❔ XX | 🔴 | trojan | @armodchannel | 60'
+      - '🇨🇳 CN | 🔴 | trojan | @connect_sho | 16'
       - '🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2'
       - '❔ XX | 🟢 | trojan | @fati_ffx | 1'
       - '🇺🇸 US | 🟢 | trojan | @free_serverir | 39'
       - '🇺🇸 US | 🟢 | trojan | @hopev2ray | 1'
       - '❔ XX | 🟢 | trojan | @iraniv2ray | 3'
       - '❔ XX | 🟢 | trojan | @jiedianf | 6'
-      - '🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 5'
+      - '🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 4'
       - '❔ XX | 🟢 | trojan | @maradona_vpn | 4'
       - '❔ XX | 🟢 | trojan | @maradona_vpn | 6'
       - '❔ XX | 🟢 | trojan | @maradona_vpn | 7'

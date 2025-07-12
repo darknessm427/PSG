@@ -110,6 +110,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 13",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1",
@@ -129,7 +130,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 7",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
@@ -165,6 +166,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇳🇱 NL | 🟢 | vless | @vpn451 | 10",
+                "🇳🇱 NL | 🟢 | vless | @vpnaloo | 13",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
                 "🇩🇪 DE | 🟢 | vless | @zerov2shop | 1",
@@ -184,7 +186,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
+                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 7",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
@@ -370,7 +372,7 @@
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
             "type": "vless",
-            "server": "52.14.176.60",
+            "server": "3.139.94.176",
             "server_port": 4433,
             "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
             "flow": "xtls-rprx-vision",
@@ -694,6 +696,29 @@
                     "enabled": true,
                     "public_key": "jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk",
                     "short_id": "1ae2fd1e1ace9935"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @vpnaloo | 13",
+            "type": "vless",
+            "server": "185.33.24.229",
+            "server_port": 28495,
+            "uuid": "7e296434-2d17-48d3-928d-19eaa34aecb1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "dl.google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ",
+                    "short_id": "0ecc2c1392"
                 }
             }
         },
@@ -1175,7 +1200,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayopen | 7",
             "type": "vless",
             "server": "bmi.raheaiande.ir",
             "server_port": 1001,

@@ -92,18 +92,18 @@
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @dnsforyou | 2",
-                "🇷🇺 RU | 🟢 | ss | @free1ss | 15",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 9",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
+                "🇳🇱 NL | 🟢 | ss | @meli_proxyy | 45",
+                "🇺🇸 US | 🟢 | ss | @mester_v2ray | 18",
                 "🇩🇪 DE | 🟢 | ss | @mobilinternet | 0",
                 "🇩🇪 DE | 🟢 | ss | @msv2flyng | 12",
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇬🇧 GB | 🟢 | ss | @ntconfig | 2",
-                "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 11",
+                "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 10",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇬🇧 GB | 🟢 | ss | @proxycrone | 9",
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 16",
@@ -127,18 +127,18 @@
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @dnsforyou | 2",
-                "🇷🇺 RU | 🟢 | ss | @free1ss | 15",
                 "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
                 "🇩🇪 DE | 🟢 | ss | @jiedianf | 9",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
+                "🇳🇱 NL | 🟢 | ss | @meli_proxyy | 45",
+                "🇺🇸 US | 🟢 | ss | @mester_v2ray | 18",
                 "🇩🇪 DE | 🟢 | ss | @mobilinternet | 0",
                 "🇩🇪 DE | 🟢 | ss | @msv2flyng | 12",
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇬🇧 GB | 🟢 | ss | @ntconfig | 2",
-                "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 11",
+                "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 10",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇬🇧 GB | 🟢 | ss | @proxycrone | 9",
                 "🇫🇮 FI | 🟢 | ss | @shadowsockskeys | 16",
@@ -187,14 +187,6 @@
             "password": "6qsUiT6fbV8JzhXbyChyf0"
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | ss | @free1ss | 15",
-            "type": "shadowsocks",
-            "server": "45.144.30.144",
-            "server_port": 18873,
-            "method": "aes-256-gcm",
-            "password": "3BGdLT3mXW"
-        },
-        {
             "tag": "🇱🇻 LV | 🟢 | ss | @freeconfigsplus | 18",
             "type": "shadowsocks",
             "server": "216.173.70.187",
@@ -209,14 +201,6 @@
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 14",
-            "type": "shadowsocks",
-            "server": "45.87.175.192",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | ss | @jiedianf | 9",
@@ -241,6 +225,22 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @meli_proxyy | 45",
+            "type": "shadowsocks",
+            "server": "45.158.171.136",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "1RWwXhwfAB5gAEozU4G2Pg"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 18",
+            "type": "shadowsocks",
+            "server": "45.87.175.192",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | ss | @mobilinternet | 0",
@@ -275,7 +275,7 @@
             "password": "69MUii7VDwMqh7Hz"
         },
         {
-            "tag": "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 11",
+            "tag": "🇪🇸 ES | 🟢 | ss | @outlineopenkey | 10",
             "type": "shadowsocks",
             "server": "194.87.45.189",
             "server_port": 443,
