@@ -91,9 +91,9 @@
                 "direct",
                 "🇬🇧 GB | 🟢 | ss | @Fr33C0nfig | 55",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @meli_proxyy | 44",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+                "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
@@ -109,9 +109,9 @@
             "outbounds": [
                 "🇬🇧 GB | 🟢 | ss | @Fr33C0nfig | 55",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @meli_proxyy | 44",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
+                "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
                 "🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
@@ -145,14 +145,6 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @meli_proxyy | 44",
-            "type": "shadowsocks",
-            "server": "series-a2.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 4",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
@@ -167,6 +159,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "WstuSnlu4ieA9M0L"
+        },
+        {
+            "tag": "🇹🇷 TR | 🟢 | ss | @outline_ir | 18",
+            "type": "shadowsocks",
+            "server": "h110vpntr.outlinekeys.net",
+            "server_port": 65262,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4Qe2wOziHGpNPeQ5DDgmd3"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @outlines_vpn | 5",

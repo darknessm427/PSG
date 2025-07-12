@@ -129,10 +129,11 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
+                "🇳🇱 NL | 🟢 | vless | @vpnod | 16",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -183,10 +184,11 @@
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
-                "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12",
+                "🇳🇱 NL | 🟢 | vless | @vpnod | 16",
                 "🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -368,7 +370,7 @@
         {
             "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
             "type": "vless",
-            "server": "18.117.104.134",
+            "server": "52.14.176.60",
             "server_port": 4433,
             "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
             "flow": "xtls-rprx-vision",
@@ -1173,34 +1175,34 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayopen | 8",
+            "type": "vless",
+            "server": "bmi.raheaiande.ir",
+            "server_port": 1001,
+            "uuid": "30c3a4b1-fbe3-44f2-9a1e-81241f10a7b7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ea.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
+                    "short_id": "c7bc4d"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11",
             "type": "vless",
             "server": "de1.marzban-locations.com",
             "server_port": 3030,
             "uuid": "3d1622e6-7ac5-4715-b635-7bd542e0a70b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vmess_ir | 17",
-            "type": "vless",
-            "server": "it.panelmarzban.com",
-            "server_port": 3037,
-            "uuid": "a0a3e34d-87e4-4ff3-b04a-875c85325d62",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -1261,6 +1263,29 @@
                     "enabled": true,
                     "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
                     "short_id": "fd1dff03520d8f56"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @vpnod | 16",
+            "type": "vless",
+            "server": "nl1.cowjuice.me",
+            "server_port": 443,
+            "uuid": "d4d0e4a4-630c-4439-b8da-f8dd80490648",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "nu.nl",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc",
+                    "short_id": ""
                 }
             }
         },

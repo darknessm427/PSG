@@ -59,10 +59,11 @@ proxies:
   - {"name":"🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6","type":"vless","server":"a.nl.maviks.ru","port":443,"uuid":"e5c31f13-b10a-4e9c-bfa6-09454bc5e65c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ","short-id":"21181028b56c8702"}}
   - {"name":"❔ XX | 🟢 | vless | @v2rayng_my2 | 1","type":"vless","server":"site.felinefreedom.site","port":443,"uuid":"c1272294-cba2-4fe2-8663-93cf92bab9be","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"none.felinefreedom.site","flow":"xtls-rprx-vision","reality-opts":{"public-key":"It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ","short-id":"4e69ed37"}}
   - {"name":"❔ XX | 🟢 | vless | @v2rayngconfings | 17","type":"vless","server":"618-Join.V2RayTz.sbs","port":8080,"uuid":"42873f71-9718-4f3d-9907-de43001e2284","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"www.speedtest.net","grpc-opts":{"grpc-service-name":"@LIGHTNING6"},"reality-opts":{"public-key":"4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg","short-id":"356dc0"}}
+  - {"name":"🇩🇪 DE | 🟢 | vless | @v2rayopen | 8","type":"vless","server":"bmi.raheaiande.ir","port":1001,"uuid":"30c3a4b1-fbe3-44f2-9a1e-81241f10a7b7","tls":true,"network":"tcp","client-fingerprint":"edge","udp":true,"servername":"ea.com","reality-opts":{"public-key":"wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM","short-id":"c7bc4d"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11","type":"vless","server":"de1.marzban-locations.com","port":3030,"uuid":"3d1622e6-7ac5-4715-b635-7bd542e0a70b","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI"}}
-  - {"name":"🇩🇪 DE | 🟢 | vless | @vmess_ir | 17","type":"vless","server":"it.panelmarzban.com","port":3037,"uuid":"a0a3e34d-87e4-4ff3-b04a-875c85325d62","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"refersion.com","reality-opts":{"public-key":"21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI"}}
   - {"name":"❔ XX | 🟢 | vless | @vp22ray | 10","type":"vless","server":"German.vp22ray.site","port":40130,"uuid":"eb7f17f3-4715-4b2d-87e5-39d12b1c962c","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"Seed.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"XEpHiKs6YbcMrBR4YTRXLlIlO5RfGcVUUcbt4KZc7TY","short-id":"d90b293e"}}
   - {"name":"🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12","type":"vless","server":"ARM.CROCODILESERVER.IR","port":443,"uuid":"32932937-b85f-40be-ae02-997ea5b0b62a","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"app.hubspot.com","reality-opts":{"public-key":"YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E","short-id":"fd1dff03520d8f56"}}
+  - {"name":"🇳🇱 NL | 🟢 | vless | @vpnod | 16","type":"vless","server":"nl1.cowjuice.me","port":443,"uuid":"d4d0e4a4-630c-4439-b8da-f8dd80490648","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"nu.nl","flow":"xtls-rprx-vision","reality-opts":{"public-key":"O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc"}}
   - {"name":"🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15","type":"vless","server":"iran.mr-cloud.ir","port":443,"uuid":"ae942900-cae6-425e-94b0-21f086e6d7b1","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs","short-id":"275f34"}}
   - {"name":"❔ XX | 🟢 | vless | @kesslervpn | 2","type":"vless","server":"[2a03:b0c0:3:d0::10ad:7001]","port":29360,"uuid":"9e890db0-905d-41d2-8a69-0a35ff7d8ce3","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"reality-opts":{"public-key":"WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo"}}
 
@@ -114,10 +115,11 @@ proxy-groups:
       - '🇳🇱 NL | 🟢 | vless | @v2ray_sub | 6'
       - '❔ XX | 🟢 | vless | @v2rayng_my2 | 1'
       - '❔ XX | 🟢 | vless | @v2rayngconfings | 17'
+      - '🇩🇪 DE | 🟢 | vless | @v2rayopen | 8'
       - '🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 11'
-      - '🇩🇪 DE | 🟢 | vless | @vmess_ir | 17'
       - '❔ XX | 🟢 | vless | @vp22ray | 10'
       - '🇦🇲 AM | 🟢 | vless | @vpn_accounti | 12'
+      - '🇳🇱 NL | 🟢 | vless | @vpnod | 16'
       - '🇫🇮 FI | 🟢 | vless | @vpnstorefast | 15'
       - '❔ XX | 🟢 | vless | @kesslervpn | 2'
 

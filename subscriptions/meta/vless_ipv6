@@ -36,7 +36,7 @@ proxies:
   - {"name":"❔ XX | 🔴 | vless | @v2ryngfree | 6","type":"vless","server":"[2001:19f0:6801:0e7f:5400:04ff:feee:6d60]","port":8443,"uuid":"52a5be20-825c-45bc-a623-3077a5d53abe","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/@v2ryngfree/@v2ryngfree/@v2ryngfree","headers":{"Host":"cloudflare.com"}}}
   - {"name":"❔ XX | 🔴 | vless | @v2ryngfree | 8","type":"vless","server":"[2001:19f0:7400:8c45:5400:04ff:feef:4ccb]","port":2083,"uuid":"c566c1a7-5040-4f1a-95b0-3f97e256ea27","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🔴 | vless | @v2ryngfree | 10","type":"vless","server":"[2a05:f480:1000:0300:5400:04ff:fef0:6bd0]","port":2053,"uuid":"1c7f075c-0021-4f4b-8fbd-326672770d61","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/@v2ryngfree@v2ryngfree@v2ryngfree","headers":{"Host":"speedtest.net"}}}
-  - {"name":"❔ XX | 🔴 | vless | @vpn_matin_best1 | 1","type":"vless","server":"[2a01:4f8:1c1e:5d54::1]","port":33892,"uuid":"3700cc9f-b8c0-4ada-a45d-9913835d3cc2","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"❔ XX | 🔴 | vless | @vpn_matin_best1 | 0","type":"vless","server":"[2a01:4f8:1c1e:5d54::1]","port":33892,"uuid":"3700cc9f-b8c0-4ada-a45d-9913835d3cc2","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
   - {"name":"❔ XX | 🟢 | vless | @vpnvg | 10","type":"vless","server":"[2a01:4f8:1c17:cadc::1]","port":2083,"uuid":"5a0beb93-56ae-4390-b5c2-8ed92f5f591d","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"www.speedtest.net","grpc-opts":{"grpc-service-name":"@Digiv2ray"},"reality-opts":{"public-key":"Qa9ePuwo1TY2uVN8143Sh3YAiVqdDj9VIZcQK20DTzc","short-id":"5654bc18"}}
   - {"name":"❔ XX | 🟢 | vless | @yekoyekvpn | 0","type":"vless","server":"[::ffff:3207:55dd]","port":443,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"tEstBp.fIBiDOB9775921.woRkeRS.DEV","ws-opts":{"path":"/xUnw05Z6MV3NG29U?ed=2560","headers":{"Host":"testbp.fibidob9775921.workers.dev"}}}
   - {"name":"❔ XX | 🔴 | vless | @zilv2ray_service | 9","type":"vless","server":"[2a01:7e0:0:151:1fff:ffff:ffff:2224]","port":2087,"uuid":"d3cc4545-0896-4245-8f29-fcc5dd928512","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
@@ -66,7 +66,7 @@ proxy-groups:
       - '❔ XX | 🔴 | vless | @v2ryngfree | 6'
       - '❔ XX | 🔴 | vless | @v2ryngfree | 8'
       - '❔ XX | 🔴 | vless | @v2ryngfree | 10'
-      - '❔ XX | 🔴 | vless | @vpn_matin_best1 | 1'
+      - '❔ XX | 🔴 | vless | @vpn_matin_best1 | 0'
       - '❔ XX | 🟢 | vless | @vpnvg | 10'
       - '❔ XX | 🟢 | vless | @yekoyekvpn | 0'
       - '❔ XX | 🔴 | vless | @zilv2ray_service | 9'
