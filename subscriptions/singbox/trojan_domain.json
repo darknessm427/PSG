@@ -102,7 +102,6 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇸🇬 SG | 🟢 | trojan | @v2source | 5",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -126,7 +125,6 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇸🇬 SG | 🟢 | trojan | @v2source | 5",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -382,22 +380,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "170-187-134-190.ipv4.rush.ml",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @v2source | 5",
-            "type": "trojan",
-            "server": "ap.liangyuandian.top",
-            "server_port": 443,
-            "password": "51c44c4e-f8c2-4419-a52b-b4b7bd915078",
-            "tls": {
-                "enabled": true,
-                "server_name": "ap.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
