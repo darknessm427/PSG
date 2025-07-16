@@ -32,7 +32,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16","type":"vless","server":"157.230.28.73","port":23353,"uuid":"c34a9f73-3c11-4614-90ff-196add3fa4aa","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"*.sourceforge.net","reality-opts":{"public-key":"OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU","short-id":"a98a22e2"}}
   - {"name":"🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16","type":"vless","server":"103.71.23.210","port":443,"uuid":"3225893e-09d0-4822-a19a-04fb39066d22","tls":true,"network":"tcp","client-fingerprint":null,"udp":true,"servername":"ya.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA","short-id":"102707ab31571a93"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2","type":"vless","server":"49.13.199.174","port":55555,"uuid":"9d468e0a-01ca-41a2-a89b-73b2756f91ec","tls":true,"network":"xhttp","client-fingerprint":"chrome","udp":true,"servername":"google.com","reality-opts":{"public-key":"d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w","short-id":"bc5a8ead5ee076aa"}}
-  - {"name":"🇺🇸 US | 🟢 | vless | @meli_proxyy | 19","type":"vless","server":"54.167.27.87","port":15434,"uuid":"a45e0c2d-388e-4e66-8720-291da22cd7eb","tls":true,"network":"tcp","client-fingerprint":"firefox","udp":true,"servername":"journalofbigdata.springeropen.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"K47eUyJ8fZSVg8DtY50GPcpa8VmSwnH5N3e6SKth0VM"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @merdesert | 3","type":"vless","server":"188.245.61.146","port":8001,"uuid":"510d82c4-20c6-4605-9e92-cf49c1e9f900","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"oMIdmAHBouBI.ir","reality-opts":{"public-key":"W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @novavpn1984 | 0","type":"vless","server":"116.203.75.81","port":36313,"uuid":"010ddaac-7bac-4dcc-a353-215d01feb06e","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"khor.sarezh.click","reality-opts":{"public-key":"UKw4crSzH0M3eceNPmo4bNs4NyIfhaCUEMi52k6J5DI","short-id":"c74cb910"}}
   - {"name":"🇩🇪 DE | 🟢 | vless | @proxy_emperor | 6","type":"vless","server":"91.99.149.127","port":46650,"uuid":"589b8628-44e4-474c-9f16-4be7159b9800","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"www.debian.org","reality-opts":{"public-key":"4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4","short-id":"d5379dac5626e5"}}
@@ -67,7 +66,6 @@ proxy-groups:
       - '🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16'
       - '🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16'
       - '🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2'
-      - '🇺🇸 US | 🟢 | vless | @meli_proxyy | 19'
       - '🇩🇪 DE | 🟢 | vless | @merdesert | 3'
       - '🇩🇪 DE | 🟢 | vless | @novavpn1984 | 0'
       - '🇩🇪 DE | 🟢 | vless | @proxy_emperor | 6'

@@ -100,7 +100,6 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇺🇸 US | 🟢 | vless | @meli_proxyy | 19",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
@@ -121,14 +120,14 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 7",
+                "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -150,7 +149,6 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇺🇸 US | 🟢 | vless | @meli_proxyy | 19",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
@@ -171,14 +169,14 @@
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 7",
+                "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -450,29 +448,6 @@
                     "enabled": true,
                     "public_key": "d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w",
                     "short_id": "bc5a8ead5ee076aa"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @meli_proxyy | 19",
-            "type": "vless",
-            "server": "54.167.27.87",
-            "server_port": 15434,
-            "uuid": "a45e0c2d-388e-4e66-8720-291da22cd7eb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "K47eUyJ8fZSVg8DtY50GPcpa8VmSwnH5N3e6SKth0VM",
-                    "short_id": ""
                 }
             }
         },
@@ -977,25 +952,25 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 7",
+            "tag": "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
             "type": "vless",
-            "server": "bmi.raheaiande.ir",
-            "server_port": 1001,
-            "uuid": "a53dc24b-89ea-4d91-c9db-01f9c0f24e4d",
+            "server": "est01-vlr01.tcp-reset-club.net",
+            "server_port": 443,
+            "uuid": "2a02cb25-0f58-4b19-a7a6-8c205fdb9042",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "ea.com",
+                "server_name": "hls-svod.itunes.apple.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "edge"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
-                    "short_id": "c7bc4d"
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "86e999a2cdc2"
                 }
             }
         },
@@ -1150,7 +1125,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
