@@ -89,10 +89,10 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -104,7 +104,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
-                "🇫🇷 FR | 🟢 | trojan | @vmesc | 14",
+                "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -114,10 +114,10 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -129,7 +129,7 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
-                "🇫🇷 FR | 🟢 | trojan | @vmesc | 14",
+                "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -141,6 +141,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+            "type": "trojan",
+            "server": "usa.liangyuandian.top",
+            "server_port": 443,
+            "password": "58dcd460-65df-47b1-b062-517df30bef29",
+            "tls": {
+                "enabled": true,
+                "server_name": "usa.liangyuandian.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -188,22 +204,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "t3.teslacdn2.live",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @hopev2ray | 1",
-            "type": "trojan",
-            "server": "usa.test3.net",
-            "server_port": 443,
-            "password": "7cf2d310-489f-11f0-8746-1239d0255272",
-            "tls": {
-                "enabled": true,
-                "server_name": "usa.test3.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -415,7 +415,7 @@
             "password": ""
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @vmesc | 14",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
             "type": "trojan",
             "server": "x5-france-scaleway-v2.devefun.org",
             "server_port": 1935,

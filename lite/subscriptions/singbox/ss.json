@@ -90,12 +90,12 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 17",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -115,6 +115,7 @@
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
                 "🇦🇲 AM | 🟢 | ss | @vpnod | 18",
+                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
@@ -124,7 +125,6 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
                 "❔ XX | 🟢 | ss | @free_omega | 4"
@@ -136,12 +136,12 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 17",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+                "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -161,6 +161,7 @@
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
                 "🇦🇲 AM | 🟢 | ss | @vpnod | 18",
+                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
@@ -170,7 +171,6 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
                 "❔ XX | 🟢 | ss | @vpidiamond | 9",
                 "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
                 "❔ XX | 🟢 | ss | @free_omega | 4"
@@ -191,14 +191,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Ib9hxFZxUH4m"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
-            "type": "shadowsocks",
-            "server": "45.87.175.35",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
@@ -225,7 +217,7 @@
             "password": "YTQ0Z"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 17",
             "type": "shadowsocks",
             "server": "104.167.197.25",
             "server_port": 57456,
@@ -239,6 +231,14 @@
             "server_port": 14255,
             "method": "chacha20-ietf-poly1305",
             "password": "fDDmH4QefmWqMJ8UURZrGh"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
+            "type": "shadowsocks",
+            "server": "46.17.63.178",
+            "server_port": 8443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "8RpzvJTy8kMerS471rXR3N"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -393,6 +393,14 @@
             "password": "UKK5XUvjIlOkeTbBA0nfYh"
         },
         {
+            "tag": "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 7",
+            "type": "shadowsocks",
+            "server": "series-a2.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "mps3FwmDjLrWaOVg"
+        },
+        {
             "tag": "❔ XX | 🟢 | ss | @chestertm | 12",
             "type": "shadowsocks",
             "server": "freakconfig94.usecharge.ir",
@@ -463,14 +471,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @vmess_ir | 16",
-            "type": "shadowsocks",
-            "server": "peweza2.digipedia.shop",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "WstuSnlu4ieA9M0L"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @vpidiamond | 9",

@@ -133,9 +133,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 10",
-                "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
-                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 15",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -189,9 +187,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 10",
-                "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
-                "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 15",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
             ],
@@ -688,43 +684,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vmessorg | 7",
-            "type": "vless",
-            "server": "vip1.proxystore11.news",
-            "server_port": 2052,
-            "uuid": "a3aef958-6961-464c-b1a9-b09b0f9cd1f7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vultr.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io",
-                    "short_id": "f8fcb589"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
             "type": "vless",
             "server": "netmeli.noytads.ir",
             "server_port": 80,
             "uuid": "e018bfab-0902-47a0-abfc-7efbd017ec73",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnplusee_free | 15",
-            "type": "vless",
-            "server": "hibbb.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "2f7308bb-45d4-43ff-98c3-5b46c55bc2f1",
             "flow": "",
             "packet_encoding": "xudp"
         },
