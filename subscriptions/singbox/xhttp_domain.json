@@ -118,10 +118,11 @@
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇺🇸 US | 🟢 | vless | @manzariyeh_rasht | 14",
-                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 22",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
+                "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
-                "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
@@ -131,7 +132,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
-                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 14",
@@ -175,10 +175,11 @@
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇺🇸 US | 🟢 | vless | @manzariyeh_rasht | 14",
-                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 22",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
+                "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
-                "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 4",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
@@ -188,7 +189,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
-                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 14",
@@ -505,7 +505,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 22",
+            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
@@ -523,7 +532,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 12",
+            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 11",
             "type": "vless",
             "server": "Aule.Manwe.ir",
             "server_port": 443,
@@ -541,7 +550,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 13",
+            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 12",
             "type": "vless",
             "server": "Aule.Manwe.ir",
             "server_port": 443,
@@ -559,7 +568,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 13",
             "type": "vless",
             "server": "Aule.Manwe.ir",
             "server_port": 443,
@@ -691,15 +700,6 @@
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
-            "type": "vless",
-            "server": "free-httpcustomafree-httpcustom-free-httpcustom-free-httpcustom.vip-f.top",
-            "server_port": 80,
-            "uuid": "Free_HTTPCustom",
             "flow": "",
             "packet_encoding": "xudp"
         },

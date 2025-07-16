@@ -99,6 +99,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
@@ -119,6 +120,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
@@ -219,6 +221,15 @@
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
             "flow": "",
             "packet_encoding": "xudp"
         },

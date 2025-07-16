@@ -99,6 +99,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
@@ -127,6 +128,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
@@ -239,6 +241,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 22",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
@@ -320,7 +331,7 @@
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 443,
-            "uuid": "c9dfdf12-85b3-4adc-8837-e9259f2a99a9",
+            "uuid": "70f4561c-21b1-492f-8447-09d89dfd84c0",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
