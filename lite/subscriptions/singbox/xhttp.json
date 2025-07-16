@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🔴 | vless | @configscenter | 4",
+                "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 4",
@@ -109,7 +109,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇩🇪 DE | 🟢 | vless | @summertimeus | 15",
                 "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10"
             ],
             "tag": "proxy",
@@ -118,7 +117,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🔴 | vless | @configscenter | 4",
+                "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 4",
@@ -138,7 +137,6 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇩🇪 DE | 🟢 | vless | @summertimeus | 15",
                 "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10"
             ],
             "tag": "auto",
@@ -151,7 +149,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 4",
+            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
@@ -375,29 +373,6 @@
             "uuid": "qeshmserver",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @summertimeus | 15",
-            "type": "vless",
-            "server": "193.108.117.141",
-            "server_port": 32379,
-            "uuid": "83d44fab-c989-4510-a459-835c39df3bef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "VFq1meciB_O8ayCOw0ZDGTNIRFbRW79nwIvjAk1v8BA",
-                    "short_id": "2b6778"
-                }
-            }
         },
         {
             "tag": "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",

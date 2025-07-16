@@ -95,8 +95,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇬🇧 GB | 🟢 | ss | @configfa | 9",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -133,8 +133,8 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇬🇧 GB | 🟢 | ss | @configfa | 9",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -214,14 +214,6 @@
             "server": "thr.npvnot.com",
             "server_port": 10107,
             "method": "aes-256-gcm",
-            "password": "YzY1MzFlYzQyYmY2MTdiMTA3OTVmOTQ2YTE3MDg0"
-        },
-        {
-            "tag": "🇮🇷 IR | 🟢 | ss | @configscenter | 2",
-            "type": "shadowsocks",
-            "server": "thr.npvnot.com",
-            "server_port": 10107,
-            "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
@@ -231,6 +223,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
+            "type": "shadowsocks",
+            "server": "fin.outlinebot1.ru",
+            "server_port": 5904,
+            "method": "chacha20-ietf-poly1305",
+            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",

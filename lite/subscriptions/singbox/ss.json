@@ -93,8 +93,8 @@
                 "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 5",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
-                "🇩🇪 DE | 🟢 | ss | @free1_vpn | 11",
-                "🇫🇮 FI | 🟢 | ss | @free1ss | 17",
+                "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
+                "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -113,7 +113,9 @@
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
+                "🇦🇲 AM | 🟢 | ss | @vpnod | 18",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -135,8 +137,8 @@
                 "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 5",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
-                "🇩🇪 DE | 🟢 | ss | @free1_vpn | 11",
-                "🇫🇮 FI | 🟢 | ss | @free1ss | 17",
+                "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
+                "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -155,7 +157,9 @@
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
+                "🇦🇲 AM | 🟢 | ss | @vpnod | 18",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -209,20 +213,20 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @free1_vpn | 11",
+            "tag": "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
             "type": "shadowsocks",
-            "server": "138.124.115.157",
-            "server_port": 1080,
+            "server": "83.147.18.163",
+            "server_port": 8388,
             "method": "chacha20-ietf-poly1305",
-            "password": "M-nffO40KlclwbCX9CV1DQ"
+            "password": "YTQ0Z"
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | ss | @free1ss | 17",
+            "tag": "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
             "type": "shadowsocks",
-            "server": "64.137.109.212",
-            "server_port": 44884,
+            "server": "78.129.140.11",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw"
+            "password": "Hq8UhkDfDTA5reOt9gSGtz"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -369,12 +373,28 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
+            "tag": "🇦🇲 AM | 🟢 | ss | @vpnod | 18",
+            "type": "shadowsocks",
+            "server": "2.56.207.150",
+            "server_port": 8443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "UKK5XUvjIlOkeTbBA0nfYh"
+        },
+        {
             "tag": "❔ XX | 🟢 | ss | @chestertm | 12",
             "type": "shadowsocks",
             "server": "freakconfig94.usecharge.ir",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
+            "type": "shadowsocks",
+            "server": "fin.outlinebot1.ru",
+            "server_port": 5904,
+            "method": "chacha20-ietf-poly1305",
+            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",

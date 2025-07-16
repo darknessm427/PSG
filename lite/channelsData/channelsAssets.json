@@ -9,8 +9,6 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
-            "trojan",
             "vless",
             "vmess"
         ],
@@ -647,7 +645,8 @@
         "types": [
             "vmess",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "سرور کانفیگ کانفینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freakconfig.jpg"
@@ -933,9 +932,9 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss",
             "trojan",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2580,8 +2579,8 @@
     },
     "v2rayopen": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🛡️ اکانت های رایگان V2RAY",
@@ -2679,7 +2678,8 @@
     },
     "v2source": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
