@@ -90,11 +90,12 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 5",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -122,11 +123,12 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 5",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 12",
-                "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 18",
+                "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
@@ -165,12 +167,12 @@
             "password": "Ib9hxFZxUH4m"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 5",
+            "tag": "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 6",
             "type": "shadowsocks",
-            "server": "213.109.147.242",
-            "server_port": 62685,
+            "server": "45.87.175.35",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "VpKABcOpNNA0l5G2AVOmw8"
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
@@ -197,12 +199,20 @@
             "password": "YTQ0Z"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @free1ss | 18",
+            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 18",
             "type": "shadowsocks",
-            "server": "78.129.140.11",
-            "server_port": 443,
+            "server": "104.167.197.25",
+            "server_port": 57456,
             "method": "chacha20-ietf-poly1305",
-            "password": "Hq8UhkDfDTA5reOt9gSGtz"
+            "password": "360e21d21977dc11"
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
+            "type": "shadowsocks",
+            "server": "86.104.74.243",
+            "server_port": 14255,
+            "method": "chacha20-ietf-poly1305",
+            "password": "fDDmH4QefmWqMJ8UURZrGh"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",

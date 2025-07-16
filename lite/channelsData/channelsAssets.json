@@ -9,8 +9,9 @@
     },
     "NamiraNet": {
         "types": [
-            "vless",
-            "vmess"
+            "ss",
+            "trojan",
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -453,7 +454,8 @@
     "dnsforyou": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "DNS and v2rayNG and wireguard",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/dnsforyou.jpg"
@@ -777,8 +779,7 @@
     "freevirgoolnet": {
         "types": [
             "ss",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "🚀 Free VirgoolNet",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevirgoolnet.jpg"
@@ -931,21 +932,12 @@
     },
     "hope_net": {
         "types": [
+            "ss",
             "vless",
-            "trojan",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
-    },
-    "hopev2ray": {
-        "types": [
-            "trojan",
-            "vless"
-        ],
-        "title": "𝐇𝐨𝐩𝐞 𝐯𝟐𝐫𝐚𝐲",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hopev2ray.jpg"
     },
     "hormozvpn": {
         "types": [
@@ -1538,8 +1530,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1813,8 +1805,8 @@
     },
     "outline_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2309,8 +2301,8 @@
     },
     "v2pedia": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan",
             "vmess"
         ],
@@ -2678,8 +2670,7 @@
     },
     "v2source": {
         "types": [
-            "vless",
-            "ss"
+            "vless"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
@@ -2758,7 +2749,8 @@
     "vmess_ir": {
         "types": [
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"

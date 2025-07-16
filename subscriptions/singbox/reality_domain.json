@@ -100,8 +100,6 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
-                "🇩🇪 DE | 🟢 | vless | @dnsforyou | 3",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 16",
@@ -110,7 +108,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 18",
+                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 9",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 11",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
@@ -152,6 +150,7 @@
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 3",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 5",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 15",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
@@ -200,8 +199,6 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
-                "🇩🇪 DE | 🟢 | vless | @dnsforyou | 3",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 16",
@@ -210,7 +207,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 18",
+                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 9",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 11",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
@@ -252,6 +249,7 @@
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 3",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_sub | 5",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 15",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
@@ -558,52 +556,6 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🟢 | vless | @dnsforyou | 0",
-            "type": "vless",
-            "server": "online-chat.webboosterpro.co.uk",
-            "server_port": 443,
-            "uuid": "92a5f2d3-0ce7-471f-8871-362ffc5478f0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.fastly.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "QxGoAQpy2zri2JRkXmPfESKjAMHpsrJPmjbkJuZCz3U",
-                    "short_id": "1eaf5214"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @dnsforyou | 3",
-            "type": "vless",
-            "server": "balanced-de.irancdngame.com",
-            "server_port": 2012,
-            "uuid": "62a494cb-127f-4d46-9eca-73a104cd1829",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.pcmag.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
             "type": "vless",
             "server": "all97-vip.f-sub.com",
@@ -804,7 +756,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @getconfigir | 18",
+            "tag": "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
             "type": "vless",
             "server": "server1.fergalvpnmod.com",
             "server_port": 28338,
@@ -1833,6 +1785,29 @@
                     "enabled": true,
                     "public_key": "2dIWbgD8nbCd1YBs-IiQ6vgA7mse9PA9DWqaIMFsTmc",
                     "short_id": "cb333964"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2raych | 16",
+            "type": "vless",
+            "server": "all97-vip.f-sub.com",
+            "server_port": 2434,
+            "uuid": "7efa17d3-ce1f-41f3-aad2-3f15e88e414a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.chess.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
+                    "short_id": ""
                 }
             }
         },
