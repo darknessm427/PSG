@@ -99,9 +99,9 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 21",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
+                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 19",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -128,9 +128,9 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇺🇸 US | 🔴 | vless | @meli_proxyy | 21",
                 "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
+                "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 19",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -241,15 +241,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @meli_proxyy | 21",
-            "type": "vless",
-            "server": "fast1.beraghsa.ir",
-            "server_port": 80,
-            "uuid": "SANRU",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇳🇱 NL | 🟢 | vless | @proxycrone | 9",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
@@ -273,6 +264,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @vpnv2rayngv | 19",
+            "type": "vless",
+            "server": "fast1.beraghsa.ir",
+            "server_port": 80,
+            "uuid": "SANRU",
             "flow": "",
             "packet_encoding": "xudp"
         },

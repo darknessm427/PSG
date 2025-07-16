@@ -91,8 +91,7 @@
                 "direct",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇸🇬 SG | 🟢 | trojan | @v2source | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -102,8 +101,7 @@
             "outbounds": [
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇸🇬 SG | 🟢 | trojan | @v2source | 19"
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -166,22 +164,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @v2source | 19",
-            "type": "trojan",
-            "server": "uk.liangyuandian.top",
-            "server_port": 443,
-            "password": "ceaea123-1b4b-469b-8358-bcd5f5529305",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

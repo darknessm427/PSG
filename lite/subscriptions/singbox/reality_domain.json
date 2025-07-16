@@ -102,7 +102,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -125,7 +124,6 @@
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -462,29 +460,6 @@
                     "enabled": true,
                     "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
                     "short_id": "f5"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
-            "type": "vless",
-            "server": "turbooserver.sadafspace.com",
-            "server_port": 55990,
-            "uuid": "turboo-server",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04",
-                    "short_id": "eebcfab3"
                 }
             }
         },

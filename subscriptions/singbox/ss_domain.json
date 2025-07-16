@@ -117,8 +117,9 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 9",
                 "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
-                "🇳🇱 NL | 🟢 | ss | @vpn451 | 11"
+                "🇺🇸 US | 🟢 | ss | @vpn451 | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -154,8 +155,9 @@
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 26",
                 "🇬🇧 GB | 🟢 | ss | @vip_freevpn1 | 1",
+                "🇳🇱 NL | 🟢 | ss | @vpn451 | 9",
                 "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
-                "🇳🇱 NL | 🟢 | ss | @vpn451 | 11"
+                "🇺🇸 US | 🟢 | ss | @vpn451 | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -391,7 +393,7 @@
             "password": "Bog0ELmMM9DSxDdQ"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
+            "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 9",
             "type": "shadowsocks",
             "server": "macintosh.outlinekeys.net",
             "server_port": 19609,
@@ -399,12 +401,20 @@
             "password": "rirgAJoGVPZBhFx9gNH3gj"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 11",
+            "tag": "🇳🇱 NL | 🟢 | ss | @vpn451 | 10",
             "type": "shadowsocks",
             "server": "macintosh.outlinekeys.net",
             "server_port": 19609,
             "method": "chacha20-ietf-poly1305",
             "password": "vmbNCUhVDMTb3WRKkSG0SD"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
+            "type": "shadowsocks",
+            "server": "fox-usa.outlinekeys.net",
+            "server_port": 34868,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Nae7luN0UvHzTOpafOYr98"
         }
     ],
     "route": {
