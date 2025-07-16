@@ -89,7 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+                "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 67",
+                "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 68",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -104,7 +106,6 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
-                "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -114,7 +115,9 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+                "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 67",
+                "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 68",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -129,7 +132,6 @@
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
-                "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -143,14 +145,46 @@
             "type": "direct"
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+            "tag": "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 67",
             "type": "trojan",
-            "server": "usa.liangyuandian.top",
+            "server": "ni.mjt000.com",
             "server_port": 443,
-            "password": "58dcd460-65df-47b1-b062-517df30bef29",
+            "password": "172b2279-f7f5-4542-ab6c-9e96ad7dd5be",
             "tls": {
                 "enabled": true,
-                "server_name": "usa.liangyuandian.top",
+                "server_name": "ni.mjt000.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇭🇰 HK | 🟢 | trojan | @NamiraNet | 68",
+            "type": "trojan",
+            "server": "pt.mjt000.com",
+            "server_port": 443,
+            "password": "84587c21-9938-42fc-a4b0-4f72dd72b7aa",
+            "tls": {
+                "enabled": true,
+                "server_name": "pt.mjt000.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
+            "type": "trojan",
+            "server": "ap.liangyuandian.top",
+            "server_port": 443,
+            "password": "51c44c4e-f8c2-4419-a52b-b4b7bd915078",
+            "tls": {
+                "enabled": true,
+                "server_name": "ap.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -413,22 +447,6 @@
             "server": "0RiSuJPsug",
             "server_port": 0,
             "password": ""
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @vmesc | 13",
-            "type": "trojan",
-            "server": "x5-france-scaleway-v2.devefun.org",
-            "server_port": 1935,
-            "password": "DHvyBZAYmM",
-            "tls": {
-                "enabled": true,
-                "server_name": "x5-france-scaleway-v2.devefun.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",

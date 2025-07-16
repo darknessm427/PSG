@@ -89,7 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
@@ -100,7 +100,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
@@ -115,14 +115,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
             "type": "trojan",
-            "server": "usa.liangyuandian.top",
+            "server": "ap.liangyuandian.top",
             "server_port": 443,
-            "password": "58dcd460-65df-47b1-b062-517df30bef29",
+            "password": "51c44c4e-f8c2-4419-a52b-b4b7bd915078",
             "tls": {
                 "enabled": true,
-                "server_name": "usa.liangyuandian.top",
+                "server_name": "ap.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

@@ -103,8 +103,9 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
+                "🇺🇸 US | 🟢 | vless | @selinc | 10",
+                "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
-                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
@@ -134,8 +135,9 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
+                "🇺🇸 US | 🟢 | vless | @selinc | 10",
+                "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
-                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
@@ -489,6 +491,52 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @selinc | 10",
+            "type": "vless",
+            "server": "103.175.79.10",
+            "server_port": 443,
+            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "speed.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
+            "type": "vless",
+            "server": "51.195.218.231",
+            "server_port": 443,
+            "uuid": "15c620a8-6852-ac9e-5285-f91ba0a8bdfb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.frontiersin.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig",
+                    "short_id": "1466b1508caf242e"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
             "type": "vless",
             "server": "88.99.87.227",
@@ -513,29 +561,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "32135vless"
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
-            "type": "vless",
-            "server": "104.248.194.230",
-            "server_port": 80,
-            "uuid": "b51aa057-c62e-4bd4-8ffe-f275714576f3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "marzijooon.adas.monster",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
-                    "short_id": "2a70224f5466"
-                }
             }
         },
         {

@@ -9,7 +9,6 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
             "trojan",
             "vless",
             "vmess"
@@ -934,8 +933,8 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -958,7 +957,6 @@
     },
     "icv2ray": {
         "types": [
-            "trojan",
             "vless"
         ],
         "title": "𝑰𝑪𝑽2𝑹𝒀 | 𝑪𝑶𝑵𝑭𝑰𝑮",
@@ -1532,8 +1530,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1670,8 +1668,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "trojan"
         ],
         "title": "VPN | V2rayNG | نت ملی",
@@ -2129,8 +2127,8 @@
     },
     "sinavm": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "𝗙𝗥𝗘𝗘 𝗩𝗣𝗡 | SiNAVM",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/sinavm.jpg"
@@ -2169,9 +2167,9 @@
     },
     "summertimeus": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
-            "ss"
+            "vmess"
         ],
         "title": "V2rayng/vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/summertimeus.jpg"
@@ -2343,10 +2341,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "ss",
+            "vmess",
             "trojan",
-            "vmess"
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2437,8 +2435,8 @@
     },
     "v2raying": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "v2rayNG_VPN",
@@ -2672,8 +2670,8 @@
     },
     "v2source": {
         "types": [
-            "trojan",
             "vless",
+            "trojan",
             "ss"
         ],
         "title": "Free V2ray",
