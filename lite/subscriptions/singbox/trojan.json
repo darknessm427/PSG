@@ -89,9 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇲🇳 MN | 🟢 | trojan | @NamiraNet | 69",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
@@ -99,7 +97,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
-                "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 15"
+                "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 15",
+                "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇸🇬 SG | 🟢 | trojan | @v2source | 19"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -107,9 +109,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇲🇳 MN | 🟢 | trojan | @NamiraNet | 69",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
@@ -117,7 +117,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
-                "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 15"
+                "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 15",
+                "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+                "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
+                "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇸🇬 SG | 🟢 | trojan | @v2source | 19"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -129,57 +133,14 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+            "tag": "🇲🇳 MN | 🟢 | trojan | @NamiraNet | 69",
             "type": "trojan",
-            "server": "production.tj.ojan.workers.dev",
+            "server": "103.168.56.77",
             "server_port": 443,
-            "password": "9yu6m5okr",
+            "password": "4f2c305b-9a03-4493-b3e4-2dff2f1af8c9",
             "tls": {
                 "enabled": true,
-                "server_name": "production.tj.ojan.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "production.tj.ojan.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
-            "type": "trojan",
-            "server": "maradona_vpn.history-paint.art",
-            "server_port": 443,
-            "password": "Maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc20337"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-            "type": "trojan",
-            "server": "de1.test3.net",
-            "server_port": 443,
-            "password": "b8841c50-c3ad-11ee-9be0-1239d0255272",
-            "tls": {
-                "enabled": true,
-                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+                "server_name": "103.168.56.77",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -315,6 +276,81 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+            "type": "trojan",
+            "server": "production.tj.ojan.workers.dev",
+            "server_port": 443,
+            "password": "9yu6m5okr",
+            "tls": {
+                "enabled": true,
+                "server_name": "production.tj.ojan.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "production.tj.ojan.workers.dev"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
+            "type": "trojan",
+            "server": "maradona_vpn.history-paint.art",
+            "server_port": 443,
+            "password": "Maradona_vpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "teo.history-paint.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc20337"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+            "type": "trojan",
+            "server": "de1.test3.net",
+            "server_port": 443,
+            "password": "b8841c50-c3ad-11ee-9be0-1239d0255272",
+            "tls": {
+                "enabled": true,
+                "server_name": "chatbuzzteambhm.chatbuzzt7150.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @v2source | 19",
+            "type": "trojan",
+            "server": "uk.liangyuandian.top",
+            "server_port": 443,
+            "password": "ceaea123-1b4b-469b-8358-bcd5f5529305",
+            "tls": {
+                "enabled": true,
+                "server_name": "uk.liangyuandian.top",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

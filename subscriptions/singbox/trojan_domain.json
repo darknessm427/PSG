@@ -89,6 +89,9 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 65",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 66",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -114,6 +117,9 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 65",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 66",
+                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -141,6 +147,54 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 65",
+            "type": "trojan",
+            "server": "sg.liangyuandian.top",
+            "server_port": 443,
+            "password": "b341f309-7e2b-45c4-a316-9e23037e3711",
+            "tls": {
+                "enabled": true,
+                "server_name": "sg.liangyuandian.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 66",
+            "type": "trojan",
+            "server": "jp.liangyuandian.top",
+            "server_port": 443,
+            "password": "cc55e294-b76f-425a-9301-c18afbecaa22",
+            "tls": {
+                "enabled": true,
+                "server_name": "jp.liangyuandian.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 67",
+            "type": "trojan",
+            "server": "de.liangyuandian.top",
+            "server_port": 443,
+            "password": "176196e4-7cf7-4561-87a9-21a1b4e344be",
+            "tls": {
+                "enabled": true,
+                "server_name": "de.liangyuandian.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",

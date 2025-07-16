@@ -23,6 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🇲🇳 MN | 🟢 | trojan | @NamiraNet | 69","type":"trojan","server":"103.168.56.77","port":443,"password":"4f2c305b-9a03-4493-b3e4-2dff2f1af8c9","skip-cert-verify":true}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @directvpn | 17","type":"trojan","server":"52.47.68.103","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇸🇬 SG | 🟢 | trojan | @mpmehi | 0","type":"trojan","server":"146.190.87.238","port":443,"password":"oZAugtgF5T","skip-cert-verify":false}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
@@ -44,6 +45,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🇲🇳 MN | 🟢 | trojan | @NamiraNet | 69'
       - '🇫🇷 FR | 🟢 | trojan | @directvpn | 17'
       - '🇸🇬 SG | 🟢 | trojan | @mpmehi | 0'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15'

@@ -23,6 +23,9 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"🇸🇬 SG | 🟢 | trojan | @NamiraNet | 65","type":"trojan","server":"sg.liangyuandian.top","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true}
+  - {"name":"🇸🇬 SG | 🟢 | trojan | @NamiraNet | 66","type":"trojan","server":"jp.liangyuandian.top","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true}
+  - {"name":"🇸🇬 SG | 🟢 | trojan | @NamiraNet | 67","type":"trojan","server":"de.liangyuandian.top","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","skip-cert-verify":true}
   - {"name":"❔ XX | 🟢 | trojan | @armodchannel | 59","type":"trojan","server":"asia.artunnel57.host","port":443,"password":"fa9b326c-ca6f-4bb2-88f5-a163b404fcf8","skip-cert-verify":false}
   - {"name":"❔ XX | 🔴 | trojan | @armodchannel | 60","type":"trojan","server":"asia.artunnel57.host","port":80,"password":"fa9b326c-ca6f-4bb2-88f5-a163b404fcf8","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @fati_ffx | 1","type":"trojan","server":"t3.teslacdn2.live","port":443,"password":"e1c12e6f-a555-4ff8-b071-1e09dd5d91e6","skip-cert-verify":false}
@@ -54,6 +57,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '🇸🇬 SG | 🟢 | trojan | @NamiraNet | 65'
+      - '🇸🇬 SG | 🟢 | trojan | @NamiraNet | 66'
+      - '🇸🇬 SG | 🟢 | trojan | @NamiraNet | 67'
       - '❔ XX | 🟢 | trojan | @armodchannel | 59'
       - '❔ XX | 🔴 | trojan | @armodchannel | 60'
       - '❔ XX | 🟢 | trojan | @fati_ffx | 1'

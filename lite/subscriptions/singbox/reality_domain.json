@@ -99,11 +99,10 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2source | 19",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -123,11 +122,10 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
-                "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 17",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2source | 19",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -395,33 +393,6 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 17",
-            "type": "vless",
-            "server": "server2.fergalvpnmod.com",
-            "server_port": 25126,
-            "uuid": "bab6b157-a6e8-4756-a485-dcb4ca476eb9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik",
-                    "short_id": "1e"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@FergalVpnMod"
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -472,7 +443,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -495,7 +466,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2source | 19",
+            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 16",
             "type": "vless",
             "server": "turbooserver.sadafspace.com",
             "server_port": 55990,

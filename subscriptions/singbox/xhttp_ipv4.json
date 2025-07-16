@@ -124,7 +124,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 13",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
@@ -169,7 +170,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 13",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
+                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
@@ -674,7 +676,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "15219f08-71de-42e9-92ef-82ddded32704",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 12",
             "type": "vless",
             "server": "206.71.158.10",
             "server_port": 443,
