@@ -96,8 +96,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇩🇪 DE | 🟢 | vless | @summertimeus | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 17"
+                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -112,8 +111,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇩🇪 DE | 🟢 | vless | @summertimeus | 15",
-                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10",
-                "🇳🇱 NL | 🟢 | vless | @vmess_ir | 17"
+                "🇳🇱 NL | 🟢 | vless | @v2aryng_vpn | 10"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -258,24 +256,6 @@
                     "enabled": true,
                     "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
                     "short_id": "2a70224f5466"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 17",
-            "type": "vless",
-            "server": "206.71.158.10",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         }
