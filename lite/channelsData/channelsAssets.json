@@ -9,9 +9,9 @@
     },
     "NamiraNet": {
         "types": [
+            "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -371,7 +371,8 @@
     },
     "customvpnserver": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "CUSTOM VPN SERVER",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/customvpnserver.jpg"
@@ -738,13 +739,6 @@
         "title": "Freedom Config",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freedom_config.jpg"
     },
-    "freedom_guard_net": {
-        "types": [
-            "vless"
-        ],
-        "title": "گارد آزادی | Freedom Guard",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freedom_guard_net.jpg"
-    },
     "freeshadowsock": {
         "types": [
             "vmess"
@@ -932,8 +926,8 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1530,8 +1524,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2460,8 +2454,8 @@
     },
     "v2rayng_fars": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "v2rayng fars",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fars.jpg"
@@ -2571,7 +2565,6 @@
     },
     "v2rayopen": {
         "types": [
-            "vmess",
             "vless",
             "ss"
         ],
@@ -2671,8 +2664,8 @@
     "v2source": {
         "types": [
             "vless",
-            "trojan",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
@@ -2845,8 +2838,8 @@
     },
     "vpnaloo": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "رفع فیلتر | پروکسی",

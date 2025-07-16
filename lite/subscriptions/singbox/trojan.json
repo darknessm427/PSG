@@ -89,13 +89,11 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇮🇳 IN | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -109,13 +107,11 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇮🇳 IN | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -131,22 +127,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 69",
-            "type": "trojan",
-            "server": "ap.liangyuandian.top",
-            "server_port": 443,
-            "password": "51c44c4e-f8c2-4419-a52b-b4b7bd915078",
-            "tls": {
-                "enabled": true,
-                "server_name": "ap.liangyuandian.top",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
@@ -245,13 +225,6 @@
                     "Host": "vpn.stupidworld.web.id"
                 }
             }
-        },
-        {
-            "tag": "🇮🇳 IN | 🔴 | trojan | @hope_net | 19",
-            "type": "trojan",
-            "server": "108.165.152.80",
-            "server_port": 2083,
-            "password": "Aimer"
         },
         {
             "tag": "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
