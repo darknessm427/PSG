@@ -92,7 +92,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @configfa | 11",
-                "🇺🇸 US | 🔴 | vless | @configscenter | 3",
+                "🇺🇸 US | 🔴 | vless | @configscenter | 4",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -131,7 +131,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
-                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 4",
+                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 14",
@@ -172,7 +172,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 5",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 10",
                 "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
@@ -186,7 +185,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @configfa | 11",
-                "🇺🇸 US | 🔴 | vless | @configscenter | 3",
+                "🇺🇸 US | 🔴 | vless | @configscenter | 4",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -225,7 +224,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
-                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 4",
+                "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 1",
                 "🇺🇸 US | 🔴 | vless | @vipv2rayngnp | 14",
@@ -266,7 +265,6 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 5",
                 "🇺🇸 US | 🔴 | vless | @v2rayng_channel_vpn | 7",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
-                "🇩🇪 DE | 🟢 | vless | @vistav2ray | 10",
                 "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
@@ -308,7 +306,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 3",
+            "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 4",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
@@ -769,7 +767,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @v2ray_v_vpn | 4",
+            "tag": "❔ XX | 🔴 | vless | @v2ray_v_vpn | 3",
             "type": "vless",
             "server": "free-httpcustomafree-httpcustom-free-httpcustom-free-httpcustom.vip-f.top",
             "server_port": 80,
@@ -1308,29 +1306,6 @@
             "uuid": "V2rayNGFreeeV2rayNGFreee",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @vistav2ray | 10",
-            "type": "vless",
-            "server": "185.127.94.27",
-            "server_port": 8443,
-            "uuid": "2d37cd89-d6e5-4d58-a688-8b0208a48e6e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "drive.google.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BG0noERXu_3wOPcZOeu9vl35QIFilTAWFXMZx-nzpVY",
-                    "short_id": "58b2fc"
-                }
-            }
         },
         {
             "tag": "🇳🇱 NL | 🟢 | vless | @vmess_ir | 14",
