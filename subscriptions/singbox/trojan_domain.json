@@ -101,8 +101,6 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 18",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -126,8 +124,6 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇺🇸 US | 🔴 | trojan | @v2raych | 18",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -372,43 +368,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 18",
-            "type": "trojan",
-            "server": "aio.zipzap.biz.id",
-            "server_port": 80,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
-            "transport": {
-                "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
-                "headers": {
-                    "Host": "aio.zipzap.biz.id"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @v2raych | 19",
-            "type": "trojan",
-            "server": "aio.zipzap.biz.id",
-            "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
-            "tls": {
-                "enabled": true,
-                "server_name": "aio.zipzap.biz.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
-                "headers": {
-                    "Host": "aio.zipzap.biz.id"
                 }
             }
         },

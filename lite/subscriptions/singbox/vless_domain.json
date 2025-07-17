@@ -161,7 +161,6 @@
                 "❔ XX | 🔴 | vless | @marzazad | 1",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
                 "❔ XX | 🔴 | vless | @maxvpnc | 9",
-                "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
@@ -198,13 +197,12 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
                 "🇺🇸 US | 🟢 | vless | @v2raying | 15",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 18",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇮🇷 IR | 🔴 | vless | @v2rayngvpn_1 | 8",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
@@ -221,6 +219,7 @@
                 "🇬🇧 GB | 🔴 | vless | @vpnfree85 | 0",
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
                 "❔ XX | 🔴 | vless | @vpnv2rayng90 | 0",
+                "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 19",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇺🇸 US | 🟢 | vless | @wbrovers | 0",
                 "🇺🇸 US | 🔴 | vless | @womanlifefreedomvpn | 16",
@@ -307,7 +306,6 @@
                 "❔ XX | 🔴 | vless | @marzazad | 1",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
                 "❔ XX | 🔴 | vless | @maxvpnc | 9",
-                "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
@@ -344,13 +342,12 @@
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
                 "🇺🇸 US | 🟢 | vless | @v2raying | 15",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
-                "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 18",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "🇮🇷 IR | 🔴 | vless | @v2rayngvpn_1 | 8",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
@@ -367,6 +364,7 @@
                 "🇬🇧 GB | 🔴 | vless | @vpnfree85 | 0",
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
                 "❔ XX | 🔴 | vless | @vpnv2rayng90 | 0",
+                "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 19",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇺🇸 US | 🟢 | vless | @wbrovers | 0",
                 "🇺🇸 US | 🔴 | vless | @womanlifefreedomvpn | 16",
@@ -1555,29 +1553,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
-            "type": "vless",
-            "server": "est01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "2a02cb25-0f58-4b19-a7a6-8c205fdb9042",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "86e999a2cdc2"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔴 | vless | @miov2ray | 11",
             "type": "vless",
             "server": "vip1.blackhats.shop",
@@ -2185,15 +2160,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "f37de868-a167-46ea-b16a-798d3800d50e",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -2310,7 +2276,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇸🇬 SG | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -2582,6 +2548,29 @@
             "uuid": "0eab9ab8-d0f0-4823-8af9-d1f95db842e8",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 19",
+            "type": "vless",
+            "server": "est01-vlr01.tcp-reset-club.net",
+            "server_port": 443,
+            "uuid": "2a02cb25-0f58-4b19-a7a6-8c205fdb9042",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "86e999a2cdc2"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @vpnwlf | 10",

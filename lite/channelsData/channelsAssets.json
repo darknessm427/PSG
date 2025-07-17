@@ -923,9 +923,10 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
-            "vmess"
+            "vmess",
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1430,8 +1431,8 @@
     },
     "meli_proxyy": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان خرید سرور وی پی ان ترید سیسکو آیپی ثابت vpn v2rayng vless vmess l2tp cisco",
@@ -2333,10 +2334,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vmess",
             "ss",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2452,8 +2453,8 @@
     },
     "v2rayng_fars": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "v2rayng fars",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fars.jpg"
@@ -2836,8 +2837,8 @@
     },
     "vpnaloo": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "رفع فیلتر | پروکسی",
