@@ -334,7 +334,8 @@
     "configfa": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "configfa",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configfa.jpg"
@@ -383,7 +384,6 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess",
             "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -643,9 +643,7 @@
     "entrynet": {
         "types": [
             "vless",
-            "trojan",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": ".::entryNET::. Free v2ray vpn &amp; proxy | وی پی ان و پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/entrynet.jpg"
@@ -665,13 +663,6 @@
         ],
         "title": "𝗩2𝗥𝗔𝗬 | 𝗩𝗣𝗡| بکاپ کلاینت پرو فیلتر‌شکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/expressvpn_420.jpg"
-    },
-    "f_nirevil": {
-        "types": [
-            "vless"
-        ],
-        "title": "File REvil",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/f_nirevil.jpg"
     },
     "falcunargo": {
         "types": [
@@ -917,8 +908,9 @@
     },
     "freeconfigsplus": {
         "types": [
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "CONFIGS",
         "logo": ""
@@ -1094,8 +1086,8 @@
     },
     "gh_v2rayng": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "𝗩𝟮𝗿𝗮𝘆 𝗚𝗮𝗹𝗮𝘅𝘆",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/gh_v2rayng.jpg"
@@ -1202,9 +1194,9 @@
     "hope_net": {
         "types": [
             "vless",
-            "trojan",
             "ss",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1732,7 +1724,6 @@
     },
     "manzariyeh_rasht": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "🌲🌲منظریه نگـو بهشت رشت بگـو🌴🌴",
@@ -2057,7 +2048,6 @@
     },
     "netmellianti": {
         "types": [
-            "trojan",
             "vless",
             "vmess"
         ],
@@ -2322,8 +2312,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2963,8 +2953,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss",
             "trojan"
         ],
@@ -3073,8 +3063,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "vmess",
-            "ss",
             "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -3103,8 +3091,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -3377,8 +3365,7 @@
     },
     "v2rayweb": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -4045,13 +4032,6 @@
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"
-    },
-    "zerov2shop": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2SHOP | v2rayNG فیلترشکن وی پی ان ویتوری",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerov2shop.jpg"
     },
     "zibanabz": {
         "types": [

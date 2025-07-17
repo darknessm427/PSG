@@ -98,10 +98,10 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 17",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
@@ -125,6 +125,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
@@ -143,10 +144,10 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @getconfigir | 17",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
@@ -170,6 +171,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayexpress | 10",
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
@@ -282,25 +284,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @getconfigir | 17",
-            "type": "vless",
-            "server": "172.237.147.79",
-            "server_port": 443,
-            "uuid": "a409d129-70fe-4bc4-906b-73985847e6ab",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "172.237.147.79",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -351,6 +335,24 @@
                     "enabled": true,
                     "public_key": "wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE",
                     "short_id": "b6f9"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 18",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 2083,
+            "uuid": "011d10db-1401-4573-b7b0-ba45ad4da4d4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -727,6 +729,24 @@
             "uuid": "V2rayNGFreeeV2rayNGFreee",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 12",
+            "type": "vless",
+            "server": "172.237.147.79",
+            "server_port": 443,
+            "uuid": "a409d129-70fe-4bc4-906b-73985847e6ab",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.237.147.79",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",

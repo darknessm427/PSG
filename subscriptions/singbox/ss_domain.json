@@ -91,15 +91,13 @@
                 "direct",
                 "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
+                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 10",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @config_proxy | 68",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "❔ XX | 🟢 | ss | @entrynet | 18",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
-                "❔ XX | 🟢 | ss | @hope_net | 19",
+                "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
+                "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
@@ -132,15 +130,13 @@
             "outbounds": [
                 "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
+                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 10",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @config_proxy | 68",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "❔ XX | 🟢 | ss | @entrynet | 18",
-                "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
-                "❔ XX | 🟢 | ss | @hope_net | 19",
+                "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
+                "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
@@ -191,12 +187,12 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
+            "tag": "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 10",
             "type": "shadowsocks",
-            "server": "series-a2.varzesh360.co",
-            "server_port": 443,
+            "server": "fin.outlinebot1.ru",
+            "server_port": 5904,
             "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
+            "password": "5TZnwPb23pQS39lIucspJw"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @chestertm | 10",
@@ -215,14 +211,6 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @config_proxy | 68",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
@@ -239,28 +227,20 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "❔ XX | 🟢 | ss | @entrynet | 18",
+            "tag": "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
             "type": "shadowsocks",
-            "server": "zx1.1010520.xyz",
-            "server_port": 34857,
+            "server": "series-a2.varzesh360.co",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "f5136746-de79-46d0-b3be-d15d9992fa07"
+            "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
+            "tag": "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
             "type": "shadowsocks",
-            "server": "fin.outlinebot1.ru",
-            "server_port": 5904,
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "5TZnwPb23pQS39lIucspJw"
-        },
-        {
-            "tag": "❔ XX | 🟢 | ss | @hope_net | 19",
-            "type": "shadowsocks",
-            "server": "zx1.1010520.xyz",
-            "server_port": 30571,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f5136746-de79-46d0-b3be-d15d9992fa07"
+            "password": "u17T3BvpYaaiuW2c"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",

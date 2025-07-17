@@ -714,8 +714,9 @@
     },
     "freeconfigsplus": {
         "types": [
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "CONFIGS",
         "logo": ""
@@ -1651,7 +1652,6 @@
     },
     "netmellianti": {
         "types": [
-            "trojan",
             "vless",
             "vmess"
         ],
@@ -3033,12 +3033,5 @@
         ],
         "title": "白嫖のHome｜节点｜VPN｜订阅｜资源分享",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zdyz2.jpg"
-    },
-    "zerov2shop": {
-        "types": [
-            "vless"
-        ],
-        "title": "V2SHOP | v2rayNG فیلترشکن وی پی ان ویتوری",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerov2shop.jpg"
     }
 }
