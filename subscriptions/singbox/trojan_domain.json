@@ -89,10 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
-                "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 65",
-                "🇹🇼 TW | 🟢 | trojan | @NamiraNet | 66",
-                "🇨🇦 CA | 🔴 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -105,7 +101,9 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -116,10 +114,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
-                "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 65",
-                "🇹🇼 TW | 🟢 | trojan | @NamiraNet | 66",
-                "🇨🇦 CA | 🔴 | trojan | @NamiraNet | 67",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -132,7 +126,9 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
+                "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -145,75 +141,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | trojan | @NamiraNet | 64",
-            "type": "trojan",
-            "server": "usa.liangyuandian.top",
-            "server_port": 443,
-            "password": "58dcd460-65df-47b1-b062-517df30bef29",
-            "tls": {
-                "enabled": true,
-                "server_name": "usa.liangyuandian.top",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 65",
-            "type": "trojan",
-            "server": "aio.zipzap.biz.id",
-            "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
-            "tls": {
-                "enabled": true,
-                "server_name": "aio.zipzap.biz.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
-                "headers": {
-                    "Host": "aio.zipzap.biz.id"
-                }
-            }
-        },
-        {
-            "tag": "🇹🇼 TW | 🟢 | trojan | @NamiraNet | 66",
-            "type": "trojan",
-            "server": "official.taipeicitygovernment.ivano-frankivsk.ua",
-            "server_port": 8443,
-            "password": "96983eb4-c8f1-316e-ab00-500014ed3d8b",
-            "tls": {
-                "enabled": true,
-                "server_name": "official.taipeicitygovernment.ivano-frankivsk.ua",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | trojan | @NamiraNet | 67",
-            "type": "trojan",
-            "server": "aio.zipzap.biz.id",
-            "server_port": 80,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
-            "transport": {
-                "type": "ws",
-                "path": "/aioproxybot/129.150.49.58-18650",
-                "headers": {
-                    "Host": "aio.zipzap.biz.id"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -449,6 +376,22 @@
             }
         },
         {
+            "tag": "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
+            "type": "trojan",
+            "server": "a10.taipeicitygovernment.kyiv.ua",
+            "server_port": 3462,
+            "password": "6e1b9a65-884f-3aa9-9469-bf6ec0f08610",
+            "tls": {
+                "enabled": true,
+                "server_name": "45.32.28.232",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
             "type": "trojan",
             "server": "170-187-134-190.ipv4.rush.ml",
@@ -457,6 +400,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "170-187-134-190.ipv4.rush.ml",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
+            "type": "trojan",
+            "server": "uknode.soon.guru",
+            "server_port": 40006,
+            "password": "79",
+            "tls": {
+                "enabled": true,
+                "server_name": "uknode.soon.guru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
