@@ -101,9 +101,8 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -126,9 +125,8 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
+                "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 9",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
@@ -376,18 +374,16 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🟢 | trojan | @v2raych | 19",
+            "tag": "🇺🇸 US | 🔴 | trojan | @v2raych | 15",
             "type": "trojan",
-            "server": "a10.taipeicitygovernment.kyiv.ua",
-            "server_port": 3462,
-            "password": "6e1b9a65-884f-3aa9-9469-bf6ec0f08610",
-            "tls": {
-                "enabled": true,
-                "server_name": "45.32.28.232",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "server": "aio.zipzap.biz.id",
+            "server_port": 80,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "transport": {
+                "type": "ws",
+                "path": "/aioproxybot/129.150.49.58-18650",
+                "headers": {
+                    "Host": "aio.zipzap.biz.idتعداد"
                 }
             }
         },
@@ -400,22 +396,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "170-187-134-190.ipv4.rush.ml",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | trojan | @v2rayweb | 10",
-            "type": "trojan",
-            "server": "uknode.soon.guru",
-            "server_port": 40006,
-            "password": "79",
-            "tls": {
-                "enabled": true,
-                "server_name": "uknode.soon.guru",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

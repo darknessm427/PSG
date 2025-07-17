@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -187,6 +186,7 @@
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @rez1vpn | 1",
+                "🇮🇷 IR | 🔴 | vless | @selinc | 9",
                 "🇺🇸 US | 🟢 | vless | @shadowsocksshop | 0",
                 "🇺🇸 US | 🔴 | vless | @shahedtec | 4",
                 "🇮🇷 IR | 🔴 | vless | @tobevasl | 16",
@@ -206,7 +206,7 @@
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
@@ -236,7 +236,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -334,6 +333,7 @@
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @rez1vpn | 1",
+                "🇮🇷 IR | 🔴 | vless | @selinc | 9",
                 "🇺🇸 US | 🟢 | vless | @shadowsocksshop | 0",
                 "🇺🇸 US | 🔴 | vless | @shahedtec | 4",
                 "🇮🇷 IR | 🔴 | vless | @tobevasl | 16",
@@ -353,7 +353,7 @@
                 "🇮🇷 IR | 🟢 | vless | @v2rayngc | 18",
                 "❔ XX | 🟢 | vless | @v2rayngchaannel | 9",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "🇺🇸 US | 🔴 | vless | @v2rayngrr13 | 0",
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
@@ -385,22 +385,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
-            "type": "vless",
-            "server": "GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk",
-            "server_port": 80,
-            "uuid": "935c990a-9bcc-484b-86a2-2a402f9ad1d4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
@@ -2004,6 +1988,15 @@
             }
         },
         {
+            "tag": "🇮🇷 IR | 🔴 | vless | @selinc | 9",
+            "type": "vless",
+            "server": "finland.a1mshop2.xyz",
+            "server_port": 11662,
+            "uuid": "85ad8b72-7a9e-4603-abd2-1c5a553f9b4a",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | vless | @shadowsocksshop | 0",
             "type": "vless",
             "server": "sub.shadowsokstes.WoRkErs.DeV",
@@ -2360,7 +2353,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

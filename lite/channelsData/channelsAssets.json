@@ -11,7 +11,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -1423,9 +1424,9 @@
     },
     "meli_proxyy": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان خرید سرور وی پی ان ترید سیسکو آیپی ثابت vpn v2rayng vless vmess l2tp cisco",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/meli_proxyy.jpg"
@@ -1789,8 +1790,8 @@
     },
     "outline_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2327,8 +2328,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "trojan",
+            "ss",
             "vmess",
             "vless"
         ],
@@ -2625,16 +2626,6 @@
         "title": "V2ray.vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayy_vpn13.jpg"
     },
-    "v2rayzone": {
-        "types": [
-            "vmess",
-            "trojan",
-            "ss",
-            "vless"
-        ],
-        "title": "V2ray Zone ⚠️",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayzone.jpg"
-    },
     "v2ryngfree": {
         "types": [
             "vless",
@@ -2646,9 +2637,8 @@
     },
     "v2source": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"

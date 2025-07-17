@@ -101,6 +101,7 @@
                 "🇺🇸 US | 🔴 | vless | @ehsawn8 | 1",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 3",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇺🇸 US | 🔴 | vless | @entrynet | 18",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
@@ -114,14 +115,13 @@
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
+                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 11",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2graphy | 9",
@@ -152,6 +152,7 @@
                 "🇺🇸 US | 🔴 | vless | @ehsawn8 | 1",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 3",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇺🇸 US | 🔴 | vless | @entrynet | 18",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
@@ -165,14 +166,13 @@
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
-                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
+                "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 11",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2graphy | 9",
@@ -299,6 +299,15 @@
             "server": "germany.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "55d7c587-7d65-4cd2-a51a-0a7fb6a63285",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @entrynet | 18",
+            "type": "vless",
+            "server": "bos.lebasnoo.ir",
+            "server_port": 80,
+            "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -434,7 +443,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+            "tag": "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 15416,
@@ -529,30 +538,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
-            "type": "vless",
-            "server": "vip1.proxystore11.news",
-            "server_port": 2052,
-            "uuid": "dabea505-7584-43ea-9d80-25be7d81a00d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "vultr.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io",
-                    "short_id": "f8fcb589"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 15110,

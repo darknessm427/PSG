@@ -105,7 +105,6 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 125",
-                "🇺🇸 US | 🟢 | vless | @selinc | 9",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
@@ -129,7 +128,7 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -156,7 +155,6 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 125",
-                "🇺🇸 US | 🟢 | vless | @selinc | 9",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
@@ -180,7 +178,7 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -572,29 +570,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @selinc | 9",
-            "type": "vless",
-            "server": "103.175.79.10",
-            "server_port": 443,
-            "uuid": "49ed01ad-3bb4-204f-b0ff-a58f658fd618",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI",
-                    "short_id": ""
-                }
             }
         },
         {
@@ -1175,7 +1150,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
