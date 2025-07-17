@@ -120,6 +120,7 @@
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
+                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
@@ -143,7 +144,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
@@ -155,7 +156,7 @@
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 18",
+                "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
@@ -171,8 +172,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15"
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -211,6 +211,7 @@
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
+                "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
@@ -234,7 +235,7 @@
                 "🇺🇸 US | 🔴 | vless | @dailyv2ry | 133",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann | 16",
                 "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
@@ -246,7 +247,7 @@
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 18",
+                "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
@@ -262,8 +263,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2raymelliii | 4",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15"
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -618,6 +618,15 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @proxy_mtproto_vpns_free | 11",
+            "type": "vless",
+            "server": "hibbb.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "492a4865-6617-4cec-ad21-294316edeb09",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
             "type": "vless",
             "server": "bos.lebasnoo.ir",
@@ -866,7 +875,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 15",
+            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -1044,7 +1053,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 18",
+            "tag": "🇫🇷 FR | 🟢 | vless | @meli_proxyy | 14",
             "type": "vless",
             "server": "78.138.118.228",
             "server_port": 80,
@@ -1334,29 +1343,6 @@
             "uuid": "64eabf2c-f24a-492c-bdfa-b02a7ebda17c",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15",
-            "type": "vless",
-            "server": "104.248.194.230",
-            "server_port": 80,
-            "uuid": "7af2ce13-cba4-4169-b5b6-2cafac25c8d3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "marzijooon.adas.monster",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE",
-                    "short_id": "2a70224f5466"
-                }
-            }
         }
     ],
     "route": {

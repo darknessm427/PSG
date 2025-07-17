@@ -139,12 +139,11 @@
                 "🇺🇸 US | 🟢 | vless | @mahdivpn2 | 4",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇺🇸 US | 🟢 | vless | @meli_proxyy | 21",
                 "🇸🇪 SE | 🔴 | vless | @meli_v2rayng | 25",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇮🇷 IR | 🔴 | vless | @mimitdl | 6",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇮🇷 IR | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
                 "🇺🇸 US | 🔴 | vless | @mr_vpn123 | 7",
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
@@ -156,7 +155,7 @@
                 "🇮🇷 IR | 🔴 | vless | @norbertpro_vpn | 0",
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 2",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @proxycrone | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -259,12 +258,11 @@
                 "🇺🇸 US | 🟢 | vless | @mahdivpn2 | 4",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
-                "🇺🇸 US | 🟢 | vless | @meli_proxyy | 21",
                 "🇸🇪 SE | 🔴 | vless | @meli_v2rayng | 25",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇮🇷 IR | 🔴 | vless | @mimitdl | 6",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+                "🇮🇷 IR | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
                 "🇺🇸 US | 🔴 | vless | @mr_vpn123 | 7",
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
@@ -276,7 +274,7 @@
                 "🇮🇷 IR | 🔴 | vless | @norbertpro_vpn | 0",
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 2",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🔴 | vless | @proxycrone | 5",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
@@ -1225,31 +1223,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @meli_proxyy | 21",
-            "type": "vless",
-            "server": "104.16.243.59",
-            "server_port": 443,
-            "uuid": "75fde681-ec64-4654-86fa-30732e8e179c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "NGINX.NSCl.IR",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/assets",
-                "headers": {
-                    "Host": "NGINX.NSCl.IR"
-                }
-            }
-        },
-        {
             "tag": "🇸🇪 SE | 🔴 | vless | @meli_v2rayng | 25",
             "type": "vless",
             "server": "185.146.173.95",
@@ -1307,29 +1280,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 3",
+            "tag": "🇮🇷 IR | 🔴 | vless | @mowjproxy | 4",
             "type": "vless",
-            "server": "172.67.65.158",
-            "server_port": 443,
-            "uuid": "38046915-6d82-4d86-8510-b5bcc569d0ea",
+            "server": "193.228.91.7",
+            "server_port": 31291,
+            "uuid": "1cef7644-7da6-4652-a407-c1119b53f48e",
             "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "PaGes.deV",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "PaGes.deV"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
@@ -1513,16 +1470,16 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+            "tag": "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 13",
             "type": "vless",
-            "server": "104.18.29.253",
+            "server": "104.16.122.80",
             "server_port": 443,
-            "uuid": "9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c",
+            "uuid": "90d7db9b-972b-4073-8738-12cf42124260",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "kawaiifreevpn-7ds.pages.dev",
+                "server_name": "kawaiifreevpn.pages.dev",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -1533,7 +1490,7 @@
                 "type": "ws",
                 "path": "/?ed=2560",
                 "headers": {
-                    "Host": "kawaiifreevpn-7ds.pages.dev"
+                    "Host": "kawaiifreevpn.pages.dev"
                 }
             }
         },

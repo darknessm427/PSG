@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 66",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
@@ -127,6 +128,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 66",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 5",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
@@ -167,6 +169,14 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇨🇭 CH | 🟢 | ss | @NamiraNet | 66",
+            "type": "shadowsocks",
+            "server": "h110vpnch.outlinekeys.net",
+            "server_port": 4248,
+            "method": "chacha20-ietf-poly1305",
+            "password": "jw0DMgt0Q38j8aXiPuVIFS"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",

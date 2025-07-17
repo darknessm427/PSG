@@ -128,7 +128,7 @@
                 "🇺🇸 US | 🟢 | vmess | @v2graphy | 12",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
-                "🇹🇷 TR | 🔴 | vmess | @v2ray_free_conf | 18",
+                "🇺🇸 US | 🔴 | vmess | @v2ray_free_conf | 18",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
                 "🇫🇷 FR | 🔴 | vmess | @v2raying | 15",
                 "🇬🇧 GB | 🔴 | vmess | @v2rayng3 | 6",
@@ -185,7 +185,7 @@
                 "🇺🇸 US | 🟢 | vmess | @v2graphy | 12",
                 "🇩🇪 DE | 🔴 | vmess | @v2ray4win | 7",
                 "🇺🇸 US | 🟢 | vmess | @v2ray_fd | 0",
-                "🇹🇷 TR | 🔴 | vmess | @v2ray_free_conf | 18",
+                "🇺🇸 US | 🔴 | vmess | @v2ray_free_conf | 18",
                 "❔ XX | 🔴 | vmess | @v2ray_n | 19",
                 "🇫🇷 FR | 🔴 | vmess | @v2raying | 15",
                 "🇬🇧 GB | 🔴 | vmess | @v2rayng3 | 6",
@@ -799,13 +799,20 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔴 | vmess | @v2ray_free_conf | 18",
+            "tag": "🇺🇸 US | 🔴 | vmess | @v2ray_free_conf | 18",
             "type": "vmess",
-            "server": "176.120.73.36",
-            "server_port": 3690,
-            "uuid": "aea09291-8c74-4c37-8864-d9360025a74b",
+            "server": "npmjs.com",
+            "server_port": 8080,
+            "uuid": "hxsjjqm71a",
             "security": "auto",
-            "alter_id": 0
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/nasnet/cdn",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔴 | vmess | @v2ray_n | 19",
