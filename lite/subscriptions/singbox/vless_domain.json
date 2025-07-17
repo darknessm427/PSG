@@ -109,7 +109,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -124,6 +124,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
+                "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
                 "❔ XX | 🟢 | vless | @freev2raym | 10",
@@ -137,7 +138,6 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
-                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -253,7 +253,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -268,6 +268,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
+                "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
                 "❔ XX | 🟢 | vless | @freev2raym | 10",
@@ -281,7 +282,6 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
-                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -701,7 +701,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -916,6 +916,15 @@
                     "Host": "discord.gg"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
+            "type": "vless",
+            "server": "n4.asmdns.net",
+            "server_port": 44185,
+            "uuid": "4988687e-df1b-45e6-8f7e-fde45b270d76",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
@@ -1147,22 +1156,6 @@
                 "path": "/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560",
                 "headers": {
                     "Host": "PaGes.deV"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
-            "type": "vless",
-            "server": "fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk",
-            "server_port": 80,
-            "uuid": "7f09e7b4-4680-4653-a2da-307d110b6961",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk"
                 }
             }
         },
