@@ -24,7 +24,7 @@ dns:
 
 proxies: 
   - {"name":"🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3","type":"vmess","server":"tu.shoptx.sbs","port":15400,"cipher":"auto","uuid":"cc660614-1172-4988-9647-3846502d0e4f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇭 CH | 🔴 | vmess | @appsooner | 6","type":"vmess","server":"::ffff:33c3:65de","port":3001,"cipher":"auto","uuid":"a7c264bd-a2c5-43db-8a5b-a2c3bd19b9ae","alterId":"0","tls":false,"skip-cert-verify":true,"network":"kcp"}
+  - {"name":"🇩🇪 DE | 🔴 | vmess | @appsooner | 6","type":"vmess","server":"::ffff:33c3:65de","port":3001,"cipher":"auto","uuid":"a7c264bd-a2c5-43db-8a5b-a2c3bd19b9ae","alterId":"0","tls":false,"skip-cert-verify":true,"network":"kcp"}
   - {"name":"❔ XX | 🔴 | vmess | @armodchannel | 61","type":"vmess","server":"asia.artunnel57.host","port":443,"cipher":"auto","uuid":"65e44501-defd-4609-a4e3-7028dc417b50","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess-tls","headers":{"Host":"asia.artunnel57.host"}}}
   - {"name":"❔ XX | 🔴 | vmess | @armodchannel | 62","type":"vmess","server":"asia.artunnel57.host","port":80,"cipher":"auto","uuid":"65e44501-defd-4609-a4e3-7028dc417b50","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess-ntls","headers":{"Host":"asia.artunnel57.host"}}}
   - {"name":"🇩🇪 DE | 🔴 | vmess | @avaalvpn | 0","type":"vmess","server":"CoRe.CeNtRaLnEt.iR","port":4951,"cipher":"auto","uuid":"46d1dbfa-b0a2-43f7-ab13-a6fbf90387ac","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -219,7 +219,7 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3'
-      - '🇨🇭 CH | 🔴 | vmess | @appsooner | 6'
+      - '🇩🇪 DE | 🔴 | vmess | @appsooner | 6'
       - '❔ XX | 🔴 | vmess | @armodchannel | 61'
       - '❔ XX | 🔴 | vmess | @armodchannel | 62'
       - '🇩🇪 DE | 🔴 | vmess | @avaalvpn | 0'

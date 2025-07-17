@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇰🇷 KR | 🟢 | ss | @argo_vpn1 | 7",
+                "🇦🇹 AT | 🟢 | ss | @argo_vpn1 | 7",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
@@ -98,8 +98,7 @@
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 9",
-                "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
+                "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇨🇾 CY | 🟢 | ss | @kingofilter | 7",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -112,7 +111,6 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇳🇱 NL | 🟢 | ss | @summertimeus | 14",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
-                "🇨🇴 CO | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
@@ -125,7 +123,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇰🇷 KR | 🟢 | ss | @argo_vpn1 | 7",
+                "🇦🇹 AT | 🟢 | ss | @argo_vpn1 | 7",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
@@ -133,8 +131,7 @@
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @info_2it_channel | 13",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 9",
-                "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
+                "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇨🇾 CY | 🟢 | ss | @kingofilter | 7",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -147,7 +144,6 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
                 "🇳🇱 NL | 🟢 | ss | @summertimeus | 14",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
-                "🇨🇴 CO | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
                 "🇵🇱 PL | 🟢 | ss | @vipufovpn | 19",
                 "🇺🇸 US | 🟢 | ss | @vmessiranproxy | 19",
@@ -171,12 +167,12 @@
             "password": "Ib9hxFZxUH4m"
         },
         {
-            "tag": "🇰🇷 KR | 🟢 | ss | @argo_vpn1 | 7",
+            "tag": "🇦🇹 AT | 🟢 | ss | @argo_vpn1 | 7",
             "type": "shadowsocks",
-            "server": "220.124.31.130",
-            "server_port": 19378,
-            "method": "aes-256-gcm",
-            "password": "NiznLvoIuy"
+            "server": "95.163.176.37",
+            "server_port": 8506,
+            "method": "chacha20-ietf-poly1305",
+            "password": "eUh4lSpi7nOYj0vSrqLUh0"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
@@ -235,15 +231,7 @@
             "password": "kTjlLxrncKx4i2HIjxfA3M"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @ip_cf_config | 9",
-            "type": "shadowsocks",
-            "server": "193.29.139.251",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | ss | @jiedianf | 8",
+            "tag": "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
             "type": "shadowsocks",
             "server": "194.87.216.121",
             "server_port": 443,
@@ -345,14 +333,6 @@
             "server_port": 666,
             "method": "chacha20-ietf-poly1305",
             "password": "427395387a9379ca"
-        },
-        {
-            "tag": "🇨🇴 CO | 🟢 | ss | @v2ray_free_conf | 19",
-            "type": "shadowsocks",
-            "server": "181.119.30.20",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "f8f7aCzcPKbsF8p3"
         },
         {
             "tag": "🇹🇷 TR | 🟢 | ss | @v2rayngvvpn | 27",
