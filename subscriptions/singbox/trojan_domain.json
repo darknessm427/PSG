@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -112,6 +113,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -137,6 +139,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
+            "type": "trojan",
+            "server": "au-full.privateip.net",
+            "server_port": 443,
+            "password": "882f187b-feb1-4be7-8678-32460f1ecfe6",
+            "tls": {
+                "enabled": true,
+                "server_name": "au-full.privateip.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",

@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -112,6 +113,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 16",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇯🇵 JP | 🔴 | trojan | @entrynet | 15",
+                "🇯🇵 JP | 🔴 | trojan | @entrynet | 19",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 10",
@@ -126,6 +129,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
+                "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 18",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -145,6 +149,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
@@ -168,6 +173,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 16",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 17",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇯🇵 JP | 🔴 | trojan | @entrynet | 15",
+                "🇯🇵 JP | 🔴 | trojan | @entrynet | 19",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 10",
@@ -182,6 +189,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
+                "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 18",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -203,6 +211,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇦🇺 AU | 🟢 | trojan | @NamiraNet | 66",
+            "type": "trojan",
+            "server": "au-full.privateip.net",
+            "server_port": 443,
+            "password": "882f187b-feb1-4be7-8678-32460f1ecfe6",
+            "tls": {
+                "enabled": true,
+                "server_name": "au-full.privateip.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -619,6 +643,38 @@
             }
         },
         {
+            "tag": "🇯🇵 JP | 🔴 | trojan | @entrynet | 15",
+            "type": "trojan",
+            "server": "94.177.131.205",
+            "server_port": 443,
+            "password": "3723507166611775488",
+            "tls": {
+                "enabled": true,
+                "server_name": "unbiased-manatee.boa152.lol",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇯🇵 JP | 🔴 | trojan | @entrynet | 19",
+            "type": "trojan",
+            "server": "94.177.131.205",
+            "server_port": 443,
+            "password": "3723507166611775488",
+            "tls": {
+                "enabled": true,
+                "server_name": "unbiased-manatee.boa152.lol",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
             "type": "trojan",
             "server": "91.107.141.0",
@@ -849,6 +905,29 @@
             "transport": {
                 "type": "ws",
                 "path": "/Stupid-World/103.106.228.126-2053",
+                "headers": {
+                    "Host": "vpn.stupidworld.web.id"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 18",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn.stupidworld.web.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Tel-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS",
                 "headers": {
                     "Host": "vpn.stupidworld.web.id"
                 }

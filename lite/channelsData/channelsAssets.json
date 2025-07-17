@@ -243,8 +243,8 @@
     },
     "club_profsor": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "VPN | Professor Club",
@@ -529,8 +529,8 @@
     },
     "farahvpn": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "FarahVPN | فراح وی پی ان",
@@ -1515,8 +1515,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1919,8 +1919,7 @@
     },
     "proxycrone": {
         "types": [
-            "vless",
-            "trojan"
+            "vless"
         ],
         "title": "پروکسی VPN | کانفیگ V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxycrone.jpg"
@@ -2265,7 +2264,8 @@
     },
     "v2graphy": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "v2rayNG config",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2graphy.jpg"
@@ -2329,8 +2329,8 @@
     "v2ray_free_conf": {
         "types": [
             "ss",
-            "vmess",
             "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2422,9 +2422,9 @@
     },
     "v2raying": {
         "types": [
-            "vless",
+            "vmess",
             "ss",
-            "vmess"
+            "vless"
         ],
         "title": "v2rayNG_VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raying.jpg"
@@ -2447,7 +2447,8 @@
     },
     "v2rayng_fars": {
         "types": [
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "v2rayng fars",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_fars.jpg"
