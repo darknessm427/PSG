@@ -103,7 +103,7 @@
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
-                "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 12",
+                "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 11",
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -111,6 +111,7 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 4",
+                "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 17",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -142,7 +143,7 @@
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
-                "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 12",
+                "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 11",
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
@@ -150,6 +151,7 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 4",
+                "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 17",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -283,7 +285,7 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
-            "tag": "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 12",
+            "tag": "🇹🇷 TR | 🟢 | ss | @proxy_mtproto_vpns_free | 11",
             "type": "shadowsocks",
             "server": "tr.vpnsparta.pro",
             "server_port": 57456,
@@ -345,6 +347,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 17",
+            "type": "shadowsocks",
+            "server": "exchange.gameaurela.click",
+            "server_port": 52952,
+            "method": "chacha20-ietf-poly1305",
+            "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",

@@ -92,15 +92,17 @@
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
+                "🇩🇪 DE | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+                "🇦🇲 AM | 🔴 | trojan | @hope_net | 20",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15"
+                "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 15"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,15 +113,17 @@
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
+                "🇩🇪 DE | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+                "🇦🇲 AM | 🔴 | trojan | @hope_net | 20",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15"
+                "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 15"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -190,9 +194,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @directvpn | 15",
             "type": "trojan",
-            "server": "13.38.215.131",
+            "server": "63.179.32.181",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -227,6 +231,36 @@
                     "Host": "vpn.stupidworld.web.id"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 16",
+            "type": "trojan",
+            "server": "172.67.135.37",
+            "server_port": 443,
+            "password": "cf8c791e-9d0b-4e90-aaf6-41ac62468416",
+            "tls": {
+                "enabled": true,
+                "server_name": "IiiIiiIIIIIiO.459.pP.UA",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/XkJmZCwVxJO8180gomOew3d",
+                "headers": {
+                    "Host": "IiiIiiIIIIIiO.459.pP.UA"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇲 AM | 🔴 | trojan | @hope_net | 20",
+            "type": "trojan",
+            "server": "188.164.159.214",
+            "server_port": 2083,
+            "password": "SSorg"
         },
         {
             "tag": "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -268,9 +302,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
             "type": "trojan",
-            "server": "13.38.215.131",
+            "server": "63.179.32.181",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -332,9 +366,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 15",
             "type": "trojan",
-            "server": "13.38.215.131",
+            "server": "63.179.32.181",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {
