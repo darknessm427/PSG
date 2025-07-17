@@ -103,7 +103,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -186,7 +186,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
-                "🇺🇸 US | 🟢 | vless | @v2raych | 17",
                 "🇸🇬 SG | 🟢 | vless | @v2rayexpress | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayexpress | 7",
                 "🇪🇸 ES | 🟢 | vless | @v2rayexpress | 8",
@@ -238,7 +237,6 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -332,7 +330,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -415,7 +413,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
-                "🇺🇸 US | 🟢 | vless | @v2raych | 17",
                 "🇸🇬 SG | 🟢 | vless | @v2rayexpress | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayexpress | 7",
                 "🇪🇸 ES | 🟢 | vless | @v2rayexpress | 8",
@@ -467,7 +464,6 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇩🇪 DE | 🟢 | vless | @game_file2020 | 2",
-                "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
                 "🇩🇪 DE | 🟢 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
@@ -893,7 +889,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "194.182.79.117",
             "server_port": 35307,
@@ -2981,29 +2977,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2raych | 17",
-            "type": "vless",
-            "server": "54.196.69.130",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
-                }
-            }
-        },
-        {
             "tag": "🇸🇬 SG | 🟢 | vless | @v2rayexpress | 6",
             "type": "vless",
             "server": "5.223.42.211",
@@ -4253,33 +4226,6 @@
                     "public_key": "-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io",
                     "short_id": "f8fcb589"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "server1.fergalvpnmod.com",
-            "server_port": 28338,
-            "uuid": "0b9ee474-19f6-4d7f-9281-96f239e6cebc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw",
-                    "short_id": "9ecc4615ce"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@FergalVpnMod"
             }
         },
         {

@@ -103,7 +103,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -186,7 +186,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
-                "🇺🇸 US | 🟢 | vless | @v2raych | 17",
                 "🇸🇬 SG | 🟢 | vless | @v2rayexpress | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayexpress | 7",
                 "🇪🇸 ES | 🟢 | vless | @v2rayexpress | 8",
@@ -238,7 +237,7 @@
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 7",
                 "🇨🇿 CZ | 🟢 | vless | @dnsforyou | 4",
                 "🇳🇱 NL | 🟢 | vless | @dnsforyou | 5",
-                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+                "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
                 "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
@@ -321,7 +320,6 @@
                 "🇸🇪 SE | 🟢 | vless | @v2ray_sos | 0",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_vmes | 13",
-                "🇺🇸 US | 🟢 | vless | @v2raych | 17",
                 "🇸🇬 SG | 🟢 | vless | @v2rayexpress | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayexpress | 7",
                 "🇪🇸 ES | 🟢 | vless | @v2rayexpress | 8",
@@ -705,7 +703,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 14",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @falcunargo | 12",
             "type": "vless",
             "server": "194.182.79.117",
             "server_port": 35307,
@@ -2789,29 +2787,6 @@
                     "enabled": true,
                     "public_key": "XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM",
                     "short_id": "5426024033df45"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2raych | 17",
-            "type": "vless",
-            "server": "54.196.69.130",
-            "server_port": 1212,
-            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
-                    "short_id": "a4844ba7"
                 }
             }
         },

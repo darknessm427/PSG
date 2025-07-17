@@ -89,16 +89,13 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇬🇧 GB | 🟢 | ss | @NamiraNet | 63",
-                "🇨🇦 CA | 🟢 | ss | @NamiraNet | 64",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 6",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇩🇪 DE | 🟢 | ss | @entrynet | 20",
-                "🇫🇮 FI | 🟢 | ss | @entrynet | 23",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -110,7 +107,7 @@
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
-                "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 16",
+                "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 4",
@@ -131,16 +128,13 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇬🇧 GB | 🟢 | ss | @NamiraNet | 63",
-                "🇨🇦 CA | 🟢 | ss | @NamiraNet | 64",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
                 "🇬🇧 GB | 🟢 | ss | @argo_vpn1 | 6",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
-                "🇩🇪 DE | 🟢 | ss | @entrynet | 20",
-                "🇫🇮 FI | 🟢 | ss | @entrynet | 23",
+                "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -152,7 +146,7 @@
                 "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
-                "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 16",
+                "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 15",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 4",
@@ -175,22 +169,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @NamiraNet | 63",
-            "type": "shadowsocks",
-            "server": "uk.opensocks.site",
-            "server_port": 1443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "YTQ0Z"
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | ss | @NamiraNet | 64",
-            "type": "shadowsocks",
-            "server": "ca.opensocks.site",
-            "server_port": 1443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "OGU5Z"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
@@ -241,20 +219,12 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @entrynet | 20",
+            "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
             "type": "shadowsocks",
             "server": "fin.outlinebot1.ru",
             "server_port": 5904,
             "method": "chacha20-ietf-poly1305",
             "password": "5TZnwPb23pQS39lIucspJw"
-        },
-        {
-            "tag": "🇫🇮 FI | 🟢 | ss | @entrynet | 23",
-            "type": "shadowsocks",
-            "server": "rusrv.vmagnum.win",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a58fa62b4944ddbf"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
@@ -345,7 +315,7 @@
             "password": "4e9ufa1a2jeANAVebF0wqN"
         },
         {
-            "tag": "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 16",
+            "tag": "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 15",
             "type": "shadowsocks",
             "server": "pt-1-sst.medicaldream.ir",
             "server_port": 8444,

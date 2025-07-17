@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 65",
                 "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
                 "🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16",
                 "🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2",
@@ -122,6 +121,7 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -148,6 +148,7 @@
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
                 "🇩🇪 DE | 🔴 | vless | @narco_nett | 18",
                 "🇩🇪 DE | 🔴 | vless | @narcod_ping | 14",
+                "🇺🇸 US | 🔴 | vless | @netmellianti | 15",
                 "🇺🇸 US | 🟢 | vless | @netspeedservice | 4",
                 "🇺🇸 US | 🟢 | vless | @new_proxy_channel | 8",
                 "🇺🇸 US | 🔴 | vless | @nitrovpne | 1",
@@ -184,6 +185,7 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 12",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
                 "🇺🇸 US | 🔴 | vless | @v2rayvx | 4",
+                "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -207,7 +209,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 65",
                 "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
                 "🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16",
                 "🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2",
@@ -239,6 +240,7 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
+                "🇺🇸 US | 🟢 | vless | @hope_net | 19",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -265,6 +267,7 @@
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
                 "🇩🇪 DE | 🔴 | vless | @narco_nett | 18",
                 "🇩🇪 DE | 🔴 | vless | @narcod_ping | 14",
+                "🇺🇸 US | 🔴 | vless | @netmellianti | 15",
                 "🇺🇸 US | 🟢 | vless | @netspeedservice | 4",
                 "🇺🇸 US | 🟢 | vless | @new_proxy_channel | 8",
                 "🇺🇸 US | 🔴 | vless | @nitrovpne | 1",
@@ -301,6 +304,7 @@
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 12",
                 "🇩🇪 DE | 🔴 | vless | @v2rayvmess | 17",
                 "🇺🇸 US | 🔴 | vless | @v2rayvx | 4",
+                "🇺🇸 US | 🟢 | vless | @v2source | 19",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
@@ -334,22 +338,6 @@
             "uuid": "a804bb53-7504-4f06-96d8-ff56fb71539d",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraNet | 65",
-            "type": "vless",
-            "server": "188.114.98.94",
-            "server_port": 8880,
-            "uuid": "89780139-39db-4ae9-adc5-00d9da4bb8b3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "188.114.98.94"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
@@ -924,6 +912,31 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @hope_net | 19",
+            "type": "vless",
+            "server": "151.101.2.228",
+            "server_port": 443,
+            "uuid": "dc32d81e-08e4-4ffc-b7a9-d7d3dfc7cdc2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
             "tag": "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
             "type": "vless",
             "server": "85.133.215.172",
@@ -1328,6 +1341,22 @@
             "uuid": "@narcod_ping",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @netmellianti | 15",
+            "type": "vless",
+            "server": "172.67.65.158",
+            "server_port": 8880,
+            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Etb1L6YUdZFZuTOr?ed=2560",
+                "headers": {
+                    "Host": "172.67.65.158"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @netspeedservice | 4",
@@ -1991,6 +2020,31 @@
                 "path": "/http",
                 "headers": {
                     "Host": "104.16.61.8"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2source | 19",
+            "type": "vless",
+            "server": "104.26.6.89",
+            "server_port": 443,
+            "uuid": "c5179990-6e22-484e-9f00-47fbc0491b88",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "PamcHalL.coM",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net",
+                "headers": {
+                    "Host": "PamcHalL.coM"
                 }
             }
         },

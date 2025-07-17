@@ -924,9 +924,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vless",
             "vmess",
+            "vless",
+            "trojan",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1523,8 +1523,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1661,7 +1661,6 @@
     },
     "netmellianti": {
         "types": [
-            "vmess",
             "vless",
             "trojan"
         ],
@@ -2335,9 +2334,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vless",
             "ss",
+            "trojan",
             "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2664,7 +2663,8 @@
     "v2source": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
@@ -2956,8 +2956,8 @@
     },
     "vpnv2rayngv": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "کانفینگ پروکسی وی توری نت ملی اسکوئید گیم خرید سرورفیلترشکن بازی مرکب وی پی ان اسکویید گیم ایران vpn v2rayNG vmess vless proxy",
