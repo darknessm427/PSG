@@ -10,7 +10,6 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔ XX | 🟢 | ss | @chestertm | 12 = ss, freakconfig94.usecharge.ir, 443, encrypt-method = chacha20-ietf-poly1305, password = W74XFALLLuw6m5IA
-🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7 = ss, series-a2.samanehha.co, 443, encrypt-method = chacha20-ietf-poly1305, password = mps3FwmDjLrWaOVg
 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
 ❔ XX | 🟢 | ss | @outlines_vpn | 5 = ss, www.outline.network.ak1915.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 8388, encrypt-method = chacha20-ietf-poly1305, password = NTdkZ
@@ -22,9 +21,9 @@ DIRECT = direct
 🇺🇸 US | 🟢 | ss | @vpn451 | 11 = ss, fox-usa.outlinekeys.net, 34868, encrypt-method = chacha20-ietf-poly1305, password = w5r3VHLtrPuYo3evoViKwi
 
 [Proxy Group]
-PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
-PSG-AUTO = url-test, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
-PSG-FALLBACK = fallback, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
+PSG-MANUAL = select, PSG-AUTO, PSG-FALLBACK, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
+PSG-AUTO = url-test, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
+PSG-FALLBACK = fallback, ❔ XX | 🟢 | ss | @chestertm | 12, 🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2, 🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0, ❔ XX | 🟢 | ss | @outlines_vpn | 5, 🇬🇧 GB | 🟢 | ss | @serverv2ray00 | 19, 🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7, 🇬🇧 GB | 🟢 | ss | @v2raybe | 6, 🇬🇧 GB | 🟢 | ss | @v2rayport | 13, ❔ XX | 🟢 | ss | @vpidiamond | 9, 🇺🇸 US | 🟢 | ss | @vpn451 | 11
 
 [Rule]
 GEOIP,IR,DIRECT

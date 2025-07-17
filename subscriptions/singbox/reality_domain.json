@@ -98,11 +98,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇩🇪 DE | 🟢 | vless | @entrynet | 15",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -129,7 +127,6 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 16",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
@@ -159,7 +156,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇪🇪 EE | 🟢 | vless | @vistav2ray | 10",
@@ -196,11 +192,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇩🇪 DE | 🟢 | vless | @configfa | 14",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇩🇪 DE | 🟢 | vless | @entrynet | 15",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -227,7 +221,6 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 21",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 16",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
@@ -257,7 +250,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇪🇪 EE | 🟢 | vless | @vistav2ray | 10",
@@ -504,29 +496,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @configfa | 14",
-            "type": "vless",
-            "server": "night.dl.darinips.com",
-            "server_port": 443,
-            "uuid": "cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "docker.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -596,29 +565,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @entrynet | 15",
-            "type": "vless",
-            "server": "ca.marzban-locations.com",
-            "server_port": 3041,
-            "uuid": "7a4efed4-deb5-45f0-bc2c-317fc811ec3f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
                 }
             }
         },
@@ -1276,29 +1222,6 @@
                     "enabled": true,
                     "public_key": "KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM",
                     "short_id": "1d72e9f5ba"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 12",
-            "type": "vless",
-            "server": "specxtech.ticketdatabase.info",
-            "server_port": 51566,
-            "uuid": "9c28e484-55ed-4756-a6dc-64a9ec7141da",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
-                    "short_id": "1ed94ed9"
                 }
             }
         },
@@ -1995,33 +1918,6 @@
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
                 }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2rayweb | 9",
-            "type": "vless",
-            "server": "neth.liitle-zoo.ir",
-            "server_port": 2025,
-            "uuid": "61e4792d-ac2f-4194-bcd7-0bc967f8a8f4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "sadf2341sad"
             }
         },
         {

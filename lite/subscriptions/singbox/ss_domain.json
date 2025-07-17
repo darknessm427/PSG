@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -108,7 +107,6 @@
             "interval": "10m",
             "outbounds": [
                 "❔ XX | 🟢 | ss | @chestertm | 12",
-                "🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -135,14 +133,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "W74XFALLLuw6m5IA"
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | ss | @ip_cf_config | 7",
-            "type": "shadowsocks",
-            "server": "series-a2.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",

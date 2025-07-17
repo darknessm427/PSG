@@ -382,9 +382,8 @@
     },
     "configshubplus": {
         "types": [
-            "ss",
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -642,9 +641,9 @@
     },
     "entrynet": {
         "types": [
-            "vless",
             "trojan",
-            "vmess"
+            "vless",
+            "ss"
         ],
         "title": ".::entryNET::. Free v2ray vpn &amp; proxy | وی پی ان و پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/entrynet.jpg"
@@ -845,7 +844,6 @@
     },
     "freakconfig": {
         "types": [
-            "vmess",
             "vless",
             "trojan",
             "ss"
@@ -1094,8 +1092,8 @@
     },
     "gh_v2rayng": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "𝗩𝟮𝗿𝗮𝘆 𝗚𝗮𝗹𝗮𝘅𝘆",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/gh_v2rayng.jpg"
@@ -1201,8 +1199,10 @@
     },
     "hope_net": {
         "types": [
+            "vless",
             "ss",
-            "vless"
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1900,8 +1900,7 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2174,16 +2173,16 @@
     },
     "outline_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
     },
     "outline_vpn": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Outline Vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_vpn.jpg"
@@ -2505,16 +2504,6 @@
         "title": "Rnrifci",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/rnrifci.jpg"
     },
-    "rsv2ray": {
-        "types": [
-            "vmess",
-            "vless",
-            "ss",
-            "trojan"
-        ],
-        "title": "Rs v2ray",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/rsv2ray.jpg"
-    },
     "satellitenewspersian": {
         "types": [
             "vless"
@@ -2539,8 +2528,8 @@
     },
     "selinc": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "فیلترشکنV2rayng",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
@@ -2591,13 +2580,6 @@
         ],
         "title": "Shadowsocks keys+Outline+OneClick VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/shadowsockskeys.jpg"
-    },
-    "shadowsocksserv": {
-        "types": [
-            "ss"
-        ],
-        "title": "سرور شادوساکس",
-        "logo": ""
     },
     "shadowsocksservers": {
         "types": [
@@ -3093,6 +3075,7 @@
     "v2raych": {
         "types": [
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -3162,8 +3145,8 @@
     },
     "v2rayng_1378": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "فیتلرشکن V2RAYNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_1378.jpg"
@@ -4087,7 +4070,8 @@
     },
     "zibanabz": {
         "types": [
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کانفیگ V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zibanabz.jpg"
