@@ -127,7 +127,8 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇬🇧 GB | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -176,7 +177,8 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇬🇧 GB | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇩🇪 DE | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -1125,7 +1127,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1144,6 +1146,29 @@
                     "enabled": true,
                     "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
                     "short_id": "f5"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2source | 19",
+            "type": "vless",
+            "server": "zzyd6dhd5.pet0er23mh21qq.com",
+            "server_port": 2096,
+            "uuid": "598a6cea-dfd2-4e97-9415-4571f742bf18",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },

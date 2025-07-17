@@ -89,8 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇦 CA | 🟢 | vless | @NamiraNet | 68",
-                "🇨🇦 CA | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -122,6 +120,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
+                "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
@@ -181,8 +180,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇦 CA | 🟢 | vless | @NamiraNet | 68",
-                "🇨🇦 CA | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -214,6 +211,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🟢 | vless | @proxie | 13",
+                "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
@@ -275,33 +273,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | vless | @NamiraNet | 68",
-            "type": "vless",
-            "server": "vioVPN.viocompany.site",
-            "server_port": 443,
-            "uuid": "2d37cd89-d6e5-4d58-a688-8b0208a48e6e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "viowpn.viocompany.site",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔴 | vless | @NamiraNet | 69",
-            "type": "vless",
-            "server": "bos.lebasnoo.ir",
-            "server_port": 80,
-            "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @appsooner | 8",
@@ -631,6 +602,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
+            "type": "vless",
+            "server": "bos.lebasnoo.ir",
+            "server_port": 80,
+            "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @proxygodratmand | 2",

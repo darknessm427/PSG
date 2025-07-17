@@ -801,10 +801,9 @@
     },
     "freevpnatm": {
         "types": [
-            "vless",
-            "hy2",
             "vmess",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "科學上网 free configs",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevpnatm.jpg"
@@ -926,8 +925,8 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss",
             "trojan",
+            "ss",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1524,8 +1523,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2336,9 +2335,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "vmess",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2664,8 +2663,9 @@
     },
     "v2source": {
         "types": [
+            "ss",
             "vless",
-            "ss"
+            "trojan"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
