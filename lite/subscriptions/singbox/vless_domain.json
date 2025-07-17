@@ -100,7 +100,6 @@
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
-                "🇫🇷 FR | 🔴 | vless | @club_profsor | 15",
                 "🇺🇸 US | 🔴 | vless | @config_proxy_ir | 18",
                 "❔ XX | 🟢 | vless | @config_vip7 | 3",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -217,7 +216,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 9",
                 "🇫🇮 FI | 🟢 | vless | @vpn_storm | 0",
-                "❔ XX | 🔴 | vless | @vpncaneel | 3",
                 "❔ XX | 🟢 | vless | @vpncostume | 8",
                 "🇮🇷 IR | 🔴 | vless | @vpnfree85 | 0",
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
@@ -246,7 +244,6 @@
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
-                "🇫🇷 FR | 🔴 | vless | @club_profsor | 15",
                 "🇺🇸 US | 🔴 | vless | @config_proxy_ir | 18",
                 "❔ XX | 🟢 | vless | @config_vip7 | 3",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -363,7 +360,6 @@
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 9",
                 "🇫🇮 FI | 🟢 | vless | @vpn_storm | 0",
-                "❔ XX | 🔴 | vless | @vpncaneel | 3",
                 "❔ XX | 🟢 | vless | @vpncostume | 8",
                 "🇮🇷 IR | 🔴 | vless | @vpnfree85 | 0",
                 "🇮🇹 IT | 🔴 | vless | @vpnfree_irann | 5",
@@ -563,15 +559,6 @@
                     "Host": "A2L.GODGAME.FUN"
                 }
             }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔴 | vless | @club_profsor | 15",
-            "type": "vless",
-            "server": "pnl.m0rt3zsh0pping2.ir",
-            "server_port": 9091,
-            "uuid": "73237955-b2c6-4bf9-a269-4717e1773c83",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @config_proxy_ir | 18",
@@ -2253,16 +2240,16 @@
         {
             "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 19",
             "type": "vless",
-            "server": "deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK",
+            "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
             "server_port": 80,
-            "uuid": "2054405e-70ff-40a2-ae27-16b63d72390a",
+            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/",
+                "path": "/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS",
                 "headers": {
-                    "Host": "deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK"
+                    "Host": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK"
                 }
             }
         },
@@ -2551,19 +2538,6 @@
                 "headers": {
                     "Host": "cv.rxteam.xyz"
                 }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔴 | vless | @vpncaneel | 3",
-            "type": "vless",
-            "server": "TLS.zeoaeriedo-saioesrio.ir",
-            "server_port": 2000,
-            "uuid": "c9ba5bb8-afe1-4f6a-bf0b-443967fb044f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "grpc",
-                "service_name": "/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray"
             }
         },
         {
