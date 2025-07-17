@@ -32,7 +32,6 @@ proxies:
   - {"name":"🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19","type":"trojan","server":"3.68.174.66","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45","type":"trojan","server":"104.149.155.13","port":443,"password":"79c935c0-27dc-4383-b307-dcac1b8e5509","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15","type":"trojan","server":"13.38.215.131","port":22223,"password":"telegram-id-v2rayvpnchannel","skip-cert-verify":false}
-  - {"name":"🇰🇷 KR | 🟢 | trojan | @v2source | 19","type":"trojan","server":"203.210.16.78","port":8443,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -55,7 +54,6 @@ proxy-groups:
       - '🇩🇪 DE | 🟢 | trojan | @v2ray_extractor | 19'
       - '🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45'
       - '🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15'
-      - '🇰🇷 KR | 🟢 | trojan | @v2source | 19'
 
   - name: 🌍 Global Media
     type: select

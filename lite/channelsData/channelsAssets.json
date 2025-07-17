@@ -10,6 +10,7 @@
     "NamiraNet": {
         "types": [
             "ss",
+            "trojan",
             "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
@@ -925,7 +926,9 @@
     "hope_net": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1521,8 +1524,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2661,9 +2664,8 @@
     },
     "v2source": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"

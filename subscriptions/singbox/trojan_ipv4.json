@@ -110,13 +110,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🇺🇸 US | 🟢 | trojan | @v2rayngconfiig | 8",
-                "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
@@ -152,13 +150,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🇺🇸 US | 🟢 | trojan | @v2rayngconfiig | 8",
-                "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
@@ -516,13 +512,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
-            "type": "trojan",
-            "server": "3.22.242.57",
-            "server_port": 1212,
-            "password": "a7e04b44-855e-4fe7-8fa0-31894e928bce"
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
             "type": "trojan",
             "server": "146.19.215.81",
@@ -592,29 +581,6 @@
             "server": "Xa4^l(;.;B",
             "server_port": 0,
             "password": ""
-        },
-        {
-            "tag": "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
-            "type": "trojan",
-            "server": "94.156.203.237",
-            "server_port": 2083,
-            "password": "1Ts00awMZy8nmxQC-4mBbg",
-            "tls": {
-                "enabled": true,
-                "server_name": "50e191d635974bc4.gstatic.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "50e191d635974bc4.gstatic.com"
-                }
-            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",

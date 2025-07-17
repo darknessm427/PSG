@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
                 "🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16",
                 "🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2",
@@ -122,7 +121,7 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🟢 | vless | @hope_net | 20",
+                "🇺🇸 US | 🔴 | vless | @hope_net | 20",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -144,6 +143,7 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇮🇷 IR | 🔴 | vless | @mimitdl | 6",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
                 "🇺🇸 US | 🔴 | vless | @mr_vpn123 | 7",
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
@@ -164,7 +164,6 @@
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇩🇪 DE | 🔴 | vless | @redfree8 | 6",
                 "🇺🇸 US | 🔴 | vless | @renetvpn | 10",
-                "🇺🇸 US | 🔴 | vless | @satellitenewspersian | 13",
                 "🇺🇸 US | 🟢 | vless | @selinc | 9",
                 "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
                 "🇺🇸 US | 🟢 | vless | @sobi_vpn | 9",
@@ -208,7 +207,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49",
-                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
                 "🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16",
                 "🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2",
@@ -240,7 +238,7 @@
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
-                "🏳️  | 🟢 | vless | @hope_net | 20",
+                "🇺🇸 US | 🔴 | vless | @hope_net | 20",
                 "🇮🇷 IR | 🔴 | vless | @hormozvpn | 2",
                 "🇮🇷 IR | 🔴 | vless | @hoshmasnoiyfarsi | 13",
                 "🇺🇸 US | 🔴 | vless | @icv2ray | 10",
@@ -262,6 +260,7 @@
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇮🇷 IR | 🔴 | vless | @mimitdl | 6",
                 "🇺🇸 US | 🔴 | vless | @moiinmk | 2",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
                 "🇺🇸 US | 🔴 | vless | @mr_vpn123 | 7",
                 "🇺🇸 US | 🟢 | vless | @mt_proxy | 7",
@@ -282,7 +281,6 @@
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
                 "🇩🇪 DE | 🔴 | vless | @redfree8 | 6",
                 "🇺🇸 US | 🔴 | vless | @renetvpn | 10",
-                "🇺🇸 US | 🔴 | vless | @satellitenewspersian | 13",
                 "🇺🇸 US | 🟢 | vless | @selinc | 9",
                 "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
                 "🇺🇸 US | 🟢 | vless | @sobi_vpn | 9",
@@ -336,22 +334,6 @@
             "uuid": "a804bb53-7504-4f06-96d8-ff56fb71539d",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
-            "type": "vless",
-            "server": "172.67.207.54",
-            "server_port": 8880,
-            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/34COh9NCiin5SJMk?ed=2560",
-                "headers": {
-                    "Host": "172.67.207.54"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @airdroplandcod | 5",
@@ -926,20 +908,18 @@
             }
         },
         {
-            "tag": "🏳️  | 🟢 | vless | @hope_net | 20",
+            "tag": "🇺🇸 US | 🔴 | vless | @hope_net | 20",
             "type": "vless",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "cbacbaa-acba-baca-cbda-babccaaacbbc",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "356ff342-edb5-418e-9929-f254517bc658",
             "flow": "",
             "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "127.0.0.1",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
+            "transport": {
+                "type": "ws",
+                "path": "/@VpnWedbaz-----@VpnWedbaz?ed=2560",
+                "headers": {
+                    "Host": "151.101.3.8"
                 }
             }
         },
@@ -1273,6 +1253,22 @@
             "uuid": "936f64b8-4045-4cb1-80ea-54315ea40709",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "141.101.121.108",
+            "server_port": 8080,
+            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2048",
+                "headers": {
+                    "Host": "141.101.121.108"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @mpproxy | 13",
@@ -1611,22 +1607,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "173.245.58.31"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @satellitenewspersian | 13",
-            "type": "vless",
-            "server": "141.101.121.108",
-            "server_port": 8080,
-            "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2048",
-                "headers": {
-                    "Host": "141.101.121.108"
                 }
             }
         },

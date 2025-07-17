@@ -91,6 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
+                "🇸🇬 SG | 🔴 | trojan | @entrynet | 15",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
@@ -101,7 +102,6 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -127,13 +127,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🇺🇸 US | 🟢 | trojan | @v2rayngconfiig | 8",
-                "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
@@ -150,6 +148,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
+                "🇸🇬 SG | 🔴 | trojan | @entrynet | 15",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 4",
@@ -160,7 +159,6 @@
                 "❔ XX | 🟢 | trojan | @mtpv2ray | 5",
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "❔ XX | 🔴 | trojan | @v2raych | 17",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
                 "❔ XX | 🔴 | trojan | @v2trayproxy | 11",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
@@ -186,13 +184,11 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @rsv2ray | 13",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
-                "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
                 "a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🇺🇸 US | 🟢 | trojan | @v2rayngconfiig | 8",
-                "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
@@ -244,6 +240,22 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬 SG | 🔴 | trojan | @entrynet | 15",
+            "type": "trojan",
+            "server": "us01.trojanyyds.xyz",
+            "server_port": 443,
+            "password": "243eab52-9ac1-405c-887c-eb112c0985b8",
+            "tls": {
+                "enabled": true,
+                "server_name": "us01.trojanyyds.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -442,13 +454,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @v2raych | 17",
-            "type": "trojan",
-            "server": "eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IldpRmktQFYycmF5X0FscGhhLTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-            "server_port": 0,
-            "password": ""
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
@@ -852,13 +857,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @v2raych | 16",
-            "type": "trojan",
-            "server": "3.22.242.57",
-            "server_port": 1212,
-            "password": "a7e04b44-855e-4fe7-8fa0-31894e928bce"
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
             "type": "trojan",
             "server": "146.19.215.81",
@@ -928,29 +926,6 @@
             "server": "Xa4^l(;.;B",
             "server_port": 0,
             "password": ""
-        },
-        {
-            "tag": "🇨🇭 CH | 🟢 | trojan | @v2rayo7ybv67i76 | 12",
-            "type": "trojan",
-            "server": "94.156.203.237",
-            "server_port": 2083,
-            "password": "1Ts00awMZy8nmxQC-4mBbg",
-            "tls": {
-                "enabled": true,
-                "server_name": "50e191d635974bc4.gstatic.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "50e191d635974bc4.gstatic.com"
-                }
-            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
