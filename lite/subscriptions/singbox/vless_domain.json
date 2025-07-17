@@ -166,6 +166,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -310,6 +311,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -1615,6 +1617,15 @@
             "server": "all61-vip.f-sub.com",
             "server_port": 9129,
             "uuid": "13b0c901-3fbe-bb19-c6b8-89b2c314e975",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "f37de868-a167-46ea-b16a-798d3800d50e",
             "flow": "",
             "packet_encoding": "xudp"
         },

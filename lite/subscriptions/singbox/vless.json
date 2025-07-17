@@ -114,7 +114,6 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 11",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇵🇱 PL | 🔴 | vless | @free1ss | 16",
                 "🇸🇪 SE | 🔴 | vless | @free_vip3 | 6",
                 "🇺🇸 US | 🔴 | vless | @freev2flyng | 17",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -281,6 +280,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -378,7 +378,6 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 11",
                 "🇩🇪 DE | 🔴 | vless | @filtershkan2 | 4",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇵🇱 PL | 🔴 | vless | @free1ss | 16",
                 "🇸🇪 SE | 🔴 | vless | @free_vip3 | 6",
                 "🇺🇸 US | 🔴 | vless | @freev2flyng | 17",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -545,6 +544,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -1084,24 +1084,6 @@
                     "enabled": true,
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱 PL | 🔴 | vless | @free1ss | 16",
-            "type": "vless",
-            "server": "146.59.15.81",
-            "server_port": 443,
-            "uuid": "c14b2731-7db6-49ee-9271-b1efc56c2630",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "146.59.15.81",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -3942,6 +3924,15 @@
             "server": "all61-vip.f-sub.com",
             "server_port": 9129,
             "uuid": "13b0c901-3fbe-bb19-c6b8-89b2c314e975",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 3",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "f37de868-a167-46ea-b16a-798d3800d50e",
             "flow": "",
             "packet_encoding": "xudp"
         },

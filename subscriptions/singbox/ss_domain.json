@@ -96,6 +96,7 @@
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇭🇰 HK | 🟢 | ss | @entrynet | 15",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -135,6 +136,7 @@
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇭🇰 HK | 🟢 | ss | @entrynet | 15",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -225,6 +227,14 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
+        },
+        {
+            "tag": "🇭🇰 HK | 🟢 | ss | @entrynet | 15",
+            "type": "shadowsocks",
+            "server": "s-g04.loveroise.com",
+            "server_port": 54030,
+            "method": "chacha20-ietf-poly1305",
+            "password": "09833a6f-4d46-426e-87fe-7793a5489f84"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
