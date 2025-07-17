@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
-                "🇨🇳 CN | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -110,7 +109,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 8",
-                "🇨🇳 CN | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "❔ XX | 🟢 | ss | @outlines_vpn | 5",
@@ -145,14 +143,6 @@
             "server_port": 5904,
             "method": "chacha20-ietf-poly1305",
             "password": "5TZnwPb23pQS39lIucspJw"
-        },
-        {
-            "tag": "🇨🇳 CN | 🟢 | ss | @hope_net | 19",
-            "type": "shadowsocks",
-            "server": "8tv68qhq.slashdevslashnetslashtun.net",
-            "server_port": 18001,
-            "method": "aes-256-gcm",
-            "password": "V86WNPYR4ORBV2LH"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @nationalproxytelegram | 2",

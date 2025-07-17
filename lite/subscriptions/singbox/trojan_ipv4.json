@@ -91,6 +91,7 @@
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇦🇲 AM | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -107,6 +108,7 @@
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
+                "🇦🇲 AM | 🔴 | trojan | @hope_net | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -162,6 +164,13 @@
                     "Host": "vpn.stupidworld.web.id"
                 }
             }
+        },
+        {
+            "tag": "🇦🇲 AM | 🔴 | trojan | @hope_net | 19",
+            "type": "trojan",
+            "server": "188.164.159.175",
+            "server_port": 8443,
+            "password": "SSorg"
         },
         {
             "tag": "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",

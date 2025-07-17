@@ -114,7 +114,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇺🇸 US | 🟢 | vmess | @mowjproxy | 3",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -134,7 +133,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇨🇭 CH | 🔴 | vmess | @v2rayzone | 13",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 16",
+                "🇩🇪 DE | 🟢 | vmess | @vpnfail_v2ray | 16",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3"
@@ -170,7 +169,6 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇺🇸 US | 🟢 | vmess | @mowjproxy | 3",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
                 "❔ XX | 🟢 | vmess | @prooxyk | 4",
@@ -190,7 +188,7 @@
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇨🇭 CH | 🔴 | vmess | @v2rayzone | 13",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 16",
+                "🇩🇪 DE | 🟢 | vmess | @vpnfail_v2ray | 16",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3"
@@ -597,31 +595,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vmess | @mowjproxy | 3",
-            "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "02800da0-6018-11f0-b336-205c6d5f5d78",
-            "security": "auto",
-            "alter_id": 0,
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/3ok7zbsw#@Vip_fragment_v2ray-@Vip_fragment_v2ray-@Vip_fragment_v2ray-@Vip_fragment_v2ray-@Vip_fragment_v2ray-@Vip_fragment_v2ray-",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
             "type": "vmess",
             "server": "adsl.stylebender209.ir",
@@ -905,13 +878,29 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 16",
+            "tag": "🇩🇪 DE | 🟢 | vmess | @vpnfail_v2ray | 16",
             "type": "vmess",
-            "server": "15.204.11.190",
-            "server_port": 15361,
-            "uuid": "5d7bf9e3-415c-40f3-c66d-a54ea0fd860e",
+            "server": "57.129.64.238",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
-            "alter_id": 0
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "kapelleng.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/linkvws",
+                "headers": {
+                    "Host": "kapelleng.com"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",

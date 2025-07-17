@@ -24,6 +24,7 @@ dns:
 
 proxies: 
   - {"name":"🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49","type":"vless","server":"81.12.32.135","port":32990,"uuid":"a804bb53-7504-4f06-96d8-ff56fb71539d","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
+  - {"name":"🇺🇸 US | 🔴 | vless | @NamiraNet | 65","type":"vless","server":"188.114.98.94","port":8880,"uuid":"89780139-39db-4ae9-adc5-00d9da4bb8b3","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/?ed=2560","headers":{"Host":"server123.amirjacksonpp.workers.dev"}}}
   - {"name":"🇺🇸 US | 🔴 | vless | @airdroplandcod | 5","type":"vless","server":"104.21.220.87","port":80,"uuid":"5a2f17fc-5b8e-4091-8754-6e5783f335c9","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"ws-opts":{"path":"/","headers":{"Host":"bia-to-channel4.unlimiteddev.shop"}}}
   - {"name":"🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16","type":"vless","server":"102.177.189.29","port":8880,"uuid":"fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf","tls":false,"network":"ws","client-fingerprint":"chrome","udp":true,"servername":"hk.laoyoutiao.link","ws-opts":{"path":"/TelegramU0001F1E8U0001F1F3kir","headers":{"Host":"hk.laoyoutiao.link"}}}
   - {"name":"🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2","type":"vless","server":"82.25.101.123","port":34712,"uuid":"65cd9b4b-90a1-43f4-9682-3e33c8a29b0e","tls":false,"network":"tcp","client-fingerprint":"chrome","udp":true}
@@ -130,6 +131,7 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇮🇷 IR | 🔴 | vless | @Fr33C0nfig | 49'
+      - '🇺🇸 US | 🔴 | vless | @NamiraNet | 65'
       - '🇺🇸 US | 🔴 | vless | @airdroplandcod | 5'
       - '🇬🇧 GB | 🔴 | vless | @aminaqafarzane | 16'
       - '🇩🇪 DE | 🔴 | vless | @amirinventor2010 | 2'

@@ -91,7 +91,6 @@
                 "direct",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇺🇸 US | 🔴 | trojan | @bored_vpn | 4",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 13",
@@ -99,7 +98,6 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 6",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -122,6 +120,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇺🇸 US | 🟢 | trojan | @v2source | 18",
                 "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
@@ -133,7 +132,6 @@
             "outbounds": [
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
                 "🇺🇸 US | 🔴 | trojan | @bored_vpn | 4",
-                "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 13",
@@ -141,7 +139,6 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 6",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
@@ -164,6 +161,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+                "🇺🇸 US | 🟢 | trojan | @v2source | 18",
                 "🇫🇷 FR | 🟢 | trojan | @vpnaloo | 14",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
@@ -198,22 +196,6 @@
             "server": "62.60.176.240",
             "server_port": 36557,
             "password": "T9xcEjdUWx"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @configshubplus | 17",
-            "type": "trojan",
-            "server": "192.3.107.252",
-            "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
-            "tls": {
-                "enabled": true,
-                "server_name": "rc8.freeguard.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
@@ -324,13 +306,6 @@
             "server": "91.107.141.0",
             "server_port": 23825,
             "password": "ziIjOlyGbM"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @hope_net | 16",
-            "type": "trojan",
-            "server": "104.19.86.120",
-            "server_port": 2096,
-            "password": "SSorg"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @jiedianf | 6",
@@ -682,6 +657,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @v2source | 18",
+            "type": "trojan",
+            "server": "15.204.234.166",
+            "server_port": 443,
+            "password": "fc685880-dffe-11ef-8ac5-1239d0255272",
+            "tls": {
+                "enabled": true,
+                "server_name": "usa.test3.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

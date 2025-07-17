@@ -391,8 +391,8 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess",
             "trojan"
         ],
@@ -652,7 +652,8 @@
     },
     "entrynet": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": ".::entryNET::. Free v2ray vpn &amp; proxy | وی پی ان و پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/entrynet.jpg"
@@ -1209,8 +1210,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "trojan",
             "ss"
         ],
@@ -3009,10 +3010,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -3118,9 +3119,9 @@
     },
     "v2raych": {
         "types": [
-            "ss",
             "vless",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -3421,8 +3422,9 @@
     },
     "v2rayweb": {
         "types": [
+            "vmess",
             "vless",
-            "vmess"
+            "trojan"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -3467,8 +3469,8 @@
     },
     "v2source": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free V2ray",
@@ -4015,15 +4017,6 @@
         ],
         "title": "WomanLifeFreedomVPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/womanlifefreedomvpn.jpg"
-    },
-    "world_vmess": {
-        "types": [
-            "ss",
-            "vless",
-            "vmess"
-        ],
-        "title": "🔥World Vmess🔥",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/world_vmess.jpg"
     },
     "x4azadi": {
         "types": [
