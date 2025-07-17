@@ -98,8 +98,8 @@
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
-                "❔ XX | 🔴 | vless | @lranonline_new | 5",
                 "❔ XX | 🔴 | vless | @parsashonam | 29",
+                "❔ XX | 🔴 | vless | @parsashonam | 31",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 6",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 8",
@@ -122,8 +122,8 @@
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2",
-                "❔ XX | 🔴 | vless | @lranonline_new | 5",
                 "❔ XX | 🔴 | vless | @parsashonam | 29",
+                "❔ XX | 🔴 | vless | @parsashonam | 31",
                 "❔ XX | 🟢 | vless | @v2raytg | 73",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 6",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 8",
@@ -309,20 +309,20 @@
             }
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @lranonline_new | 5",
-            "type": "vless",
-            "server": "[2a01:4f8:1c1a:dc2b::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-285",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "❔ XX | 🔴 | vless | @parsashonam | 29",
             "type": "vless",
             "server": "[2a01:4f8:1c1b:e1d0::1]",
             "server_port": 8888,
             "uuid": "Parsashonam-284",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔴 | vless | @parsashonam | 31",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1a:dc2b::1]",
+            "server_port": 8888,
+            "uuid": "Parsashonam-285",
             "flow": "",
             "packet_encoding": "xudp"
         },

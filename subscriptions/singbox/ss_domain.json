@@ -97,7 +97,9 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy | 68",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "❔ XX | 🟢 | ss | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
+                "❔ XX | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
@@ -136,7 +138,9 @@
                 "🇬🇧 GB | 🟢 | ss | @config_proxy | 68",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "❔ XX | 🟢 | ss | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
+                "❔ XX | 🟢 | ss | @hope_net | 19",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
@@ -235,12 +239,28 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
+            "tag": "❔ XX | 🟢 | ss | @entrynet | 18",
+            "type": "shadowsocks",
+            "server": "zx1.1010520.xyz",
+            "server_port": 34857,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f5136746-de79-46d0-b3be-d15d9992fa07"
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | ss | @freakconfig | 7",
             "type": "shadowsocks",
             "server": "fin.outlinebot1.ru",
             "server_port": 5904,
             "method": "chacha20-ietf-poly1305",
             "password": "5TZnwPb23pQS39lIucspJw"
+        },
+        {
+            "tag": "❔ XX | 🟢 | ss | @hope_net | 19",
+            "type": "shadowsocks",
+            "server": "zx1.1010520.xyz",
+            "server_port": 30571,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f5136746-de79-46d0-b3be-d15d9992fa07"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
