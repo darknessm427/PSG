@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -118,7 +119,7 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
@@ -136,7 +137,7 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
-                "🇩🇪 DE | 🔴 | vless | @info_2it_channel | 12",
+                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 12",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -237,6 +238,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
                 "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
                 "🇩🇪 DE | 🔴 | vless | @argotaz | 0",
                 "🇺🇸 US | 🔴 | vless | @artemis_vpn_free | 1",
@@ -266,7 +268,7 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 18",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
@@ -284,7 +286,7 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
-                "🇩🇪 DE | 🔴 | vless | @info_2it_channel | 12",
+                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 12",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -387,6 +389,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @NamiraNet | 69",
+            "type": "vless",
+            "server": "brainy-party.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "34797f17-09a1-400c-9f4b-275718d62a0f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "brainy-party.seotoolsforyou.co.uk"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @alo_v2rayng | 0",
@@ -838,7 +856,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
+            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
             "type": "vless",
             "server": "server2.ultra-irancell.com",
             "server_port": 80,
@@ -1143,13 +1161,20 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @info_2it_channel | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @info_2it_channel | 12",
             "type": "vless",
-            "server": "300232332.webnama.com.tr.privatepack.ir",
-            "server_port": 1517,
-            "uuid": "88f9173d-09b1-463a-99c8-e39852693cba",
+            "server": "sweet-combination.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "05020a61-3c0c-4ead-b256-7851ff905a75",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "sweet-combination.seotoolsforyou.co.uk"
+                }
+            }
         },
         {
             "tag": "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
