@@ -113,7 +113,7 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 5",
+                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 4",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇫🇷 FR | 🔴 | vmess | @outlinev2rayng | 14",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
@@ -122,7 +122,7 @@
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
                 "🇮🇷 IR | 🔴 | vmess | @savagenet | 1",
-                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇨🇦 CA | 🔴 | vmess | @summertimeus | 15",
@@ -135,6 +135,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
+                "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 15",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3"
@@ -169,7 +170,7 @@
                 "🇨🇳 CN | 🔴 | vmess | @mftizi | 19",
                 "🇺🇸 US | 🟢 | vmess | @mi_pn_official | 2",
                 "🇺🇸 US | 🟢 | vmess | @minovpnch | 12",
-                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 5",
+                "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 4",
                 "❔ XX | 🔴 | vmess | @net_azad_1 | 12",
                 "🇫🇷 FR | 🔴 | vmess | @outlinev2rayng | 14",
                 "🇮🇷 IR | 🔴 | vmess | @pro_chaneel | 1",
@@ -178,7 +179,7 @@
                 "🇦🇹 AT | 🔴 | vmess | @rnrifci | 5",
                 "🇺🇸 US | 🔴 | vmess | @royal_shop87 | 17",
                 "🇮🇷 IR | 🔴 | vmess | @savagenet | 1",
-                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+                "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
                 "🇺🇸 US | 🟢 | vmess | @shadowsocksservers | 12",
                 "🇨🇳 CN | 🔴 | vmess | @sharecentrepro | 3",
                 "🇨🇦 CA | 🔴 | vmess | @summertimeus | 15",
@@ -191,6 +192,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
+                "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 15",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3"
@@ -575,7 +577,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 5",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @mowjproxy | 4",
             "type": "vmess",
             "server": "movaghat20.funfil.link",
             "server_port": 48913,
@@ -690,7 +692,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 2",
+            "tag": "🇩🇪 DE | 🔴 | vmess | @sezar_sec | 1",
             "type": "vmess",
             "server": "panel3.ipyar.org",
             "server_port": 32017,
@@ -879,6 +881,15 @@
             "server": "176.120.17.67",
             "server_port": 42270,
             "uuid": "3c0f9cf4-6a0c-42f3-a6de-89c79d4af8e3",
+            "security": "auto",
+            "alter_id": 0
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vmess | @vpnfail_v2ray | 15",
+            "type": "vmess",
+            "server": "15.204.234.200",
+            "server_port": 41100,
+            "uuid": "c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4",
             "security": "auto",
             "alter_id": 0
         },

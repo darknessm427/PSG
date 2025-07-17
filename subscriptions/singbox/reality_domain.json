@@ -152,7 +152,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
@@ -169,7 +169,7 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 16",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -248,7 +248,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+                "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
@@ -265,7 +265,7 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15",
+                "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 16",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -1829,7 +1829,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇸🇪 SE | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -2232,30 +2232,26 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @vpnplusee_free | 15",
+            "tag": "🇩🇪 DE | 🟢 | vless | @vpnplusee_free | 16",
             "type": "vless",
-            "server": "neth.liitle-zoo.ir",
-            "server_port": 2025,
-            "uuid": "61e4792d-ac2f-4194-bcd7-0bc967f8a8f4",
+            "server": "pl.panelmarzban.com",
+            "server_port": 3038,
+            "uuid": "08016b13-fb33-4b61-9608-cf79d5e27414",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "sadf2341sad"
             }
         },
         {

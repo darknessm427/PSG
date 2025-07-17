@@ -98,6 +98,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
@@ -117,6 +118,7 @@
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 17",
+                "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "🇺🇸 US | 🔴 | vless | @zedping | 0"
@@ -222,6 +224,24 @@
                     "enabled": true,
                     "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
                     "short_id": "1ed94ed9"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @outline_ir | 17",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "auto.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
