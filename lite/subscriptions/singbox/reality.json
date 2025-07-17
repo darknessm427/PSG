@@ -102,9 +102,9 @@
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
-                "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
+                "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 125",
                 "🇺🇸 US | 🟢 | vless | @selinc | 9",
-                "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
+                "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
@@ -127,7 +127,7 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -151,9 +151,9 @@
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
-                "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
+                "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 125",
                 "🇺🇸 US | 🟢 | vless | @selinc | 9",
-                "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
+                "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
@@ -176,7 +176,7 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
@@ -498,7 +498,7 @@
             }
         },
         {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 130",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @prrofile_purple | 125",
             "type": "vless",
             "server": "194.182.79.64",
             "server_port": 14073,
@@ -548,25 +548,25 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @sinavm | 1",
+            "tag": "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
             "type": "vless",
-            "server": "51.195.218.231",
-            "server_port": 443,
-            "uuid": "15c620a8-6852-ac9e-5285-f91ba0a8bdfb",
+            "server": "91.107.133.59",
+            "server_port": 48883,
+            "uuid": "52f9a9c0-ae3e-400c-a5f2-0360025db51d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.frontiersin.org",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig",
-                    "short_id": "1466b1508caf242e"
+                    "public_key": "smZYwv5E-y4d4u5ovxQ8BYcfNE8gy3mkANAQzoWyBmI",
+                    "short_id": "3518ea8cbd9317"
                 }
             }
         },
@@ -1125,7 +1125,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

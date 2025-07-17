@@ -129,12 +129,13 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
-                "🇸🇪 SE | 🟢 | vless | @proxy_mtproto_vpns_free | 12",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -153,7 +154,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -171,6 +172,7 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
+                "🇸🇪 SE | 🟢 | vless | @vpnplusee_free | 15",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -226,12 +228,13 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "🇪🇪 EE | 🟢 | vless | @meli_proxyy | 19",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
-                "🇸🇪 SE | 🟢 | vless | @proxy_mtproto_vpns_free | 12",
+                "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 7",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -250,7 +253,7 @@
                 "🇳🇱 NL | 🟢 | vless | @v2rayng_fars | 14",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇳🇱 NL | 🟢 | vless | @v2rayngvpn_1 | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngvpn_1 | 6",
@@ -268,6 +271,7 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
+                "🇸🇪 SE | 🟢 | vless | @vpnplusee_free | 15",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -1282,6 +1286,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 51566,
+            "uuid": "9c28e484-55ed-4756-a6dc-64a9ec7141da",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
+                    "short_id": "1ed94ed9"
+                }
+            }
+        },
+        {
             "tag": "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
             "type": "vless",
             "server": "Sadaf.Netherlands.mehrdadsadaf.com",
@@ -1409,25 +1436,25 @@
             }
         },
         {
-            "tag": "🇸🇪 SE | 🟢 | vless | @proxy_mtproto_vpns_free | 12",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxy_mtproto_vpns_free | 11",
             "type": "vless",
-            "server": "se.panelmarzban.com",
-            "server_port": 3039,
-            "uuid": "08016b13-fb33-4b61-9608-cf79d5e27414",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 15416,
+            "uuid": "9c28e484-55ed-4756-a6dc-64a9ec7141da",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "www.yahoo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
-                    "short_id": ""
+                    "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
+                    "short_id": "1ed94ed9"
                 }
             }
         },
@@ -1858,7 +1885,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -2283,6 +2310,29 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | vless | @vpnplusee_free | 15",
+            "type": "vless",
+            "server": "se.panelmarzban.com",
+            "server_port": 3039,
+            "uuid": "08016b13-fb33-4b61-9608-cf79d5e27414",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
                 }
             }
