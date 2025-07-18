@@ -98,7 +98,6 @@
                 "🇦🇹 AT | 🟢 | ss | @free1ss | 14",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 15",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -107,7 +106,6 @@
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
                 "🇵🇱 PL | 🟢 | ss | @outlineopenkey | 9",
-                "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
@@ -132,7 +130,6 @@
                 "🇦🇹 AT | 🟢 | ss | @free1ss | 14",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
-                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 15",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
                 "🇫🇷 FR | 🟢 | ss | @key_outline | 19",
                 "🇬🇧 GB | 🟢 | ss | @megavpn_link | 14",
@@ -141,7 +138,6 @@
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
                 "🇵🇱 PL | 🟢 | ss | @outlineopenkey | 9",
-                "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
@@ -211,10 +207,10 @@
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @free1ss | 14",
             "type": "shadowsocks",
-            "server": "152.53.2.128",
-            "server_port": 34045,
-            "method": "aes-256-gcm",
-            "password": "TG:@Enkelte_notif&&TG:@Notif_Chat"
+            "server": "95.163.176.37",
+            "server_port": 8506,
+            "method": "chacha20-ietf-poly1305",
+            "password": "eUh4lSpi7nOYj0vSrqLUh0"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -231,14 +227,6 @@
             "server_port": 49499,
             "method": "chacha20-ietf-poly1305",
             "password": "kTjlLxrncKx4i2HIjxfA3M"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 15",
-            "type": "shadowsocks",
-            "server": "45.87.175.154",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -303,14 +291,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "QXc8QEsPfUEUKIFDz4Dqwa"
-        },
-        {
-            "tag": "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
-            "type": "shadowsocks",
-            "server": "95.163.176.37",
-            "server_port": 8506,
-            "method": "chacha20-ietf-poly1305",
-            "password": "eUh4lSpi7nOYj0vSrqLUh0"
         },
         {
             "tag": "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
