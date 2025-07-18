@@ -89,10 +89,11 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 19",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
@@ -135,10 +136,11 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
+                "🇺🇸 US | 🟢 | vless | @configshubplus | 19",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
@@ -185,7 +187,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -194,7 +196,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -219,6 +221,24 @@
             "uuid": "724383d8-33c6-4e8d-9db4-0184a89efa33",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @configshubplus | 19",
+            "type": "vless",
+            "server": "104.21.48.1",
+            "server_port": 2083,
+            "uuid": "c4e6a6ef-d782-4a12-a38a-906a61ee5bc1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cho.chonon.sbs",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @dailytek | 10",

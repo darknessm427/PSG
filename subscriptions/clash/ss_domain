@@ -25,7 +25,7 @@ dns:
 proxies: 
   - {"name":"🇨🇭 CH | 🟢 | ss | @NamiraNet | 67","type":"ss","server":"h110vpnch.outlinekeys.net","port":4248,"password":"jw0DMgt0Q38j8aXiPuVIFS","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @ai_duet | 7","type":"ss","server":"Peweza3.digipedia.shop","port":443,"password":"mps3FwmDjLrWaOVg","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 10","type":"ss","server":"fin.outlinebot1.ru","port":5904,"password":"5TZnwPb23pQS39lIucspJw","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇮 FI | 🟢 | ss | @argo_vpn1 | 10","type":"ss","server":"fin.outlinebot1.ru","port":5904,"password":"5TZnwPb23pQS39lIucspJw","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🟢 | ss | @chestertm | 10","type":"ss","server":"fake.namasha.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @chestertm | 12","type":"ss","server":"freakconfig94.usecharge.ir","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17","type":"ss","server":"series-a2-me.samanehha.co","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
@@ -51,10 +51,10 @@ proxies:
   - {"name":"🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11","type":"ss","server":"switcher-nick-croquet.freesocks.work","port":443,"password":"9tqhMdIrTkgQ46PvhyAtMH","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @v2rayngvvpn | 23","type":"ss","server":"flank3.g.edgeservers.org","port":54590,"password":"x9CLmvtStnUITovXBClxhu","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔ XX | 🟢 | ss | @v2rayngvvpn | 26","type":"ss","server":"sto3.g.edgeservers.org","port":32448,"password":"WVU27LquAMOeXmYeStI897","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇳🇱 NL | 🟢 | ss | @vpn451 | 8","type":"ss","server":"macintosh.outlinekeys.net","port":19609,"password":"rirgAJoGVPZBhFx9gNH3gj","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇳🇱 NL | 🟢 | ss | @vpn451 | 9","type":"ss","server":"macintosh.outlinekeys.net","port":19609,"password":"vmbNCUhVDMTb3WRKkSG0SD","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🟢 | ss | @vpn451 | 10","type":"ss","server":"fox-usa.outlinekeys.net","port":34868,"password":"Nae7luN0UvHzTOpafOYr98","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸 US | 🟢 | ss | @vpn451 | 11","type":"ss","server":"fox-usa.outlinekeys.net","port":34868,"password":"w5r3VHLtrPuYo3evoViKwi","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 NL | 🟢 | ss | @vpn451 | 7","type":"ss","server":"macintosh.outlinekeys.net","port":19609,"password":"rirgAJoGVPZBhFx9gNH3gj","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇳🇱 NL | 🟢 | ss | @vpn451 | 8","type":"ss","server":"macintosh.outlinekeys.net","port":19609,"password":"vmbNCUhVDMTb3WRKkSG0SD","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | ss | @vpn451 | 9","type":"ss","server":"fox-usa.outlinekeys.net","port":34868,"password":"Nae7luN0UvHzTOpafOYr98","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | ss | @vpn451 | 10","type":"ss","server":"fox-usa.outlinekeys.net","port":34868,"password":"w5r3VHLtrPuYo3evoViKwi","cipher":"chacha20-ietf-poly1305"}
 
 proxy-groups:
   - name: 🚀 Proxy
@@ -70,7 +70,7 @@ proxy-groups:
     proxies: 
       - '🇨🇭 CH | 🟢 | ss | @NamiraNet | 67'
       - '🇬🇧 GB | 🟢 | ss | @ai_duet | 7'
-      - '🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 10'
+      - '🇫🇮 FI | 🟢 | ss | @argo_vpn1 | 10'
       - '🇺🇸 US | 🟢 | ss | @chestertm | 10'
       - '❔ XX | 🟢 | ss | @chestertm | 12'
       - '🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17'
@@ -96,10 +96,10 @@ proxy-groups:
       - '🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11'
       - '❔ XX | 🟢 | ss | @v2rayngvvpn | 23'
       - '❔ XX | 🟢 | ss | @v2rayngvvpn | 26'
+      - '🇳🇱 NL | 🟢 | ss | @vpn451 | 7'
       - '🇳🇱 NL | 🟢 | ss | @vpn451 | 8'
-      - '🇳🇱 NL | 🟢 | ss | @vpn451 | 9'
+      - '🇺🇸 US | 🟢 | ss | @vpn451 | 9'
       - '🇺🇸 US | 🟢 | ss | @vpn451 | 10'
-      - '🇺🇸 US | 🟢 | ss | @vpn451 | 11'
 
   - name: 🌍 Global Media
     type: select

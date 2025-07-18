@@ -97,8 +97,7 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "❔ XX | 🟢 | ss | @vpidiamond | 9",
-                "🇺🇸 US | 🟢 | ss | @vpn451 | 11"
+                "❔ XX | 🟢 | ss | @vpidiamond | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -114,8 +113,7 @@
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇬🇧 GB | 🟢 | ss | @v2rayport | 13",
-                "❔ XX | 🟢 | ss | @vpidiamond | 9",
-                "🇺🇸 US | 🟢 | ss | @vpn451 | 11"
+                "❔ XX | 🟢 | ss | @vpidiamond | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -197,14 +195,6 @@
             "server_port": 23377,
             "method": "aes-256-gcm",
             "password": "4cY4N/FWyfZ1r21mu4oj/L5E6WHN9b8VAeitl+Mk7CQ="
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | ss | @vpn451 | 11",
-            "type": "shadowsocks",
-            "server": "fox-usa.outlinekeys.net",
-            "server_port": 34868,
-            "method": "chacha20-ietf-poly1305",
-            "password": "w5r3VHLtrPuYo3evoViKwi"
         }
     ],
     "route": {
