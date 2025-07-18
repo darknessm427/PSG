@@ -91,7 +91,7 @@
                 "direct",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -107,7 +107,7 @@
             "outbounds": [
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+                "🇺🇸 US | 🟢 | trojan | @freevpnatm | 19",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
@@ -164,18 +164,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @freevpnatm | 19",
             "type": "trojan",
-            "server": "192.3.107.252",
+            "server": "172.67.131.76",
             "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
+            "password": "3d9741da-c0e4-47cc-a5e0-f1af3d337dae",
             "tls": {
                 "enabled": true,
-                "server_name": "rc8.freeguard.org",
+                "server_name": "FffFvvBnmjKIOop.222767.XYz",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/51ilfH8vHwxilZqfwAwY2SNm",
+                "headers": {
+                    "Host": "FffFvvBnmjKIOop.222767.XYz"
                 }
             }
         },
