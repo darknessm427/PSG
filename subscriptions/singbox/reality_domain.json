@@ -98,9 +98,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 59",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇺🇸 US | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -153,9 +153,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 14",
@@ -192,9 +189,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇺🇸 US | 🟢 | vless | @config_proxy | 59",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇺🇸 US | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -247,9 +244,6 @@
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 16",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 14",
@@ -496,6 +490,29 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 59",
+            "type": "vless",
+            "server": "amazon-4.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -542,29 +559,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @entrynet | 17",
-            "type": "vless",
-            "server": "amazon-17.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
                 }
             }
         },
@@ -1841,87 +1835,6 @@
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 35673,
-            "uuid": "DailyConfigs",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "slack.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "X0Qh1nKfoT6KDIvVnHsGU8lYKHsW2fmn0Tm1QNsFRg8",
-                    "short_id": "752105e2e443eece"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 20223,
-            "uuid": "Join-DailyConfigs",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "github.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ctBMudbuPNp96pmVEuLdNJJ8TXqJ3KR9kAoAvCdrrQM",
-                    "short_id": "3b28"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 16",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 39840,
-            "uuid": "DailyConfigs1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "openai.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cBtMVPDxwtgUBpOn0gz59eJsjG_Mu8WenSbSdZ6M1kw",
-                    "short_id": "63f2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
             }
         },
         {

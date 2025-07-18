@@ -1516,9 +1516,9 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
+            "ss",
             "vmess",
-            "ss"
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1792,8 +1792,8 @@
     },
     "outline_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "سرور اوتلاین ا سرور V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outline_ir.jpg"
@@ -2053,8 +2053,8 @@
     },
     "selinc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "فیلترشکنV2rayng",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/selinc.jpg"
@@ -2330,10 +2330,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vmess",
+            "vless",
             "ss",
-            "vless"
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2641,8 +2641,7 @@
     "v2source": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
@@ -2720,8 +2719,8 @@
     },
     "vmess_ir": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",

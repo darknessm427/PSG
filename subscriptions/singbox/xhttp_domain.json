@@ -92,7 +92,6 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -117,7 +116,6 @@
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
-                "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
@@ -129,6 +127,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -141,7 +140,6 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -166,7 +164,6 @@
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
-                "🇺🇸 US | 🟢 | vless | @proxie | 12",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
@@ -178,6 +175,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 7",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
+                "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4"
             ],
@@ -230,15 +228,6 @@
                     "short_id": "aeba"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "7d0ebb88-98b8-4108-8fa0-e931e99a240b",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -475,24 +464,6 @@
             "type": "vless",
             "server": "Aule.Manwe.ir",
             "server_port": 443,
-            "uuid": "a5a14e7d-4267-4fea-895e-82def329d1d4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Varda.Manwe.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @proxie | 12",
-            "type": "vless",
-            "server": "Aule.Manwe.ir",
-            "server_port": 443,
             "uuid": "bdf79d37-877b-4727-b45a-5ba235a01a24",
             "flow": "",
             "packet_encoding": "xudp",
@@ -625,6 +596,15 @@
             "server": "fy-h3-frontier-a2z-com.customer.fastly.net",
             "server_port": 80,
             "uuid": "V2rayNGFreeeV2rayNGFreee",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2rayweb | 18",
+            "type": "vless",
+            "server": "hibbb.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "fcb53fa5-93e7-4599-ad2b-0da49a3b8857",
             "flow": "",
             "packet_encoding": "xudp"
         },
