@@ -90,10 +90,11 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 12",
+                "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
+                "🇺🇸 US | 🟢 | ss | @free1_vpn | 10",
                 "🇨🇦 CA | 🟢 | ss | @free1ss | 13",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -122,10 +123,11 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 12",
+                "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
+                "🇺🇸 US | 🟢 | ss | @free1_vpn | 10",
                 "🇨🇦 CA | 🟢 | ss | @free1ss | 13",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
@@ -165,12 +167,12 @@
             "password": "Ib9hxFZxUH4m"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @argo_vpn1 | 12",
+            "tag": "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
             "type": "shadowsocks",
-            "server": "92.112.126.90",
+            "server": "77.83.246.74",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "9tqhMdIrTkgQ46PvhyAtMH"
+            "password": "xACbFD7SWmbV7oKX0djMrZ"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
@@ -195,6 +197,14 @@
             "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
             "password": "OUERiyxvrzTJi5kftx980G"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @free1_vpn | 10",
+            "type": "shadowsocks",
+            "server": "45.87.175.35",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
             "tag": "🇨🇦 CA | 🟢 | ss | @free1ss | 13",

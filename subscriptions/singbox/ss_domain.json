@@ -89,13 +89,13 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 9",
+                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 8",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇵🇱 PL | 🟢 | ss | @configshubplus | 12",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -112,7 +112,8 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
-                "🇷🇺 RU | 🟢 | ss | @v2ray_free_conf | 16",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 18",
+                "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -129,13 +130,13 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
                 "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
-                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 9",
+                "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 8",
                 "🇺🇸 US | 🟢 | ss | @chestertm | 10",
                 "❔ XX | 🟢 | ss | @chestertm | 12",
                 "🇬🇧 GB | 🟢 | ss | @config_proxy_ir | 17",
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
+                "🇵🇱 PL | 🟢 | ss | @configshubplus | 12",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
@@ -152,7 +153,8 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
-                "🇷🇺 RU | 🟢 | ss | @v2ray_free_conf | 16",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 18",
+                "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 19",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -173,14 +175,6 @@
             "type": "direct"
         },
         {
-            "tag": "🇨🇭 CH | 🟢 | ss | @NamiraNet | 67",
-            "type": "shadowsocks",
-            "server": "h110vpnch.outlinekeys.net",
-            "server_port": 4248,
-            "method": "chacha20-ietf-poly1305",
-            "password": "jw0DMgt0Q38j8aXiPuVIFS"
-        },
-        {
             "tag": "🇬🇧 GB | 🟢 | ss | @ai_duet | 7",
             "type": "shadowsocks",
             "server": "Peweza3.digipedia.shop",
@@ -189,7 +183,7 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 9",
+            "tag": "🇩🇪 DE | 🟢 | ss | @argo_vpn1 | 8",
             "type": "shadowsocks",
             "server": "fin.outlinebot1.ru",
             "server_port": 5904,
@@ -227,6 +221,14 @@
             "server_port": 10107,
             "method": "aes-256-gcm",
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
+        },
+        {
+            "tag": "🇵🇱 PL | 🟢 | ss | @configshubplus | 12",
+            "type": "shadowsocks",
+            "server": "war.ssvpnapp.win",
+            "server_port": 57456,
+            "method": "chacha20-ietf-poly1305",
+            "password": "d3837224ed465f00"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
@@ -357,12 +359,20 @@
             "password": "1xO2cqPazqjGfCfd"
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | ss | @v2ray_free_conf | 16",
+            "tag": "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 18",
             "type": "shadowsocks",
-            "server": "ct.uigame.space",
-            "server_port": 2024,
+            "server": "ltnl11.saint.ydns.eu",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "33LpoU8X/xHnCD+cbNe+7p0pK/JngDLM+5+RILrxyfVFRW/niKz5Eu0rWyVcDho="
+            "password": "cvII85TrW6n0OGyfpHVS1u"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | ss | @v2ray_free_conf | 19",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
