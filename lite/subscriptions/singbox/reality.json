@@ -94,6 +94,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
+                "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
@@ -108,7 +109,6 @@
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
-                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -128,8 +128,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
-                "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2"
+                "🇩🇪 DE | 🟢 | vless | @vpnvg | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -142,6 +141,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
+                "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
@@ -156,7 +156,6 @@
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
-                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -176,8 +175,7 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
-                "🇩🇪 DE | 🟢 | vless | @vpnvg | 14",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2"
+                "🇩🇪 DE | 🟢 | vless | @vpnvg | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -308,6 +306,29 @@
                     "enabled": true,
                     "public_key": "BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
+            "type": "vless",
+            "server": "germansana.kesslershop.ir",
+            "server_port": 8997,
+            "uuid": "201c05a2-f76b-4088-bb1d-e4c8ee8909dd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8",
+                    "short_id": "f23d09"
                 }
             }
         },
@@ -650,29 +671,6 @@
                     "enabled": true,
                     "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
-            "type": "vless",
-            "server": "62.212.70.94",
-            "server_port": 2090,
-            "uuid": "9cd13592-4ea9-4320-a910-af51a25e4aef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2ijB2vzukb0W-bYBFFZujTv6V-lrOTVuhxVKU8uxTRo",
-                    "short_id": "e9"
                 }
             }
         },
@@ -1162,29 +1160,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------telegram:funza--------------"
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @kesslervpn | 2",
-            "type": "vless",
-            "server": "[2a03:b0c0:3:d0::10ad:7001]",
-            "server_port": 29360,
-            "uuid": "9e890db0-905d-41d2-8a69-0a35ff7d8ce3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo",
-                    "short_id": ""
-                }
             }
         }
     ],

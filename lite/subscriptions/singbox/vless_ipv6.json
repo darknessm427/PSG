@@ -91,7 +91,6 @@
                 "direct",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 10",
                 "❔ XX | 🟢 | vless | @yekoyekvpn | 0"
             ],
@@ -103,7 +102,6 @@
             "outbounds": [
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
-                "❔ XX | 🟢 | vless | @kesslervpn | 2",
                 "❔ XX | 🔴 | vless | @v2ryngfree | 10",
                 "❔ XX | 🟢 | vless | @yekoyekvpn | 0"
             ],
@@ -149,29 +147,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @kesslervpn | 2",
-            "type": "vless",
-            "server": "[2a03:b0c0:3:d0::10ad:7001]",
-            "server_port": 29360,
-            "uuid": "9e890db0-905d-41d2-8a69-0a35ff7d8ce3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo",
-                    "short_id": ""
                 }
             }
         },

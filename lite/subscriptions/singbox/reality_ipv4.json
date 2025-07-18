@@ -91,7 +91,6 @@
                 "direct",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
-                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -121,7 +120,6 @@
             "outbounds": [
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇦🇪 AE | 🟢 | vless | @darkfiilter | 2",
-                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
@@ -195,29 +193,6 @@
                     "enabled": true,
                     "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 25",
-            "type": "vless",
-            "server": "62.212.70.94",
-            "server_port": 2090,
-            "uuid": "9cd13592-4ea9-4320-a910-af51a25e4aef",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2ijB2vzukb0W-bYBFFZujTv6V-lrOTVuhxVKU8uxTRo",
-                    "short_id": "e9"
                 }
             }
         },
