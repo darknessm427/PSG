@@ -91,8 +91,6 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -124,7 +122,7 @@
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @prrofile_purple | 132",
-                "🇺🇸 US | 🔴 | vless | @server_nekobox | 11",
+                "🇺🇸 US | 🔴 | vless | @server_nekobox | 10",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
@@ -142,8 +140,6 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
-                "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -175,7 +171,7 @@
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @prrofile_purple | 132",
-                "🇺🇸 US | 🔴 | vless | @server_nekobox | 11",
+                "🇺🇸 US | 🔴 | vless | @server_nekobox | 10",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 2",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
@@ -209,24 +205,6 @@
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "8db68448-6ebb-4361-bcbe-519a1f20fca1",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
-            "type": "vless",
-            "server": "cdn.irancdngame.com",
-            "server_port": 80,
-            "uuid": "d4fa2f07-b925-4448-b921-9039bb5e6257",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
-            "type": "vless",
-            "server": "cdn.irancdngame.com",
-            "server_port": 80,
-            "uuid": "d4fa2f07-b925-4448-b921-9039bb5e6257",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -588,7 +566,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @server_nekobox | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @server_nekobox | 10",
             "type": "vless",
             "server": "CONFiGLiNE.fast.hosting-ip.com",
             "server_port": 80,
