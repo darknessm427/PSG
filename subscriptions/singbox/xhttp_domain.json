@@ -91,6 +91,8 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -140,6 +142,8 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -205,6 +209,24 @@
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "8db68448-6ebb-4361-bcbe-519a1f20fca1",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 41",
+            "type": "vless",
+            "server": "cdn.irancdngame.com",
+            "server_port": 80,
+            "uuid": "d4fa2f07-b925-4448-b921-9039bb5e6257",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 42",
+            "type": "vless",
+            "server": "cdn.irancdngame.com",
+            "server_port": 80,
+            "uuid": "d4fa2f07-b925-4448-b921-9039bb5e6257",
             "flow": "",
             "packet_encoding": "xudp"
         },

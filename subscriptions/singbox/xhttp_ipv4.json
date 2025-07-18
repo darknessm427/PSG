@@ -99,11 +99,9 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
-                "🇳🇱 NL | 🟢 | vless | @ghalagyann | 18",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann | 19",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
-                "🇳🇱 NL | 🟢 | vless | @ghalagyann2 | 10",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 11",
+                "🇳🇱 NL | 🟢 | vless | @ghalagyann | 14",
+                "🇩🇪 DE | 🟢 | vless | @ghalagyann | 15",
+                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 6",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
@@ -148,11 +146,9 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
-                "🇳🇱 NL | 🟢 | vless | @ghalagyann | 18",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann | 19",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
-                "🇳🇱 NL | 🟢 | vless | @ghalagyann2 | 10",
-                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 11",
+                "🇳🇱 NL | 🟢 | vless | @ghalagyann | 14",
+                "🇩🇪 DE | 🟢 | vless | @ghalagyann | 15",
+                "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 6",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
@@ -299,7 +295,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @ghalagyann | 18",
+            "tag": "🇳🇱 NL | 🟢 | vless | @ghalagyann | 14",
             "type": "vless",
             "server": "77.110.103.21",
             "server_port": 50810,
@@ -322,7 +318,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @ghalagyann | 19",
+            "tag": "🇩🇪 DE | 🟢 | vless | @ghalagyann | 15",
             "type": "vless",
             "server": "138.199.168.187",
             "server_port": 28153,
@@ -345,53 +341,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 8",
-            "type": "vless",
-            "server": "138.199.168.187",
-            "server_port": 28153,
-            "uuid": "42ab76bc-9e33-49f6-a999-d0a4398467d0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE",
-                    "short_id": "b6f9"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @ghalagyann2 | 10",
-            "type": "vless",
-            "server": "77.110.103.21",
-            "server_port": 50810,
-            "uuid": "fe698e8a-3d12-4733-bb13-1143ec94a2e2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4",
-                    "short_id": "19dc3c81"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @ghalagyann2 | 6",
             "type": "vless",
             "server": "138.199.168.187",
             "server_port": 28153,
