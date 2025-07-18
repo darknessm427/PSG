@@ -98,8 +98,8 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇬🇧 GB | 🟢 | vless | @config_proxy | 58",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇺🇸 US | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -149,7 +149,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -189,8 +189,8 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 15",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇬🇧 GB | 🟢 | vless | @config_proxy | 58",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
+                "🇺🇸 US | 🟢 | vless | @dailyv2ry | 132",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -240,7 +240,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 8",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -490,29 +490,6 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @config_proxy | 58",
-            "type": "vless",
-            "server": "amazon-13.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -537,6 +514,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:"
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @dailyv2ry | 132",
+            "type": "vless",
+            "server": "amazon-13.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
+                }
             }
         },
         {
@@ -1746,7 +1746,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
