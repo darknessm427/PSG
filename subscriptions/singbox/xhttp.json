@@ -110,11 +110,11 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 66",
-                "🇳🇱 NL | 🟢 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 15",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -201,11 +201,11 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸 US | 🔴 | vless | @free_serverir | 66",
-                "🇳🇱 NL | 🟢 | vless | @getconfigir | 15",
                 "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
                 "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 15",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 15",
+                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @outline_ir | 13",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -464,24 +464,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @getconfigir | 15",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @ghotb_scarf | 7",
             "type": "vless",
             "server": "ips.rainoteam.store",
@@ -542,6 +524,24 @@
                     "enabled": true,
                     "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
                     "short_id": "15a19f76"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
+            "type": "vless",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },

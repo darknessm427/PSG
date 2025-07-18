@@ -1517,7 +1517,8 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2422,9 +2423,9 @@
     },
     "v2raying": {
         "types": [
-            "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "v2rayNG_VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raying.jpg"

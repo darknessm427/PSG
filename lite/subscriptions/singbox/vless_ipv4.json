@@ -176,12 +176,12 @@
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
                 "🇮🇪 IE | 🔴 | vless | @v2hamid | 16",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
-                "🇩🇪 DE | 🔴 | vless | @v2ray_free_conf | 19",
                 "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇮🇷 IR | 🔴 | vless | @v2ray_iran88 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_swhil | 43",
+                "🇺🇸 US | 🟢 | vless | @v2raying | 16",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfiig | 11",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 14",
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 11",
@@ -190,6 +190,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2trayproxy | 12",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
+                "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
@@ -298,12 +299,12 @@
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
                 "🇮🇪 IE | 🔴 | vless | @v2hamid | 16",
                 "🇨🇿 CZ | 🟢 | vless | @v2pedia | 20",
-                "🇩🇪 DE | 🔴 | vless | @v2ray_free_conf | 19",
                 "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇮🇷 IR | 🔴 | vless | @v2ray_iran88 | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_sub | 8",
                 "🇺🇸 US | 🟢 | vless | @v2ray_swhil | 43",
+                "🇺🇸 US | 🟢 | vless | @v2raying | 16",
                 "🇺🇸 US | 🟢 | vless | @v2rayngconfiig | 11",
                 "🇩🇪 DE | 🔴 | vless | @v2rayopen | 14",
                 "🇫🇮 FI | 🔴 | vless | @v2rayprotocol | 11",
@@ -312,6 +313,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2trayproxy | 12",
                 "🇺🇸 US | 🟢 | vless | @vaiking_vpn | 0",
                 "🇺🇸 US | 🔴 | vless | @vaslbemmonid | 5",
+                "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
@@ -1862,15 +1864,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔴 | vless | @v2ray_free_conf | 19",
-            "type": "vless",
-            "server": "91.99.232.132",
-            "server_port": 39954,
-            "uuid": "b79ee06f-d158-48c3-b32d-7ecb90f5f317",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",
             "type": "vless",
             "server": "104.26.1.212",
@@ -1974,6 +1967,31 @@
                 "path": "/Telegram,VPNCUSTOMIZE?ed=8080",
                 "headers": {
                     "Host": "join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @v2raying | 16",
+            "type": "vless",
+            "server": "104.21.43.168",
+            "server_port": 443,
+            "uuid": "f048315b-8bc2-42ff-9b22-4dcbad2b79e4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "s1.sUbUrl.OrG",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/index.html?ed=2560",
+                "headers": {
+                    "Host": "s1.sUbUrl.OrG"
                 }
             }
         },
@@ -2123,6 +2141,15 @@
                     "Host": "151.101.3.8"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @vip_vpn_2022 | 6",
+            "type": "vless",
+            "server": "91.99.232.132",
+            "server_port": 39954,
+            "uuid": "b79ee06f-d158-48c3-b32d-7ecb90f5f317",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
