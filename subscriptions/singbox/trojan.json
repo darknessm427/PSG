@@ -91,6 +91,8 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
+                "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
+                "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
@@ -124,9 +126,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 9",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
-                "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 15",
+                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 8",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -148,6 +148,8 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
+                "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
+                "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
@@ -181,9 +183,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 12",
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 13",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
-                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 9",
-                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
-                "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 15",
+                "🇺🇸 US | 🟢 | trojan | @server_nekobox | 8",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -240,6 +240,38 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
+            "type": "trojan",
+            "server": "yournextcareerstep.online",
+            "server_port": 443,
+            "password": "984e400bf5d541b7b0815913fe0c432a",
+            "tls": {
+                "enabled": true,
+                "server_name": "yournextcareerstep.online",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
+            "type": "trojan",
+            "server": "x5-france-scaleway-v2.devefun.org",
+            "server_port": 1935,
+            "password": "DHvyBZAYmM",
+            "tls": {
+                "enabled": true,
+                "server_name": "x5-france-scaleway-v2.devefun.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -818,7 +850,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @server_nekobox | 9",
+            "tag": "🇺🇸 US | 🟢 | trojan | @server_nekobox | 8",
             "type": "trojan",
             "server": "172.67.181.173",
             "server_port": 443,
@@ -835,45 +867,6 @@
             "transport": {
                 "type": "ws",
                 "path": "/Stupid-World/103.106.228.126-2053",
-                "headers": {
-                    "Host": "vpn.stupidworld.web.id"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 15",
-            "type": "trojan",
-            "server": "52.47.136.181",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 15",
-            "type": "trojan",
-            "server": "172.67.181.173",
-            "server_port": 443,
-            "password": "f282b878-8711-45a1-8c69-5564172123c1",
-            "tls": {
-                "enabled": true,
-                "server_name": "vpn.stupidworld.web.id",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/Tel-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS",
                 "headers": {
                     "Host": "vpn.stupidworld.web.id"
                 }

@@ -89,12 +89,14 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
@@ -112,12 +114,14 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @itv2ray | 29",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
@@ -137,6 +141,29 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
+            "type": "vless",
+            "server": "de6rt.samsungmarketshop.ir",
+            "server_port": 2083,
+            "uuid": "bf989dce-7af7-423b-a499-71da71cdcef1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
+                    "short_id": "aeba"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
@@ -290,6 +317,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Hossien"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
+                }
             }
         },
         {

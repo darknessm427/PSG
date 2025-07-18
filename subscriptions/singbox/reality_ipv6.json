@@ -91,6 +91,7 @@
                 "direct",
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
+                "❔ XX | 🟢 | vless | @ghalagyann2 | 13",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
             ],
             "tag": "proxy",
@@ -101,6 +102,7 @@
             "outbounds": [
                 "❔ XX | 🟢 | vless | @deli_servers | 1",
                 "❔ XX | 🟢 | vless | @fire_vpn_channel | 0",
+                "❔ XX | 🟢 | vless | @ghalagyann2 | 13",
                 "❔ XX | 🟢 | vless | @kesslervpn | 2"
             ],
             "tag": "auto",
@@ -159,6 +161,29 @@
                     "enabled": true,
                     "public_key": "Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ",
                     "short_id": "6412"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @ghalagyann2 | 13",
+            "type": "vless",
+            "server": "[2001:15e8:110:6eb6::1]",
+            "server_port": 29706,
+            "uuid": "ab1cab11-7084-4dad-a1f8-f0bd9862783e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw",
+                    "short_id": "149517c9"
                 }
             }
         },

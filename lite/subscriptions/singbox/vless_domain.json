@@ -96,7 +96,7 @@
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇮🇷 IR | 🔴 | vless | @asak_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
-                "🇺🇸 US | 🟢 | vless | @canfing_vpn | 19",
+                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
@@ -122,9 +122,8 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 9",
+                "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
-                "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
                 "❔ XX | 🟢 | vless | @freev2raym | 10",
@@ -168,7 +167,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -242,7 +241,7 @@
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇮🇷 IR | 🔴 | vless | @asak_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
-                "🇺🇸 US | 🟢 | vless | @canfing_vpn | 19",
+                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
@@ -268,9 +267,8 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇺🇸 US | 🔴 | vless | @freakconfig | 9",
+                "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
-                "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
                 "❔ XX | 🟢 | vless | @freev2raym | 10",
@@ -314,7 +312,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -483,27 +481,25 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @canfing_vpn | 19",
+            "tag": "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "38046915-6d82-4d86-8510-b5bcc569d0ea",
-            "flow": "",
+            "server": "de6rt.samsungmarketshop.ir",
+            "server_port": 2083,
+            "uuid": "bf989dce-7af7-423b-a499-71da71cdcef1",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "PaGes.deV",
+                "server_name": "refersion.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/@Prime_Verse?ed=2560",
-                "headers": {
-                    "Host": "PaGes.deV"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
+                    "short_id": "aeba"
                 }
             }
         },
@@ -897,20 +893,13 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @freakconfig | 9",
+            "tag": "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
             "type": "vless",
-            "server": "GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk",
+            "server": "dl2.pokerad.sbs",
             "server_port": 80,
-            "uuid": "935c990a-9bcc-484b-86a2-2a402f9ad1d4",
+            "uuid": "88d5b659-3c15-47a6-ae3c-b79ed49ef9f3",
             "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk"
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
@@ -927,15 +916,6 @@
                     "Host": "discord.gg"
                 }
             }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔴 | vless | @free1_vpn | 11",
-            "type": "vless",
-            "server": "n4.asmdns.net",
-            "server_port": 44185,
-            "uuid": "4988687e-df1b-45e6-8f7e-fde45b270d76",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
@@ -1655,13 +1635,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
             "type": "vless",
-            "server": "spain.yoozcard.site",
-            "server_port": 80,
-            "uuid": "e5731c5e-2a87-4c30-bee6-80a992af08f3",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
@@ -2276,16 +2270,16 @@
         {
             "tag": "🇺🇸 US | 🔴 | vless | @v2rayng_fars | 19",
             "type": "vless",
-            "server": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK",
+            "server": "ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK",
             "server_port": 80,
-            "uuid": "5139af95-a453-46c6-831a-a532b6b51305",
+            "uuid": "d03d8815-a06f-408f-a62f-6c84869b96a9",
             "flow": "",
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS",
+                "path": "/?--V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS",
                 "headers": {
-                    "Host": "DeEp-RAdIo.SEOtOoLSForYou.CO.UK"
+                    "Host": "ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK"
                 }
             }
         },

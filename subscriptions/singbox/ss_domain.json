@@ -101,11 +101,11 @@
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
-                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 0",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "🇬🇧 GB | 🟢 | ss | @outline_vpn | 18",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
+                "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 14",
@@ -140,11 +140,11 @@
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 6",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
-                "🇬🇧 GB | 🟢 | ss | @mowjproxy | 0",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
                 "🇬🇧 GB | 🟢 | ss | @ntgreenplus | 0",
                 "🇬🇧 GB | 🟢 | ss | @outline_vpn | 18",
                 "❔ XX | 🟢 | ss | @proxy_confiingir | 1",
+                "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
                 "❔ XX | 🟢 | ss | @public504 | 7",
                 "❔ XX | 🟢 | ss | @public504 | 8",
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 14",
@@ -267,14 +267,6 @@
             "password": "2be0c954-4291-45ea-b47d-ca713180550b"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @mowjproxy | 0",
-            "type": "shadowsocks",
-            "server": "admin.c4.webramz.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "69MUii7VDwMqh7Hz"
-        },
-        {
             "tag": "❔ XX | 🟢 | ss | @mt_proxy | 4",
             "type": "shadowsocks",
             "server": "www2.broadalx.cfd",
@@ -305,6 +297,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇬🇧 GB | 🟢 | ss | @prroxyng | 2",
+            "type": "shadowsocks",
+            "server": "admin.c4.webramz.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "69MUii7VDwMqh7Hz"
         },
         {
             "tag": "❔ XX | 🟢 | ss | @public504 | 7",

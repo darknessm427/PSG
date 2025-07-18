@@ -118,7 +118,6 @@
                 "🇺🇸 US | 🔴 | vless | @freev2flyng | 17",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @freevpn3327 | 6",
-                "🇺🇸 US | 🟢 | vless | @freevpnatm | 19",
                 "🇺🇸 US | 🟢 | vless | @gervpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
@@ -156,7 +155,7 @@
                 "🇮🇷 IR | 🔴 | vless | @norbertpro_vpn | 0",
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 2",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+                "🇩🇪 DE | 🔴 | vless | @outlinev2rayng | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @prrofile_purple | 127",
@@ -169,7 +168,7 @@
                 "🇺🇸 US | 🟢 | vless | @sobi_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🔴 | vless | @srovpn | 15",
-                "🇺🇸 US | 🔴 | vless | @summertimeus | 15",
+                "🇺🇸 US | 🟢 | vless | @summertimeus | 14",
                 "🇮🇷 IR | 🔴 | vless | @tc_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @telmavpn | 25",
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
@@ -240,7 +239,6 @@
                 "🇺🇸 US | 🔴 | vless | @freev2flyng | 17",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @freevpn3327 | 6",
-                "🇺🇸 US | 🟢 | vless | @freevpnatm | 19",
                 "🇺🇸 US | 🟢 | vless | @gervpn | 0",
                 "🇮🇷 IR | 🔴 | vless | @ghotb_scarf | 9",
                 "🇮🇷 IR | 🔴 | vless | @goldenvpn_v2rayy | 3",
@@ -278,7 +276,7 @@
                 "🇮🇷 IR | 🔴 | vless | @norbertpro_vpn | 0",
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 2",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+                "🇩🇪 DE | 🔴 | vless | @outlinev2rayng | 14",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @prrofile_purple | 127",
@@ -291,7 +289,7 @@
                 "🇺🇸 US | 🟢 | vless | @sobi_vpn | 9",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🔴 | vless | @srovpn | 15",
-                "🇺🇸 US | 🔴 | vless | @summertimeus | 15",
+                "🇺🇸 US | 🟢 | vless | @summertimeus | 14",
                 "🇮🇷 IR | 🔴 | vless | @tc_v2ray | 5",
                 "🇺🇸 US | 🟢 | vless | @telmavpn | 25",
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
@@ -866,31 +864,6 @@
             "uuid": "5b5c6557-d611-4c6f-a43b-a2c48c0b541d",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @freevpnatm | 19",
-            "type": "vless",
-            "server": "104.21.65.190",
-            "server_port": 443,
-            "uuid": "f69b7304-9bea-4740-a555-797514012a53",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "AAzXSdeR.4444936.xyZ",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/ZR7EK3UEnC29auSeckWI9",
-                "headers": {
-                    "Host": "AAzXSdeR.4444936.xyZ"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @gervpn | 0",
@@ -1526,27 +1499,20 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @outlinev2rayng | 14",
+            "tag": "🇩🇪 DE | 🔴 | vless | @outlinev2rayng | 14",
             "type": "vless",
-            "server": "104.19.245.206",
+            "server": "178.162.244.224",
             "server_port": 443,
-            "uuid": "9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c",
+            "uuid": "83a85a41-fb7f-43e0-9c15-d199509a9624",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "kawaiifreevpn-7ds.pages.dev",
+                "server_name": "178.162.244.224",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "kawaiifreevpn-7ds.pages.dev"
                 }
             }
         },
@@ -1758,13 +1724,29 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @summertimeus | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @summertimeus | 14",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8080,
-            "uuid": "7a711d4e-6606-4e1c-b228-7979511a8459",
+            "server": "172.66.132.196",
+            "server_port": 443,
+            "uuid": "5de46b0d-10fd-4162-8997-5003f9da30e0",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "mmd-p9k.PagEs.Dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/tel-@v2ray_alpha=?ed=2560",
+                "headers": {
+                    "Host": "mmd-p9k.PagEs.Dev"
+                }
+            }
         },
         {
             "tag": "🇮🇷 IR | 🔴 | vless | @tc_v2ray | 5",
