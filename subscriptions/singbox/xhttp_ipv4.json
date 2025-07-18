@@ -97,7 +97,6 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇳🇱 NL | 🟢 | vless | @getconfigir | 18",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -106,6 +105,8 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 8",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
                 "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -142,7 +143,6 @@
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇳🇱 NL | 🟢 | vless | @getconfigir | 18",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -151,6 +151,8 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 8",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
                 "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -264,29 +266,6 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @getconfigir | 18",
-            "type": "vless",
-            "server": "212.107.12.77",
-            "server_port": 11676,
-            "uuid": "4945bf8a-bde4-4d25-9004-ac8d947b951b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com:443",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LRRHR_xkAaA1sfRggwMUtiE4KcZKBaUnS_SGSSTTERA",
-                    "short_id": "a92c028967"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
             "type": "vless",
             "server": "151.101.67.8",
@@ -371,6 +350,52 @@
             "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
+            "type": "vless",
+            "server": "77.110.103.21",
+            "server_port": 50810,
+            "uuid": "72059c29-a302-4bbd-a67a-ed0119fb754e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4",
+                    "short_id": "19dc3c81"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
+            "type": "vless",
+            "server": "212.107.12.77",
+            "server_port": 11676,
+            "uuid": "4945bf8a-bde4-4d25-9004-ac8d947b951b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com:443",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LRRHR_xkAaA1sfRggwMUtiE4KcZKBaUnS_SGSSTTERA",
+                    "short_id": "a92c028967"
+                }
+            }
         },
         {
             "tag": "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
