@@ -92,6 +92,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -120,7 +121,7 @@
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
-                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 120",
+                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 126",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 9",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 0",
@@ -134,11 +135,10 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @configms | 15",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -179,6 +179,7 @@
                 "🇺🇸 US | 🔴 | vless | @appsooner | 8",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
+                "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
                 "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -207,7 +208,7 @@
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
                 "🇺🇸 US | 🔴 | vless | @proxygodratmand | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
-                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 120",
+                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 126",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 9",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
                 "🇺🇸 US | 🔴 | vless | @v2ray_sos | 0",
@@ -221,11 +222,10 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 15",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
-                "🇺🇸 US | 🔴 | vless | @configms | 15",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
-                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
+                "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
@@ -306,6 +306,15 @@
                     "short_id": "aeba"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @config_proxy | 67",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "7d0ebb88-98b8-4108-8fa0-e931e99a240b",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @configscenter | 2",
@@ -615,7 +624,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @prrofile_purple | 120",
+            "tag": "🇺🇸 US | 🔴 | vless | @prrofile_purple | 126",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
             "server_port": 80,
@@ -750,15 +759,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @configms | 15",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @dailytek | 10",
             "type": "vless",
             "server": "151.101.3.8",
@@ -795,7 +795,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
+            "tag": "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 18",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
