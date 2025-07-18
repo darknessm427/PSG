@@ -136,12 +136,12 @@
                 "🇴🇲 OM | 🟢 | ss | @customvpnserver | 25",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 26",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
+                "🇺🇸 US | 🟢 | ss | @dailyv2ry | 154",
                 "🇸🇪 SE | 🟢 | ss | @expressvpn_420 | 22",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 7",
                 "🇺🇸 US | 🟢 | ss | @free1_vpn | 11",
-                "🇰🇿 KZ | 🟢 | ss | @free1ss | 10",
-                "🇨🇦 CA | 🟢 | ss | @free1ss | 13",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 14",
+                "🇨🇦 CA | 🟢 | ss | @free1ss | 12",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 13",
                 "🇩🇪 DE | 🟢 | ss | @freeiranianv2rey | 14",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇳🇱 NL | 🟢 | ss | @freevirgoolnet | 6",
@@ -197,7 +197,7 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 6",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 9",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
-                "🇳🇱 NL | 🟢 | ss | @summertimeus | 11",
+                "🇳🇱 NL | 🟢 | ss | @summertimeus | 9",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v222ray | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2aryng_vpn | 11",
@@ -279,12 +279,12 @@
                 "🇴🇲 OM | 🟢 | ss | @customvpnserver | 25",
                 "🇸🇪 SE | 🟢 | ss | @customvpnserver | 26",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
+                "🇺🇸 US | 🟢 | ss | @dailyv2ry | 154",
                 "🇸🇪 SE | 🟢 | ss | @expressvpn_420 | 22",
                 "🇬🇧 GB | 🟢 | ss | @free1_vpn | 7",
                 "🇺🇸 US | 🟢 | ss | @free1_vpn | 11",
-                "🇰🇿 KZ | 🟢 | ss | @free1ss | 10",
-                "🇨🇦 CA | 🟢 | ss | @free1ss | 13",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 14",
+                "🇨🇦 CA | 🟢 | ss | @free1ss | 12",
+                "🇺🇸 US | 🟢 | ss | @free1ss | 13",
                 "🇩🇪 DE | 🟢 | ss | @freeiranianv2rey | 14",
                 "🇩🇪 DE | 🟢 | ss | @freev2raym | 8",
                 "🇳🇱 NL | 🟢 | ss | @freevirgoolnet | 6",
@@ -340,7 +340,7 @@
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 6",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 9",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
-                "🇳🇱 NL | 🟢 | ss | @summertimeus | 11",
+                "🇳🇱 NL | 🟢 | ss | @summertimeus | 9",
                 "🇫🇷 FR | 🟢 | ss | @tm_vpn_ogrysy | 7",
                 "🇺🇸 US | 🟢 | ss | @v222ray | 4",
                 "🇳🇱 NL | 🟢 | ss | @v2aryng_vpn | 11",
@@ -755,6 +755,14 @@
             "password": "OUERiyxvrzTJi5kftx980G"
         },
         {
+            "tag": "🇺🇸 US | 🟢 | ss | @dailyv2ry | 154",
+            "type": "shadowsocks",
+            "server": "45.87.175.22",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
             "tag": "🇸🇪 SE | 🟢 | ss | @expressvpn_420 | 22",
             "type": "shadowsocks",
             "server": "4.223.100.248",
@@ -779,15 +787,7 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
-            "tag": "🇰🇿 KZ | 🟢 | ss | @free1ss | 10",
-            "type": "shadowsocks",
-            "server": "38.107.234.38",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "a58fa62b4944ddbf"
-        },
-        {
-            "tag": "🇨🇦 CA | 🟢 | ss | @free1ss | 13",
+            "tag": "🇨🇦 CA | 🟢 | ss | @free1ss | 12",
             "type": "shadowsocks",
             "server": "64.74.163.218",
             "server_port": 990,
@@ -795,7 +795,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 14",
+            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 13",
             "type": "shadowsocks",
             "server": "213.111.131.70",
             "server_port": 8443,
@@ -1243,7 +1243,7 @@
             "password": "WrNAsbtcuoeEEQdoSOcPgO"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | ss | @summertimeus | 11",
+            "tag": "🇳🇱 NL | 🟢 | ss | @summertimeus | 9",
             "type": "shadowsocks",
             "server": "45.158.171.60",
             "server_port": 8080,

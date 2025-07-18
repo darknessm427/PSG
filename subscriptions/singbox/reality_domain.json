@@ -122,8 +122,7 @@
                 "🇩🇪 DE | 🟢 | vless | @kingofilter | 5",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 15",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
@@ -211,8 +210,7 @@
                 "🇩🇪 DE | 🟢 | vless | @kingofilter | 5",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
-                "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 15",
-                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
+                "🇩🇪 DE | 🟢 | vless | @mowjproxy | 3",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
@@ -1101,30 +1099,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @manzariyeh_rasht | 15",
-            "type": "vless",
-            "server": "specxtech.ticketdatabase.info",
-            "server_port": 15416,
-            "uuid": "9c28e484-55ed-4756-a6dc-64a9ec7141da",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno",
-                    "short_id": "1ed94ed9"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 4",
+            "tag": "🇩🇪 DE | 🟢 | vless | @mowjproxy | 3",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 53055,

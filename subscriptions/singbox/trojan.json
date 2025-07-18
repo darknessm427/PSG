@@ -91,8 +91,6 @@
                 "direct",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
-                "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
@@ -137,7 +135,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 15",
-                "🇩🇪 DE | 🟢 | trojan | @vaynora | 8",
+                "🇩🇪 DE | 🟢 | trojan | @vaynora | 7",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "proxy",
@@ -148,8 +146,6 @@
             "outbounds": [
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
-                "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
-                "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
@@ -194,7 +190,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 14",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 15",
-                "🇩🇪 DE | 🟢 | trojan | @vaynora | 8",
+                "🇩🇪 DE | 🟢 | trojan | @vaynora | 7",
                 "🇫🇷 FR | 🔴 | trojan | @yxjnode | 23"
             ],
             "tag": "auto",
@@ -240,38 +236,6 @@
                 "path": "/trojan-ntls",
                 "headers": {
                     "Host": "asia.artunnel57.host"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | trojan | @entrynet | 15",
-            "type": "trojan",
-            "server": "yournextcareerstep.online",
-            "server_port": 443,
-            "password": "984e400bf5d541b7b0815913fe0c432a",
-            "tls": {
-                "enabled": true,
-                "server_name": "yournextcareerstep.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @entrynet | 18",
-            "type": "trojan",
-            "server": "x5-france-scaleway-v2.devefun.org",
-            "server_port": 1935,
-            "password": "DHvyBZAYmM",
-            "tls": {
-                "enabled": true,
-                "server_name": "x5-france-scaleway-v2.devefun.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -1024,7 +988,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | trojan | @vaynora | 8",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @vaynora | 7",
             "type": "trojan",
             "server": "63.178.209.45",
             "server_port": 22222,
