@@ -96,7 +96,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15"
+                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -111,7 +111,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15"
+                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -125,7 +125,7 @@
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
             "type": "trojan",
-            "server": "35.181.156.239",
+            "server": "13.37.64.205",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -203,7 +203,7 @@
         {
             "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
             "type": "trojan",
-            "server": "35.181.156.239",
+            "server": "13.37.64.205",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -249,9 +249,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 15",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 14",
             "type": "trojan",
-            "server": "35.181.156.239",
+            "server": "13.37.64.205",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {

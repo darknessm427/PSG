@@ -90,13 +90,12 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
-                "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
+                "🇦🇪 AE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -118,13 +117,12 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
-                "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
+                "🇦🇪 AE | 🟢 | vless | @irv2rey | 5",
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -168,29 +166,6 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @farahvpn | 19",
-            "type": "vless",
-            "server": "51.38.64.196",
-            "server_port": 443,
-            "uuid": "fac1c66f-3ba3-4d24-8ae8-d6049d949898",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s",
-                    "short_id": "a31a8d04622560"
                 }
             }
         },
@@ -318,16 +293,16 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
+            "tag": "🇦🇪 AE | 🟢 | vless | @irv2rey | 5",
             "type": "vless",
-            "server": "77.110.103.21",
-            "server_port": 50810,
-            "uuid": "fe698e8a-3d12-4733-bb13-1143ec94a2e2",
+            "server": "91.98.21.58",
+            "server_port": 18606,
+            "uuid": "10bf842c-ff96-4460-b18c-55d4c3740fc9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "zhaket.com",
+                "server_name": "www.cdn77.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -335,9 +310,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4",
-                    "short_id": "19dc3c81"
+                    "public_key": "9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew",
+                    "short_id": ""
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"
             }
         },
         {
