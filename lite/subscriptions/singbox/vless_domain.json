@@ -138,6 +138,7 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
+                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -167,6 +168,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -183,6 +185,7 @@
                 "❔ XX | 🟢 | vless | @proxy_confiingir | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇬🇧 GB | 🔴 | vless | @proxyandvpnofficial1 | 14",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
@@ -281,6 +284,7 @@
                 "❔ XX | 🔴 | vless | @goodbyefiltering | 7",
                 "🇮🇷 IR | 🔴 | vless | @guard_revil | 3",
                 "🇺🇸 US | 🟢 | vless | @imhdiyvp | 9",
+                "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iranbaxvpn | 8",
                 "🇷🇺 RU | 🔴 | vless | @iranbfilter | 6",
@@ -310,6 +314,7 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇩🇪 DE | 🔴 | vless | @mtproxy22_v2ray | 50",
@@ -326,6 +331,7 @@
                 "❔ XX | 🟢 | vless | @proxy_confiingir | 3",
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇬🇧 GB | 🔴 | vless | @proxyandvpnofficial1 | 14",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
@@ -1165,6 +1171,22 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @info_2it_channel | 10",
+            "type": "vless",
+            "server": "COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK",
+            "server_port": 80,
+            "uuid": "9926ee97-4398-48dd-b263-2863c62f5c41",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560",
+                "headers": {
+                    "Host": "COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK"
+                }
+            }
+        },
+        {
             "tag": "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
             "type": "vless",
             "server": "uae.kitten-tube.com",
@@ -1633,6 +1655,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "spain.yoozcard.site",
+            "server_port": 80,
+            "uuid": "e5731c5e-2a87-4c30-bee6-80a992af08f3",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
             "type": "vless",
             "server": "mrvpn1403.rightel001.chaghooosazi.shop",
@@ -1914,6 +1945,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "dl.dataserverplus.top"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 56658,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
                 }
             }
         },

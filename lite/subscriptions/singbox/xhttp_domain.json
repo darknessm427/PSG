@@ -97,6 +97,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6"
             ],
@@ -114,6 +115,7 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
+                "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6"
             ],
@@ -195,6 +197,15 @@
             "server": "s5.1dnt.k-l.cloud",
             "server_port": 80,
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "spain.yoozcard.site",
+            "server_port": 80,
+            "uuid": "e5731c5e-2a87-4c30-bee6-80a992af08f3",
             "flow": "",
             "packet_encoding": "xudp"
         },
