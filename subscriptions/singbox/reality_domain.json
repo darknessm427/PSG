@@ -100,7 +100,6 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -125,7 +124,7 @@
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -164,7 +163,6 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 14",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -191,7 +189,6 @@
                 "❔ XX | 🟢 | vless | @catvpns | 10",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 8",
-                "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
                 "🇮🇹 IT | 🟢 | vless | @freeiranianv2rey | 13",
@@ -216,7 +213,7 @@
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
-                "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
+                "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
@@ -255,7 +252,6 @@
                 "❔ XX | 🟢 | vless | @vpnbigbang | 7",
                 "❔ XX | 🟢 | vless | @vpnbigbang | 8",
                 "🇳🇱 NL | 🟢 | vless | @vpnod | 14",
-                "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 14",
                 "❔ XX | 🟢 | vless | @webshecan | 9",
                 "❔ XX | 🟢 | vless | @webshecan | 10",
                 "❔ XX | 🟢 | vless | @webshecan | 11",
@@ -536,29 +532,6 @@
                     "enabled": true,
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
-            "type": "vless",
-            "server": "specxtech.ticketdatabase.info",
-            "server_port": 56658,
-            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
-                    "short_id": "15a19f76"
                 }
             }
         },
@@ -1174,7 +1147,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 11",
+            "tag": "🇩🇪 DE | 🟢 | vless | @netmellianti | 10",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 53055,
@@ -2095,29 +2068,6 @@
                     "enabled": true,
                     "public_key": "O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇪🇪 EE | 🟢 | vless | @vpnv2rayngv | 14",
-            "type": "vless",
-            "server": "est01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "2a02cb25-0f58-4b19-a7a6-8c205fdb9042",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "86e999a2cdc2"
                 }
             }
         },

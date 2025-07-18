@@ -98,11 +98,11 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
-                "🇳🇱 NL | 🟢 | vless | @irv2rey | 8",
+                "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
@@ -126,8 +126,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 4",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 15",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 10",
+                "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -144,11 +144,11 @@
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
+                "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
-                "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
-                "🇳🇱 NL | 🟢 | vless | @irv2rey | 8",
+                "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
                 "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
@@ -172,8 +172,8 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 4",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 15",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
-                "🇺🇸 US | 🔴 | vless | @vpncostumer | 11"
+                "🇺🇸 US | 🔴 | vless | @vpncostumer | 10",
+                "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -275,7 +275,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 3",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -284,7 +284,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 4",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -293,7 +293,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 5",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -302,7 +302,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 7",
+            "tag": "🇺🇸 US | 🔴 | vless | @irv2rey | 6",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -311,7 +311,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @irv2rey | 8",
+            "tag": "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
             "type": "vless",
             "server": "77.110.103.21",
             "server_port": 50810,
@@ -717,22 +717,36 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 9",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "01c83d31-8215-4f85-b94b-8c64a92a040a",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 11",
+            "tag": "🇺🇸 US | 🔴 | vless | @vpncostumer | 10",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "64eabf2c-f24a-492c-bdfa-b02a7ebda17c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13",
+            "type": "vless",
+            "server": "212.107.12.77",
+            "server_port": 11676,
+            "uuid": "4945bf8a-bde4-4d25-9004-ac8d947b951b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com:443",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LRRHR_xkAaA1sfRggwMUtiE4KcZKBaUnS_SGSSTTERA",
+                    "short_id": "a92c028967"
+                }
+            }
         }
     ],
     "route": {
