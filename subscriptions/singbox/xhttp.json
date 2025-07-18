@@ -93,7 +93,8 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
+                "🇺🇸 US | 🔴 | vless | @confing_chanel | 24",
+                "🇩🇪 DE | 🟢 | vless | @cook_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -125,6 +126,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
+                "❔ XX | 🟢 | vless | @v2rayweb | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
@@ -143,9 +145,8 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
-                "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 7",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 8",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -178,7 +179,8 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
+                "🇺🇸 US | 🔴 | vless | @confing_chanel | 24",
+                "🇩🇪 DE | 🟢 | vless | @cook_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -210,6 +212,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2ray_sub | 6",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
+                "❔ XX | 🟢 | vless | @v2rayweb | 6",
                 "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
                 "🇮🇹 IT | 🔴 | vless | @xsv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
@@ -228,9 +231,8 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 7",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
-                "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 7",
+                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 8",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -313,13 +315,36 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @confing_chanel | 25",
+            "tag": "🇺🇸 US | 🔴 | vless | @confing_chanel | 24",
             "type": "vless",
             "server": "hibbb.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "2f7308bb-45d4-43ff-98c3-5b46c55bc2f1",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @cook_vpn | 3",
+            "type": "vless",
+            "server": "alman2.kesslershop.ir",
+            "server_port": 8890,
+            "uuid": "375deee9-50a5-4e9b-be57-fa12908d5497",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fZlxWuS-vWZhQ5PQ1VwBWsKxL6T5uKn5zSzGvnUeKhM",
+                    "short_id": "57dae9386011aceb"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @dailytek | 9",
@@ -642,6 +667,29 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "❔ XX | 🟢 | vless | @v2rayweb | 6",
+            "type": "vless",
+            "server": "tell-mehffa.plusonecod.ir",
+            "server_port": 8443,
+            "uuid": "f93c117e-ebf6-4bcc-b47f-e45a9ae185c3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tTtwg8FF1NsLhDn6u3h_mD4-B_buwX-OqoWVZbE2_Ss",
+                    "short_id": "0c559031f0"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔴 | vless | @vpnfree_irann | 2",
             "type": "vless",
             "server": "netmeli.noytads.ir",
@@ -836,7 +884,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 11",
+            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 7",
             "type": "vless",
             "server": "77.110.103.21",
             "server_port": 50810,
@@ -859,7 +907,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 12",
+            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 8",
             "type": "vless",
             "server": "212.107.12.77",
             "server_port": 11676,
@@ -880,15 +928,6 @@
                     "short_id": "a92c028967"
                 }
             }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔴 | vless | @manzariyeh_rasht | 22",
-            "type": "vless",
-            "server": "77.110.103.21",
-            "server_port": 50810,
-            "uuid": "72059c29-a302-4bbd-a67a-ed0119fb754e",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",

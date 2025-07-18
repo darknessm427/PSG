@@ -106,17 +106,14 @@
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
-                "🏳️  | 🟢 | trojan | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 13",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 14",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇬🇧 GB | 🟢 | trojan | @entrynet | 17",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇨🇳 CN | 🔴 | trojan | @hope_net | 15",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 15",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
@@ -129,7 +126,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 8",
-                "🇮🇪 IE | 🟢 | trojan | @v2raych | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -166,17 +163,14 @@
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
-                "🏳️  | 🟢 | trojan | @configshubplus | 16",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 13",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 14",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇬🇧 GB | 🟢 | trojan | @entrynet | 17",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇨🇳 CN | 🔴 | trojan | @hope_net | 15",
-                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @hope_net | 15",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
@@ -189,7 +183,7 @@
                 "🇩🇪 DE | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 8",
-                "🇮🇪 IE | 🟢 | trojan | @v2raych | 15",
+                "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
                 "🇫🇷 FR | 🟢 | trojan | @v2rayngconfig | 44",
@@ -524,22 +518,6 @@
             }
         },
         {
-            "tag": "🏳️  | 🟢 | trojan | @configshubplus | 16",
-            "type": "trojan",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "password": "aaccabb-caab-caab-dcba-caabbcccbbaa",
-            "tls": {
-                "enabled": true,
-                "server_name": "127.0.0.1",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🟢 | trojan | @directvpn | 11",
             "type": "trojan",
             "server": "3.70.31.29",
@@ -643,22 +621,6 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | trojan | @entrynet | 17",
-            "type": "trojan",
-            "server": "51.24.38.182",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
             "type": "trojan",
             "server": "91.107.141.0",
@@ -666,25 +628,25 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇨🇳 CN | 🔴 | trojan | @hope_net | 15",
+            "tag": "🇺🇸 US | 🟢 | trojan | @hope_net | 15",
             "type": "trojan",
-            "server": "223.113.54.145",
-            "server_port": 36442,
-            "password": "QwwHvrnN"
-        },
-        {
-            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
-            "type": "trojan",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "password": "caacabb-caab-acab-acbd-cbabcabcbaac",
+            "server": "198.62.62.67",
+            "server_port": 443,
+            "password": "tg-fq521free",
             "tls": {
                 "enabled": true,
-                "server_name": "127.0.0.1",
+                "server_name": "torjan.xn--xhq44j.eu.org",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "torjan.xn--xhq44j.eu.org"
                 }
             }
         },
@@ -902,10 +864,10 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🟢 | trojan | @v2raych | 15",
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2ray_free_conf | 19",
             "type": "trojan",
-            "server": "52.213.83.23",
-            "server_port": 22222,
+            "server": "35.181.182.57",
+            "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
                 "enabled": true,

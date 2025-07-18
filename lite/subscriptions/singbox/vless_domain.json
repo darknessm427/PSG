@@ -109,7 +109,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -122,7 +122,6 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
@@ -190,9 +189,10 @@
                 "🇮🇷 IR | 🔴 | vless | @tobevasl | 16",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇱🇹 LT | 🔴 | vless | @u7kll | 0",
+                "🇷🇺 RU | 🔴 | vless | @v2aryng_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @v2graphy | 14",
                 "🇺🇸 US | 🟢 | vless | @v2logy | 10",
-                "🇺🇸 US | 🔴 | vless | @v2pedia | 22",
+                "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
                 "❔ XX | 🔴 | vless | @v2raxx | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
@@ -251,7 +251,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇺🇸 US | 🔴 | vless | @custom_v2ray | 5",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
-                "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+                "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
                 "❔ XX | 🟢 | vless | @deragv2ray | 2",
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇮🇷 IR | 🔴 | vless | @easy_free_vpn | 2",
@@ -264,7 +264,6 @@
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "❔ XX | 🟢 | vless | @flash_proxies | 0",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 9",
-                "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
                 "🇺🇸 US | 🔴 | vless | @freakconfig1 | 2",
                 "🇺🇸 US | 🟢 | vless | @free_vpn_for_all_of_us | 19",
                 "❔ XX | 🔴 | vless | @freedom_config | 9",
@@ -332,9 +331,10 @@
                 "🇮🇷 IR | 🔴 | vless | @tobevasl | 16",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇱🇹 LT | 🔴 | vless | @u7kll | 0",
+                "🇷🇺 RU | 🔴 | vless | @v2aryng_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @v2graphy | 14",
                 "🇺🇸 US | 🟢 | vless | @v2logy | 10",
-                "🇺🇸 US | 🔴 | vless | @v2pedia | 22",
+                "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
                 "❔ XX | 🔴 | vless | @v2raxx | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
@@ -695,7 +695,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @darkma3ter24 | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @darkma3ter24 | 13",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8080,
@@ -883,15 +883,6 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇮🇷 IR | 🔴 | vless | @freakconfig | 10",
-            "type": "vless",
-            "server": "dl2.pokerad.sbs",
-            "server_port": 80,
-            "uuid": "88d5b659-3c15-47a6-ae3c-b79ed49ef9f3",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -2047,6 +2038,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇷🇺 RU | 🔴 | vless | @v2aryng_vpn | 11",
+            "type": "vless",
+            "server": "gervip.midnight1.top",
+            "server_port": 300,
+            "uuid": "9b76e072-4c99-459a-ba9d-53479a665110",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | vless | @v2graphy | 14",
             "type": "vless",
             "server": "cdnjs.com",
@@ -2097,7 +2097,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2pedia | 22",
+            "tag": "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
