@@ -481,13 +481,6 @@
         "title": "EleutheriaVPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/eleutheriavpn.jpg"
     },
-    "elfv2ray": {
-        "types": [
-            "vless"
-        ],
-        "title": "𝗘𝗟𝗙𝗩2𝗥𝗔𝗬",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/elfv2ray.jpg"
-    },
     "eliteproxyv2": {
         "types": [
             "vless",
@@ -978,7 +971,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss"
+            "ss",
+            "trojan",
+            "vmess",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2319,8 +2315,8 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
-            "ss",
             "trojan",
+            "ss",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2619,8 +2615,7 @@
     "v2source": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"
