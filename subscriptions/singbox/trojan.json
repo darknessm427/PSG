@@ -112,7 +112,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 14",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇺🇸 US | 🟢 | trojan | @entrynet | 16",
+                "🏳️  | 🟢 | trojan | @entrynet | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
@@ -126,6 +126,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
+                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🏳️  | 🟢 | trojan | @v2raych | 15",
                 "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 15",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
@@ -170,7 +172,7 @@
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 14",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
-                "🇺🇸 US | 🟢 | trojan | @entrynet | 16",
+                "🏳️  | 🟢 | trojan | @entrynet | 18",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
@@ -184,6 +186,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @privatevpns | 15",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇺🇸 US | 🟢 | trojan | @server_nekobox | 10",
+                "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+                "🏳️  | 🟢 | trojan | @v2raych | 15",
                 "🇺🇸 US | 🟢 | trojan | @v2rayng_fars | 15",
                 "🇩🇪 DE | 🟢 | trojan | @v2rayngconfig | 42",
                 "🇨🇦 CA | 🟢 | trojan | @v2rayngconfig | 43",
@@ -623,14 +627,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | trojan | @entrynet | 16",
+            "tag": "🏳️  | 🟢 | trojan | @entrynet | 18",
             "type": "trojan",
-            "server": "104.18.180.201",
-            "server_port": 443,
-            "password": "blue2024",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "password": "aacbcab-caba-abac-dbca-bacaacbccbab",
             "tls": {
                 "enabled": true,
-                "server_name": "ta.promote.icu",
+                "server_name": "127.0.0.1",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -855,6 +859,38 @@
                 "path": "/Stupid-World/103.106.228.126-2053",
                 "headers": {
                     "Host": "vpn.stupidworld.web.id"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | trojan | @v2ray_free_conf | 19",
+            "type": "trojan",
+            "server": "3.68.174.66",
+            "server_port": 22223,
+            "password": "telegram-id-directvpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🏳️  | 🟢 | trojan | @v2raych | 15",
+            "type": "trojan",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "password": "acbbaac-baac-aabc-abcd-aabbabcccbca",
+            "tls": {
+                "enabled": true,
+                "server_name": "127.0.0.1",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
