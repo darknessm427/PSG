@@ -102,8 +102,10 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
+                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
+                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -124,8 +126,10 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
+                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
+                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -386,6 +390,22 @@
             }
         },
         {
+            "tag": "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
+            "type": "trojan",
+            "server": "usla.mjt000.com",
+            "server_port": 443,
+            "password": "e4af2638-bb12-4e4a-84f1-a032e23ca63f",
+            "tls": {
+                "enabled": true,
+                "server_name": "usla.mjt000.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",
             "type": "trojan",
             "server": "amin.karkas1.ir",
@@ -409,7 +429,7 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5",
+            "tag": "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
             "type": "trojan",
             "server": "f10011.flyflylflyflysbs.sbs",
             "server_port": 19949,
@@ -421,6 +441,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5",
+            "type": "trojan",
+            "server": "www.visa.com.sg",
+            "server_port": 2053,
+            "password": "0F22D008-24D4-4DFE-947B-8D2FD64CD24C",
+            "tls": {
+                "enabled": true,
+                "server_name": "t.hongkong6.qzz.io",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "t.hongkong6.qzz.io"
                 }
             }
         }

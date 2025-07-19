@@ -100,12 +100,11 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -126,12 +125,11 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
-                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
             ],
@@ -422,7 +420,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 56658,
@@ -538,29 +536,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇮🇪 IE | 🟢 | vless | @v2rayngrit | 15",
-            "type": "vless",
-            "server": "amazon-4.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
             }
         },
         {

@@ -97,9 +97,11 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 52",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
+                "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -129,7 +131,7 @@
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
-                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -147,7 +149,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -183,9 +185,11 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇳🇱 NL | 🟢 | vless | @config_proxy | 52",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
+                "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -215,7 +219,7 @@
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
-                "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+                "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
                 "❔ XX | 🟢 | vless | @proxysudo | 1",
@@ -233,7 +237,7 @@
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -457,6 +461,33 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🟢 | vless | @config_proxy | 52",
+            "type": "vless",
+            "server": "server2.fergalvpnmod.com",
+            "server_port": 59365,
+            "uuid": "dc1985a0-76ce-486f-b571-4b210aadbc8c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik",
+                    "short_id": "1e"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@FergalVpnMod"
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -527,6 +558,33 @@
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
+            "type": "vless",
+            "server": "server2.fergalvpnmod.com",
+            "server_port": 25126,
+            "uuid": "bab6b157-a6e8-4756-a485-dcb4ca476eb9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik",
+                    "short_id": "1e"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@FergalVpnMod"
             }
         },
         {
@@ -1268,7 +1326,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 6",
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
             "type": "vless",
             "server": "specxtech.ticketdatabase.info",
             "server_port": 56658,
@@ -1294,29 +1352,6 @@
             "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
             "type": "vless",
             "server": "vip1.proxystore11.news",
-            "server_port": 10358,
-            "uuid": "8aae9021-1660-4084-b97d-7c5b94ce91b5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk",
-                    "short_id": "b373044d"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
-            "type": "vless",
-            "server": "vip1.proxystore11.news",
             "server_port": 2052,
             "uuid": "ffab2209-312c-4042-899d-478eb8f21c8e",
             "flow": "xtls-rprx-vision",
@@ -1333,6 +1368,29 @@
                     "enabled": true,
                     "public_key": "-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io",
                     "short_id": "f8fcb589"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 8",
+            "type": "vless",
+            "server": "vip1.proxystore11.news",
+            "server_port": 10358,
+            "uuid": "92c7897a-6494-4719-aefd-aea8280314ce",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk",
+                    "short_id": "b373044d"
                 }
             }
         },
@@ -1694,7 +1752,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

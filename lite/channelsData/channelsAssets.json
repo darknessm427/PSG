@@ -776,9 +776,9 @@
     },
     "freevpnatm": {
         "types": [
+            "vmess",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "科學上网 free configs",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/freevpnatm.jpg"
@@ -955,10 +955,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
             "ss",
-            "vless",
-            "vmess"
+            "trojan",
+            "vmess",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1485,8 +1485,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "Mowj Proxy",
@@ -2298,8 +2298,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "ss",
+            "vmess",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2478,9 +2478,9 @@
     },
     "v2rayngrit": {
         "types": [
-            "ss",
             "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "𓄂ꪜ2𝘳ꪖꪗꪀᧁ𝘳𝓲𝓽𓆃",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngrit.jpg"
@@ -2514,15 +2514,6 @@
         ],
         "title": "🛡️ اکانت های رایگان V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayopen.jpg"
-    },
-    "v2rayport": {
-        "types": [
-            "vmess",
-            "vless",
-            "ss"
-        ],
-        "title": "V2ray | Xray - فیلترشکن",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayport.jpg"
     },
     "v2rayprotocol": {
         "types": [
@@ -2821,14 +2812,6 @@
         ],
         "title": "VPNHOUSE 🏠 | Internet | Proxy | Freedom",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnhouse_official.jpg"
-    },
-    "vpnkanfik": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "کانال پروکسی و کانفیگ سرعتی",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnkanfik.jpg"
     },
     "vpnmeg": {
         "types": [
