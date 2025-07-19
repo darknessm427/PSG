@@ -9,6 +9,7 @@
     },
     "NamiraNet": {
         "types": [
+            "ss",
             "trojan",
             "vless"
         ],
@@ -364,7 +365,10 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vless",
+            "ss",
+            "vmess",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -616,10 +620,9 @@
     },
     "entrynet": {
         "types": [
-            "trojan",
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": ".::entryNET::. Free v2ray vpn &amp; proxy | وی پی ان و پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/entrynet.jpg"
@@ -1151,10 +1154,10 @@
     },
     "hope_net": {
         "types": [
+            "ss",
             "vless",
-            "vmess",
             "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1227,8 +1230,8 @@
         "types": [
             "trojan",
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1247,14 +1250,6 @@
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ipv2rayng.jpg"
-    },
-    "ir_netproxy": {
-        "types": [
-            "vmess",
-            "ss"
-        ],
-        "title": "IR_NetProxy",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ir_netproxy.jpg"
     },
     "iran_access": {
         "types": [
@@ -1671,7 +1666,8 @@
     },
     "manzariyeh_rasht": {
         "types": [
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🌲🌲منظریه نگـو بهشت رشت بگـو🌴🌴",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/manzariyeh_rasht.jpg"
@@ -1986,8 +1982,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -2866,8 +2862,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
+            "trojan",
             "vmess",
             "vless"
         ],
@@ -2976,7 +2972,6 @@
     "v2raych": {
         "types": [
             "vless",
-            "ss",
             "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
@@ -3274,7 +3269,8 @@
     },
     "v2rayweb": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "V2ray | VPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayweb.jpg"
@@ -3758,8 +3754,8 @@
     },
     "vpnv2rayngv": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کانفینگ پروکسی وی توری نت ملی اسکوئید گیم خرید سرورفیلترشکن بازی مرکب وی پی ان اسکویید گیم ایران vpn v2rayNG vmess vless proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnv2rayngv.jpg"
