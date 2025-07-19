@@ -193,7 +193,6 @@
                 "🇷🇺 RU | 🔴 | vless | @v2aryng_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @v2graphy | 14",
                 "🇺🇸 US | 🟢 | vless | @v2logy | 10",
-                "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
                 "❔ XX | 🔴 | vless | @v2raxx | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
@@ -208,7 +207,6 @@
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
-                "🇺🇸 US | 🔴 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
@@ -336,7 +334,6 @@
                 "🇷🇺 RU | 🔴 | vless | @v2aryng_vpn | 11",
                 "🇺🇸 US | 🟢 | vless | @v2graphy | 14",
                 "🇺🇸 US | 🟢 | vless | @v2logy | 10",
-                "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
                 "❔ XX | 🔴 | vless | @v2raxx | 9",
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
@@ -351,7 +348,6 @@
                 "❔ XX | 🔴 | vless | @v2rayturbo | 8",
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
-                "🇺🇸 US | 🔴 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
@@ -2145,22 +2141,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2pedia | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "28ec01eb-1683-4e4e-a766-4d6123350942",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/ali",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔴 | vless | @v2raxx | 9",
             "type": "vless",
             "server": "V2RAXX-channel.cataba.ir",
@@ -2438,22 +2418,6 @@
                 "path": "/?ed=2048",
                 "headers": {
                     "Host": "confignginxV2rayng.vpncustomize.Website"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "modern-promise.seotoolsforyou.co.uk",
-            "server_port": 80,
-            "uuid": "bd9b0366-e5dd-4665-bd5b-9896bc7327ae",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "modern-promise.seotoolsforyou.co.uk"
                 }
             }
         },

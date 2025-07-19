@@ -132,6 +132,7 @@
                 "🇺🇸 US | 🟢 | vless | @limootuursh | 0",
                 "🇮🇷 IR | 🔴 | vless | @loatvpn | 5",
                 "🇩🇪 DE | 🔴 | vless | @lombo_channel | 3",
+                "🇺🇸 US | 🔴 | vless | @lranonline_new | 8",
                 "🇺🇸 US | 🟢 | vless | @mahdivpn2 | 4",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -151,9 +152,8 @@
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 1",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 10",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 12",
+                "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 10",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @pusyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -170,6 +170,7 @@
                 "🇺🇸 US | 🟢 | vless | @telmavpn | 25",
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
                 "🇮🇪 IE | 🔴 | vless | @v2hamid | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2pedia | 16",
                 "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇮🇷 IR | 🔴 | vless | @v2ray_iran88 | 9",
@@ -242,6 +243,7 @@
                 "🇺🇸 US | 🟢 | vless | @limootuursh | 0",
                 "🇮🇷 IR | 🔴 | vless | @loatvpn | 5",
                 "🇩🇪 DE | 🔴 | vless | @lombo_channel | 3",
+                "🇺🇸 US | 🔴 | vless | @lranonline_new | 8",
                 "🇺🇸 US | 🟢 | vless | @mahdivpn2 | 4",
                 "🇺🇸 US | 🔴 | vless | @manstervpn | 75",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
@@ -261,9 +263,8 @@
                 "🇺🇸 US | 🟢 | vless | @ntconfig | 1",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 10",
                 "🇮🇷 IR | 🔴 | vless | @orgempirenet | 1",
-                "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
-                "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 12",
+                "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 10",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇮🇷 IR | 🔴 | vless | @pusyvpn | 9",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
@@ -280,6 +281,7 @@
                 "🇺🇸 US | 🟢 | vless | @telmavpn | 25",
                 "🇺🇸 US | 🔴 | vless | @topvpn02 | 0",
                 "🇮🇪 IE | 🔴 | vless | @v2hamid | 16",
+                "🇩🇪 DE | 🔴 | vless | @v2pedia | 16",
                 "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
                 "🇮🇷 IR | 🔴 | vless | @v2ray_iran88 | 9",
@@ -1090,6 +1092,22 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔴 | vless | @lranonline_new | 8",
+            "type": "vless",
+            "server": "104.21.96.1",
+            "server_port": 80,
+            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/193.123.81.105=443",
+                "headers": {
+                    "Host": "104.21.96.1"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🟢 | vless | @mahdivpn2 | 4",
             "type": "vless",
             "server": "190.93.247.155",
@@ -1405,33 +1423,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
-            "type": "vless",
-            "server": "194.182.79.142",
-            "server_port": 11745,
-            "uuid": "f278037e-ce36-4634-9b4d-fca93e345a35",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo",
-                    "short_id": "26a52325"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | vless | @proxie | 15",
             "type": "vless",
             "server": "188.114.97.3",
@@ -1450,7 +1441,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 12",
+            "tag": "🇺🇸 US | 🔴 | vless | @proxyandvpnofficial1 | 10",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -1746,6 +1737,22 @@
             "uuid": "cccc4339-5d60-4d65-9027-d36e102e025b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔴 | vless | @v2pedia | 16",
+            "type": "vless",
+            "server": "91.107.170.215",
+            "server_port": 80,
+            "uuid": "28ec01eb-1683-4e4e-a766-4d6123350942",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/ali",
+                "headers": {
+                    "Host": "91.107.170.215"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @v2ray_god | 3",

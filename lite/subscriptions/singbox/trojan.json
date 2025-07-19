@@ -100,7 +100,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11"
+                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
+                "🇺🇸 US | 🟢 | trojan | @vmess_ir | 18"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -119,7 +120,8 @@
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11"
+                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 11",
+                "🇺🇸 US | 🟢 | trojan | @vmess_ir | 18"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -344,6 +346,29 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @vmess_ir | 18",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn.stupidworld.web.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Tel-@V2ray_Alpha",
+                "headers": {
+                    "Host": "vpn.stupidworld.web.id"
                 }
             }
         }

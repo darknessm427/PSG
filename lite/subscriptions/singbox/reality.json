@@ -122,7 +122,6 @@
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 10",
-                "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -171,7 +170,6 @@
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
                 "🇩🇪 DE | 🟢 | vless | @orange_vpns | 10",
-                "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -995,33 +993,6 @@
                     "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
                     "short_id": "974a74bf"
                 }
-            }
-        },
-        {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @outlinev2rayng | 15",
-            "type": "vless",
-            "server": "194.182.79.142",
-            "server_port": 11745,
-            "uuid": "f278037e-ce36-4634-9b4d-fca93e345a35",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo",
-                    "short_id": "26a52325"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {
