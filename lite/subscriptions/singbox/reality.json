@@ -105,13 +105,14 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 7",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
@@ -153,13 +154,14 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
+                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
                 "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 7",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
@@ -585,6 +587,33 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🟢 | vless | @v2source | 19",
+            "type": "vless",
+            "server": "join-dailyconfigs.resurrection-time.sbs",
+            "server_port": 39840,
+            "uuid": "2c44299e-ece9-4cf0-9999-91573a5d885b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "openai.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cBtMVPDxwtgUBpOn0gz59eJsjG_Mu8WenSbSdZ6M1kw",
+                    "short_id": "63f2"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @vp22ray | 10",
             "type": "vless",
             "server": "German.vp22ray.site",
@@ -727,7 +756,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
+            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 7",
             "type": "vless",
             "server": "213.183.41.63",
             "server_port": 443,

@@ -36,6 +36,7 @@ proxies:
   - {"name":"🇺🇸 US | 🔴 | vmess | @freev2rays | 19","type":"vmess","server":"cloudgetservice.mcloudservice.site","port":443,"cipher":"auto","uuid":"5428dcc2-9950-4404-b8a5-9dac82acb210","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"Host":"maXNEtVIP-usA-VP3.nETKH3.SiTE"}}}
   - {"name":"🇩🇪 DE | 🔴 | vmess | @freevmess | 4","type":"vmess","server":"167.235.204.122","port":80,"cipher":"auto","uuid":"2aac77de-b3e4-4017-845c-ca1380f2e8d0","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/telegram-id-@privatevpns","headers":{"Host":""}}}
   - {"name":"🇺🇸 US | 🔴 | vmess | @freevpnatm | 14","type":"vmess","server":"2606:4700:3036::AC43:c502","port":80,"cipher":"auto","uuid":"6e5925c0-f39e-4449-93e9-2e2e9772b17b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/AI48RxpSOQ5YVJVp4fx59ry","headers":{"Host":"11q.003330333.xyz"}}}
+  - {"name":"🇺🇸 US | 🔴 | vmess | @ip_cf_config | 13","type":"vmess","server":"104.18.149.76","port":443,"cipher":"auto","uuid":"de94cc0a-0592-4969-b1fc-97ea8f0ea0b3","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/aa","headers":{"Host":"us.kkp.me.eu.org"}}}
   - {"name":"🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13","type":"vmess","server":"89.116.38.184","port":3456,"cipher":"auto","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17","type":"vmess","server":"1000site.ir","port":80,"cipher":"auto","uuid":"e37f970a-052c-4c4d-9983-3c3b93f6c22c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"httpupgrade"}
   - {"name":"❔ XX | 🔴 | vmess | @jedal_vpn | 4","type":"vmess","server":"ge-6.jedalvip.site","port":17305,"cipher":"auto","uuid":"6546c678-3f22-4a32-899b-84035ce40199","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"Host":""}}}
@@ -85,6 +86,7 @@ proxy-groups:
       - '🇺🇸 US | 🔴 | vmess | @freev2rays | 19'
       - '🇩🇪 DE | 🔴 | vmess | @freevmess | 4'
       - '🇺🇸 US | 🔴 | vmess | @freevpnatm | 14'
+      - '🇺🇸 US | 🔴 | vmess | @ip_cf_config | 13'
       - '🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13'
       - '🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17'
       - '❔ XX | 🔴 | vmess | @jedal_vpn | 4'

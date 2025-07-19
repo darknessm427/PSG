@@ -94,8 +94,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇺🇸 US | 🟢 | vless | @v2rayopen | 9",
-                "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=Mahsazxshop.org&type=xhttp#🇺🇸 US | 🔴 | vless | @v2source | 19"
+                "🇺🇸 US | 🟢 | vless | @v2rayopen | 9"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,8 +107,7 @@
                 "🇺🇸 US | 🟢 | vless | @proxie | 15",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇺🇸 US | 🔴 | vless | @qeshmserver | 12",
-                "🇺🇸 US | 🟢 | vless | @v2rayopen | 9",
-                "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=Mahsazxshop.org&type=xhttp#🇺🇸 US | 🔴 | vless | @v2source | 19"
+                "🇺🇸 US | 🟢 | vless | @v2rayopen | 9"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -219,15 +217,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=Mahsazxshop.org&type=xhttp#🇺🇸 US | 🔴 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "e2a0b27d-1330-409e-876a-eacc7d833049",
-            "flow": "",
-            "packet_encoding": "xudp"
         }
     ],
     "route": {

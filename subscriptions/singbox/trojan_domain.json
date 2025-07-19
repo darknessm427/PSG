@@ -92,8 +92,6 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 8",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -116,8 +114,6 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 8",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -190,36 +186,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 8",
-            "type": "trojan",
-            "server": "391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net",
-            "server_port": 15229,
-            "password": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 11",
-            "type": "trojan",
-            "server": "production.tj.ojan.workers.dev",
-            "server_port": 443,
-            "password": "9yu6m5okr",
-            "tls": {
-                "enabled": true,
-                "server_name": "production.tj.ojan.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "production.tj.ojan.workers.dev"
                 }
             }
         },

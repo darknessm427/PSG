@@ -94,7 +94,6 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
-                "❔ XX | 🟢 | vless | @ghalagyann | 14",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
@@ -120,7 +119,6 @@
                 "❔ XX | 🔴 | vless | @freevv2rayng | 6",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 9",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
-                "❔ XX | 🟢 | vless | @ghalagyann | 14",
                 "❔ XX | 🔴 | vless | @internet_nor | 0",
                 "❔ XX | 🔴 | vless | @internet_nor | 1",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
@@ -243,29 +241,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @ghalagyann | 14",
-            "type": "vless",
-            "server": "[2001:15e8:110:6eb6::1]",
-            "server_port": 29706,
-            "uuid": "ab1cab11-7084-4dad-a1f8-f0bd9862783e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw",
-                    "short_id": "149517c9"
                 }
             }
         },
