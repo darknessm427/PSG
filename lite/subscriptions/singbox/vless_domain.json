@@ -196,6 +196,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
+                "🇺🇸 US | 🔴 | vless | @v2raying | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
@@ -336,6 +337,7 @@
                 "🇺🇸 US | 🟢 | vless | @v2ray_reality_new | 8",
                 "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
                 "❔ XX | 🟢 | vless | @v2raycollectordonate | 8",
+                "🇺🇸 US | 🔴 | vless | @v2raying | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "🇺🇸 US | 🔴 | vless | @v2rayngalpha | 6",
@@ -2184,6 +2186,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "ShhProxyFreViP.xn--85-pv2cl2k5x3fipr.org."
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2raying | 18",
+            "type": "vless",
+            "server": "sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk",
+            "server_port": 80,
+            "uuid": "05020a61-3c0c-4ead-b256-7851ff905a75",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk"
                 }
             }
         },
