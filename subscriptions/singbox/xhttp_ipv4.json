@@ -89,8 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
@@ -107,8 +106,6 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 4",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 5",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -128,6 +125,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
+                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 16",
                 "🇺🇸 US | 🟢 | vless | @v2reay | 13",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 14",
@@ -140,8 +138,7 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
-                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
+                "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
@@ -158,8 +155,6 @@
                 "🇳🇱 NL | 🟢 | vless | @irv2rey | 4",
                 "🇺🇸 US | 🔴 | vless | @komail315 | 1",
                 "🇺🇸 US | 🔴 | vless | @lexernet | 7",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 4",
-                "🇳🇱 NL | 🟢 | vless | @lranonline_new | 5",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇺🇸 US | 🟢 | vless | @proxie | 12",
@@ -179,6 +174,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 0",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
+                "🇱🇰 LK | 🟢 | vless | @v2rayweb | 16",
                 "🇺🇸 US | 🟢 | vless | @v2reay | 13",
                 "🇺🇸 US | 🟢 | vless | @vistav2ray | 11",
                 "🇺🇸 US | 🔴 | vless | @vpnaloo | 14",
@@ -195,16 +191,7 @@
             "type": "direct"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "ea86cb06-a6da-454c-8aae-f4e65f1df975",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @argooo_vpn | 12",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -424,52 +411,6 @@
             "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 4",
-            "type": "vless",
-            "server": "77.110.103.21",
-            "server_port": 50810,
-            "uuid": "72059c29-a302-4bbd-a67a-ed0119fb754e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4",
-                    "short_id": "19dc3c81"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @lranonline_new | 5",
-            "type": "vless",
-            "server": "212.107.12.77",
-            "server_port": 11676,
-            "uuid": "4945bf8a-bde4-4d25-9004-ac8d947b951b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com:443",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LRRHR_xkAaA1sfRggwMUtiE4KcZKBaUnS_SGSSTTERA",
-                    "short_id": "a92c028967"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 0",
@@ -789,6 +730,29 @@
             "uuid": "joinshotoV2rayNGFreee",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇱🇰 LK | 🟢 | vless | @v2rayweb | 16",
+            "type": "vless",
+            "server": "87.121.47.43",
+            "server_port": 38695,
+            "uuid": "055040d4-1f27-43a2-9f76-1b76348c500e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "adtarget.com.tr",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MSJcFxa73jkdbwZXbaWmoFtNemDw2F8jcV1d5LsGtiM",
+                    "short_id": "6e004b2fd1bf"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @v2reay | 13",
