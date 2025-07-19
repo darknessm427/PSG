@@ -11,7 +11,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -954,10 +955,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
-            "vmess",
             "trojan",
-            "vless"
+            "vless",
+            "vmess",
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2297,9 +2298,9 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "trojan",
             "ss",
             "vmess",
-            "trojan",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2676,7 +2677,6 @@
     },
     "vmess_ir": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
@@ -2806,13 +2806,6 @@
         ],
         "title": "فیلتر شکن رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfree_irann.jpg"
-    },
-    "vpnfreeo": {
-        "types": [
-            "vless"
-        ],
-        "title": "VPN FREEO",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnfreeo.jpg"
     },
     "vpngate_config": {
         "types": [

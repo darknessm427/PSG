@@ -24,12 +24,12 @@ dns:
 
 proxies: 
   - {"name":"🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2","type":"trojan","server":"production.tj.ojan.workers.dev","port":443,"password":"9yu6m5okr","skip-cert-verify":false}
+  - {"name":"❔ XX | 🔴 | trojan | @ip_cf_config | 12","type":"trojan","server":"13c2c931-swin40-swy6li-tni2.cu.plebai.net","port":15229,"password":"5e2f888c-68ef-11ef-96ca-f23c9164ca5d","skip-cert-verify":false}
   - {"name":"❔ XX | 🟢 | trojan | @maradona_vpn | 8","type":"trojan","server":"maradona_vpn.history-paint.art","port":443,"password":"Maradona_vpn","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6","type":"trojan","server":"de1.test3.net","port":443,"password":"b8841c50-c3ad-11ee-9be0-1239d0255272","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @directvpn | 15","type":"trojan","server":"13.37.64.205","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @dnsforyou | 8","type":"trojan","server":"172.67.181.173","port":443,"password":"f282b878-8711-45a1-8c69-5564172123c1","skip-cert-verify":false}
   - {"name":"🇺🇸 US | 🟢 | trojan | @freevpnatm | 19","type":"trojan","server":"172.67.131.76","port":443,"password":"3d9741da-c0e4-47cc-a5e0-f1af3d337dae","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🟢 | trojan | @ip_cf_config | 12","type":"trojan","server":"198.23.229.250","port":443,"password":"2ee85121-31de-4581-a492-eb00f606e392","skip-cert-verify":false}
   - {"name":"🇸🇬 SG | 🟢 | trojan | @mpmehi | 0","type":"trojan","server":"146.190.87.238","port":443,"password":"oZAugtgF5T","skip-cert-verify":false}
   - {"name":"🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15","type":"trojan","server":"176.32.39.29","port":443,"password":"8OXD5VVt8s","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🟢 | trojan | @privatevpns | 15","type":"trojan","server":"13.37.64.205","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -51,12 +51,12 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2'
+      - '❔ XX | 🔴 | trojan | @ip_cf_config | 12'
       - '❔ XX | 🟢 | trojan | @maradona_vpn | 8'
       - '🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6'
       - '🇫🇷 FR | 🟢 | trojan | @directvpn | 15'
       - '🇺🇸 US | 🟢 | trojan | @dnsforyou | 8'
       - '🇺🇸 US | 🟢 | trojan | @freevpnatm | 19'
-      - '🇺🇸 US | 🟢 | trojan | @ip_cf_config | 12'
       - '🇸🇬 SG | 🟢 | trojan | @mpmehi | 0'
       - '🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15'
       - '🇫🇷 FR | 🟢 | trojan | @privatevpns | 15'

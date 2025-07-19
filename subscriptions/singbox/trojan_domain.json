@@ -92,6 +92,7 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -102,6 +103,7 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇫🇷 FR | 🟢 | trojan | @v2rayweb | 17",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -114,6 +116,7 @@
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -124,6 +127,7 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
+                "🇫🇷 FR | 🟢 | trojan | @v2rayweb | 17",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5"
             ],
@@ -188,6 +192,13 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
+            "type": "trojan",
+            "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
+            "server_port": 15229,
+            "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -383,6 +394,17 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayweb | 17",
+            "type": "trojan",
+            "server": "join-dailyconfigs.resurrection-time.sbs",
+            "server_port": 56807,
+            "password": "rhSacvSrrW",
+            "transport": {
+                "type": "grpc",
+                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
             }
         },
         {

@@ -190,13 +190,12 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
-                "🇮🇷 IR | 🔴 | vless | @vmess_ir | 18",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpn451 | 11",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 17",
                 "🇺🇸 US | 🟢 | vless | @vpn_ocean | 1",
                 "🇺🇸 US | 🔴 | vless | @vpn_zvpn | 13",
                 "🇩🇪 DE | 🔴 | vless | @vpnaloo | 16",
-                "🇺🇸 US | 🟢 | vless | @vpnfreeo | 33",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇮🇷 IR | 🔴 | vless | @vpnpopular2023 | 3",
                 "🇺🇸 US | 🟢 | vless | @vpnstorefast | 17",
@@ -311,13 +310,12 @@
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇫🇷 FR | 🟢 | vless | @vlessconfig | 15",
-                "🇮🇷 IR | 🔴 | vless | @vmess_ir | 18",
+                "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
                 "🇩🇪 DE | 🟢 | vless | @vpn451 | 11",
                 "🇺🇸 US | 🟢 | vless | @vpn_ioss | 17",
                 "🇺🇸 US | 🟢 | vless | @vpn_ocean | 1",
                 "🇺🇸 US | 🔴 | vless | @vpn_zvpn | 13",
                 "🇩🇪 DE | 🔴 | vless | @vpnaloo | 16",
-                "🇺🇸 US | 🟢 | vless | @vpnfreeo | 33",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
                 "🇮🇷 IR | 🔴 | vless | @vpnpopular2023 | 3",
                 "🇺🇸 US | 🟢 | vless | @vpnstorefast | 17",
@@ -2120,13 +2118,20 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔴 | vless | @vmess_ir | 18",
+            "tag": "🇺🇸 US | 🔴 | vless | @vmess_ir | 18",
             "type": "vless",
-            "server": "85.133.233.59",
-            "server_port": 8080,
-            "uuid": "bf742aa8-0168-4081-b01f-3c3e994b054f",
+            "server": "172.67.65.158",
+            "server_port": 8880,
+            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Etb1L6YUdZFZuTOr?ed=2560",
+                "headers": {
+                    "Host": "172.67.65.158"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @vpn451 | 11",
@@ -2233,28 +2238,6 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | vless | @vpnfreeo | 33",
-            "type": "vless",
-            "server": "190.93.246.241",
-            "server_port": 2087,
-            "uuid": "1148c7b4-4a39-4e31-80a3-dd2dc91e34a5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cj.LsV2ray.top",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector@https_config_injector"
             }
         },
         {
