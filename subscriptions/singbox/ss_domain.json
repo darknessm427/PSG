@@ -96,7 +96,9 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇭🇰 HK | 🟢 | ss | @hope_net | 17",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 5",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -109,7 +111,7 @@
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 14",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
+                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 1",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
@@ -132,7 +134,9 @@
                 "🇮🇷 IR | 🟢 | ss | @configscenter | 0",
                 "🇬🇧 GB | 🟢 | ss | @fastvpnorummobile | 0",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
+                "🇭🇰 HK | 🟢 | ss | @hope_net | 17",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 5",
+                "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 10",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -145,7 +149,7 @@
                 "🇵🇹 PT | 🟢 | ss | @shadowsockskeys | 14",
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
-                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
+                "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 1",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "❔ XX | 🟢 | ss | @v2rayngvvpn | 23",
@@ -221,12 +225,28 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
+            "tag": "🇭🇰 HK | 🟢 | ss | @hope_net | 17",
+            "type": "shadowsocks",
+            "server": "k-r04.loveroise.com",
+            "server_port": 54014,
+            "method": "chacha20-ietf-poly1305",
+            "password": "09833a6f-4d46-426e-87fe-7793a5489f84"
+        },
+        {
             "tag": "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 5",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇸🇪 SE | 🟢 | ss | @ip_cf_config | 10",
+            "type": "shadowsocks",
+            "server": "azure-sto.edgeservers.org",
+            "server_port": 48172,
+            "method": "chacha20-ietf-poly1305",
+            "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
@@ -325,7 +345,7 @@
             "password": "1U5MUwZqVsFkDGXQfabJP9"
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
+            "tag": "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 1",
             "type": "shadowsocks",
             "server": "admin.c1.webramz.co",
             "server_port": 443,
