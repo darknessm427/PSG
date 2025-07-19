@@ -89,9 +89,11 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇺🇸 US | 🔴 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -102,10 +104,8 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
-                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5"
+                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,9 +113,11 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇺🇸 US | 🔴 | trojan | @NamiraNet | 69",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -126,10 +128,8 @@
                 "🇺🇸 US | 🟢 | trojan | @teamvpnpro | 3",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
                 "❔ XX | 🟢 | trojan | @v2rayngconfig | 41",
-                "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
-                "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
-                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5"
+                "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -139,6 +139,22 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | trojan | @NamiraNet | 69",
+            "type": "trojan",
+            "server": "jobsfortheworldtoday.com",
+            "server_port": 443,
+            "password": "71409d3e488548e8bb076d229778f008",
+            "tls": {
+                "enabled": true,
+                "server_name": "jobsfortheworldtoday.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -192,6 +208,13 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 10",
+            "type": "trojan",
+            "server": "391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net",
+            "server_port": 15229,
+            "password": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -390,22 +413,6 @@
             }
         },
         {
-            "tag": "🇭🇰 HK | 🟢 | trojan | @v2rayweb | 16",
-            "type": "trojan",
-            "server": "usla.mjt000.com",
-            "server_port": 443,
-            "password": "e4af2638-bb12-4e4a-84f1-a032e23ca63f",
-            "tls": {
-                "enabled": true,
-                "server_name": "usla.mjt000.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | trojan | @xrayzxn | 4",
             "type": "trojan",
             "server": "amin.karkas1.ir",
@@ -429,23 +436,7 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 3",
-            "type": "trojan",
-            "server": "f10011.flyflylflyflysbs.sbs",
-            "server_port": 19949,
-            "password": "9c3c38d0-8637-4c94-a790-61f3202a943a",
-            "tls": {
-                "enabled": true,
-                "server_name": "tw01.ckcloud.info",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @zdyz2 | 5",
+            "tag": "🇺🇸 US | 🟢 | trojan | @zdyz2 | 0",
             "type": "trojan",
             "server": "www.visa.com.sg",
             "server_port": 2053,
