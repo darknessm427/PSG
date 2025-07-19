@@ -422,14 +422,14 @@
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
             "type": "vless",
-            "server": "specxtech.ticketdatabase.info",
-            "server_port": 56658,
-            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "server": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
+            "server_port": 443,
+            "uuid": "1584806e-f63d-4f9b-a0b3-abe64b35a09c",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -437,8 +437,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
-                    "short_id": "15a19f76"
+                    "public_key": "GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ",
+                    "short_id": "974a74bf"
                 }
             }
         },

@@ -95,11 +95,11 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6"
+                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 4",
+                "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -113,11 +113,11 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
-                "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
+                "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 3",
-                "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-                "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6"
+                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 4",
+                "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -197,7 +197,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
+            "tag": "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
             "type": "vless",
             "server": "server2.ultra-irancell.com",
             "server_port": 80,
@@ -224,16 +224,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
-            "type": "vless",
-            "server": "viop.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2raymelliii | 6",
+            "tag": "🇳🇱 NL | 🟢 | vless | @mowjproxy | 4",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
@@ -249,6 +240,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @v2ray_vmes | 16",
+            "type": "vless",
+            "server": "viop.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {

@@ -93,7 +93,7 @@
                 "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
@@ -101,7 +101,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
-                "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
+                "🇱🇰 LK | 🟢 | vless | @mtpv2ray | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -123,7 +123,7 @@
                 "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
                 "🇺🇸 US | 🟢 | vless | @happ_tm_official | 1",
                 "🇫🇷 FR | 🟢 | vless | @ip_ramzi | 11",
@@ -131,7 +131,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
-                "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
+                "🇱🇰 LK | 🟢 | vless | @mtpv2ray | 9",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -249,7 +249,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
+            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 8",
             "type": "vless",
             "server": "213.183.41.63",
             "server_port": 443,
@@ -445,16 +445,16 @@
             }
         },
         {
-            "tag": "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
+            "tag": "🇱🇰 LK | 🟢 | vless | @mtpv2ray | 9",
             "type": "vless",
-            "server": "130.185.122.139",
-            "server_port": 16380,
-            "uuid": "a84f0ac2-0a3d-4ad4-bd9e-9b9ed0f7a603",
+            "server": "87.120.92.135",
+            "server_port": 443,
+            "uuid": "94103d28-98c9-462a-9098-f3c69163749c",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "microsoft.com",
+                "server_name": "www.latimes.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -462,8 +462,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "fcCCo3amb6xSdqw_NPVERN8TF-Noy4DRHLNFM9ee4DQ",
-                    "short_id": "7821497e5d"
+                    "public_key": "ERFNXMOphtOIgiaj2XyHxE7NYsXJTErd1bPPnLCWYgw",
+                    "short_id": "6038"
                 }
             }
         },
