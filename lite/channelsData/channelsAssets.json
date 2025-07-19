@@ -9,10 +9,8 @@
     },
     "NamiraNet": {
         "types": [
-            "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -956,9 +954,9 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
-            "vless",
             "trojan",
+            "vless",
+            "ss",
             "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
@@ -1486,8 +1484,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"

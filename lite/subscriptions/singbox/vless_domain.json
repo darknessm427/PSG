@@ -164,7 +164,6 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 9",
@@ -209,6 +208,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇫🇷 FR | 🟢 | vless | @v2source | 19",
+                "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 8",
@@ -306,7 +306,6 @@
                 "❔ XX | 🔴 | vless | @miov2ray | 11",
                 "❔ XX | 🔴 | vless | @miyanbor_vpn | 0",
                 "🇩🇪 DE | 🔴 | vless | @moon_ping | 0",
-                "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
                 "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
                 "❔ XX | 🟢 | vless | @mt_team_iran | 4",
                 "🇨🇦 CA | 🟢 | vless | @n2vpn | 9",
@@ -351,6 +350,7 @@
                 "❔ XX | 🟢 | vless | @v2rayvpnclub | 20",
                 "🇺🇸 US | 🟢 | vless | @v2rayy_vpn13 | 12",
                 "🇫🇷 FR | 🟢 | vless | @v2source | 19",
+                "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "🇺🇸 US | 🔴 | vless | @vpn_bal0uch | 4",
                 "🇺🇸 US | 🔴 | vless | @vpn_meliii | 8",
@@ -1600,31 +1600,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @mowjproxy | 4",
-            "type": "vless",
-            "server": "zula.ir",
-            "server_port": 2087,
-            "uuid": "554e89e9-5d47-408a-ee92-2fa8506bc78c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Hopev2.hopebook75zulawu.online",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "Hopev2.hopebook75zulawu.online"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @mrvpn1403 | 4",
             "type": "vless",
             "server": "mrvpn1403.rightel001.chaghooosazi.shop",
@@ -2464,6 +2439,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
+            "type": "vless",
+            "server": "api.node.snap.com.digi-gamingzone.koalavault.servers807.ir",
+            "server_port": 2025,
+            "uuid": "9705cfd1-d9b6-4d46-831e-ad06550d8e9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "sadf2341sad"
             }
         },
         {

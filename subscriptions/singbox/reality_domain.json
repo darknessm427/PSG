@@ -100,7 +100,6 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
-                "🇬🇧 GB | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -122,14 +121,14 @@
                 "🇳🇱 NL | 🟢 | vless | @kafing_2 | 17",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
-                "🇩🇪 DE | 🟢 | vless | @kingofilter | 3",
+                "🇩🇪 DE | 🟢 | vless | @kingofilter | 2",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇬🇧 GB | 🟢 | vless | @outline_ir | 13",
-                "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
+                "🇸🇪 SE | 🟢 | vless | @outline_ir | 15",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -155,6 +154,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 10",
+                "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "🇳🇱 NL | 🟢 | vless | @vistav2ray | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -188,7 +188,6 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
-                "🇬🇧 GB | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -210,14 +209,14 @@
                 "🇳🇱 NL | 🟢 | vless | @kafing_2 | 17",
                 "🇩🇪 DE | 🟢 | vless | @kesslervpn | 2",
                 "🇮🇹 IT | 🟢 | vless | @khalaa_vpn | 1",
-                "🇩🇪 DE | 🟢 | vless | @kingofilter | 3",
+                "🇩🇪 DE | 🟢 | vless | @kingofilter | 2",
                 "❔ XX | 🟢 | vless | @kkkkkoabvbbvbvv | 9",
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🟢 | vless | @mtpv2ray | 7",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇬🇧 GB | 🟢 | vless | @outline_ir | 13",
-                "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
+                "🇸🇪 SE | 🟢 | vless | @outline_ir | 15",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -243,6 +242,7 @@
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 10",
+                "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "🇳🇱 NL | 🟢 | vless | @vistav2ray | 15",
                 "❔ XX | 🟢 | vless | @vp22ray | 6",
                 "❔ XX | 🟢 | vless | @vp22ray | 7",
@@ -535,29 +535,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@FergalVpnMod"
-            }
-        },
-        {
-            "tag": "🇬🇧 GB | 🟢 | vless | @entrynet | 17",
-            "type": "vless",
-            "server": "v29.vxlimir.com",
-            "server_port": 1370,
-            "uuid": "878879e6-4f80-4e85-a415-85533b536d13",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw",
-                    "short_id": "e1afb93bfe75a34b"
-                }
             }
         },
         {
@@ -1103,7 +1080,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🟢 | vless | @kingofilter | 3",
+            "tag": "🇩🇪 DE | 🟢 | vless | @kingofilter | 2",
             "type": "vless",
             "server": "vpn_proxy_channel_vpn_proxy_channel.hohod.ir",
             "server_port": 443,
@@ -1276,7 +1253,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
+            "tag": "🇸🇪 SE | 🟢 | vless | @outline_ir | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1891,6 +1868,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@FergalVpnMod"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
+            "type": "vless",
+            "server": "api.node.snap.com.digi-gamingzone.koalavault.servers807.ir",
+            "server_port": 2025,
+            "uuid": "9705cfd1-d9b6-4d46-831e-ad06550d8e9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "sadf2341sad"
             }
         },
         {
