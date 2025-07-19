@@ -7,16 +7,6 @@
         "title": "کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/Fr33C0nfig.jpg"
     },
-    "NamiraNet": {
-        "types": [
-            "ss",
-            "trojan",
-            "vless",
-            "vmess"
-        ],
-        "title": "‌NamiraNet / نامیرا نت",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
-    },
     "ai_duet": {
         "types": [
             "vless",
@@ -956,10 +946,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
-            "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vless",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1487,7 +1477,6 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "ss",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -1625,8 +1614,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -2590,8 +2579,8 @@
     },
     "v2source": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free V2ray",
@@ -2845,8 +2834,8 @@
     },
     "vpnv2rayngv": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کانفینگ پروکسی وی توری نت ملی اسکوئید گیم خرید سرورفیلترشکن بازی مرکب وی پی ان اسکویید گیم ایران vpn v2rayNG vmess vless proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnv2rayngv.jpg"

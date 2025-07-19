@@ -90,6 +90,7 @@
                 "auto",
                 "direct",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
@@ -100,6 +101,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -118,6 +120,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
                 "🇫🇮 FI | 🟢 | vless | @fastfreeconfig | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
                 "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
@@ -128,6 +131,7 @@
                 "🇩🇪 DE | 🟢 | vless | @jokerv2ray | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -168,6 +172,29 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @expressvpn_420 | 30",
+            "type": "vless",
+            "server": "62.212.70.94",
+            "server_port": 2026,
+            "uuid": "b962948d-6d78-4810-a8df-1b062a23cafe",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "U3dj7hcbexG-SmeG88Mdzr7-4aHk-r_IShG2EXTvXFI",
+                    "short_id": "e9"
                 }
             }
         },
@@ -414,6 +441,29 @@
                     "enabled": true,
                     "public_key": "W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇦🇪 AE | 🟢 | vless | @mowjproxy | 4",
+            "type": "vless",
+            "server": "130.185.122.139",
+            "server_port": 16380,
+            "uuid": "a84f0ac2-0a3d-4ad4-bd9e-9b9ed0f7a603",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "microsoft.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fcCCo3amb6xSdqw_NPVERN8TF-Noy4DRHLNFM9ee4DQ",
+                    "short_id": "7821497e5d"
                 }
             }
         },

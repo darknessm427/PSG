@@ -100,6 +100,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -143,11 +144,10 @@
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 2",
-                "🇳🇱 NL | 🟢 | vless | @v2ray_v_vpn | 6",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -186,6 +186,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -229,11 +230,10 @@
                 "❔ XX | 🟢 | vless | @tc_v2ray | 1",
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 2",
-                "🇳🇱 NL | 🟢 | vless | @v2ray_v_vpn | 6",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
+                "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
@@ -531,6 +531,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@FergalVpnMod"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
+                }
             }
         },
         {
@@ -1602,29 +1625,6 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🟢 | vless | @v2ray_v_vpn | 6",
-            "type": "vless",
-            "server": "turbooserver.sadafspace.com",
-            "server_port": 55990,
-            "uuid": "turboo-server",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "canva.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04",
-                    "short_id": "eebcfab3"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @v2rayang201 | 3",
             "type": "vless",
             "server": "zelling.mhdizeb.cfd",
@@ -1698,7 +1698,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @v2rayngrit | 14",
+            "tag": "🇨🇦 CA | 🟢 | vless | @v2rayngrit | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

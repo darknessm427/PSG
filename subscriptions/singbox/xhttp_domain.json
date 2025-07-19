@@ -93,7 +93,6 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @confing_chanel | 22",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -101,6 +100,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
@@ -110,11 +110,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
-                "PSGzegtstuylv",
+                "PSGnavusvulrx",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
+                "🇳🇱 NL | 🟢 | vless | @proxycrone | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 4",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
@@ -136,7 +136,6 @@
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "🇺🇸 US | 🔴 | vless | @configscenter | 2",
-                "🇺🇸 US | 🔴 | vless | @confing_chanel | 22",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 9",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 12",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 13",
@@ -144,6 +143,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
                 "🇺🇸 US | 🔴 | vless | @falcunargo | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
@@ -153,11 +153,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 3",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
-                "PSGzegtstuylv",
+                "PSGnavusvulrx",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
+                "🇳🇱 NL | 🟢 | vless | @proxycrone | 2",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 4",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
@@ -229,15 +229,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @confing_chanel | 22",
-            "type": "vless",
-            "server": "hibbb.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "2f7308bb-45d4-43ff-98c3-5b46c55bc2f1",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @dailytek | 9",
             "type": "vless",
             "server": "speedtest.net",
@@ -299,6 +290,29 @@
             "uuid": "55d7c587-7d65-4cd2-a51a-0a7fb6a63285",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @entrynet | 18",
+            "type": "vless",
+            "server": "specxtech.ticketdatabase.info",
+            "server_port": 53055,
+            "uuid": "dfe4a8e3-609b-43f1-92d3-9921d09b875f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk",
+                    "short_id": "15a19f76"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
@@ -382,7 +396,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "PSGzegtstuylv",
+            "tag": "PSGnavusvulrx",
             "type": "vless",
             "server": "hibbb.fast.hosting-ip.com",
             "server_port": 80,
@@ -398,24 +412,6 @@
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @nofiltering2 | 18",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @proxie | 11",
@@ -443,6 +439,24 @@
             "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @proxycrone | 2",
+            "type": "vless",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
