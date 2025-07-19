@@ -90,11 +90,11 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 15",
+                "🇰🇷 KR | 🟢 | ss | @free1ss | 15",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -104,7 +104,7 @@
                 "🇩🇪 DE | 🟢 | ss | @msv2flyng | 12",
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
-                "🇵🇱 PL | 🟢 | ss | @outlineopenkey | 9",
+                "🇬🇧 GB | 🟢 | ss | @outlineopenkey | 9",
                 "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
@@ -132,11 +132,11 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 15",
+                "🇰🇷 KR | 🟢 | ss | @free1ss | 15",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -146,7 +146,7 @@
                 "🇩🇪 DE | 🟢 | ss | @msv2flyng | 12",
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
-                "🇵🇱 PL | 🟢 | ss | @outlineopenkey | 9",
+                "🇬🇧 GB | 🟢 | ss | @outlineopenkey | 9",
                 "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
@@ -185,12 +185,12 @@
             "password": "Ib9hxFZxUH4m"
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | ss | @argo_vpn1 | 12",
+            "tag": "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 12",
             "type": "shadowsocks",
-            "server": "77.83.246.74",
-            "server_port": 443,
+            "server": "213.111.142.59",
+            "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
-            "password": "xACbFD7SWmbV7oKX0djMrZ"
+            "password": "K5H7ATShusHhlh7Tbs6ANK"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
@@ -217,12 +217,12 @@
             "password": "OUERiyxvrzTJi5kftx980G"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 15",
+            "tag": "🇰🇷 KR | 🟢 | ss | @free1ss | 15",
             "type": "shadowsocks",
-            "server": "213.111.142.59",
-            "server_port": 8443,
+            "server": "141.164.63.32",
+            "server_port": 30936,
             "method": "chacha20-ietf-poly1305",
-            "password": "K5H7ATShusHhlh7Tbs6ANK"
+            "password": "b25727df-15ea-453c-a006-13fe98fee1d2"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -297,12 +297,12 @@
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
         },
         {
-            "tag": "🇵🇱 PL | 🟢 | ss | @outlineopenkey | 9",
+            "tag": "🇬🇧 GB | 🟢 | ss | @outlineopenkey | 9",
             "type": "shadowsocks",
-            "server": "77.83.246.74",
+            "server": "89.185.84.185",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "QXc8QEsPfUEUKIFDz4Dqwa"
+            "password": "CsJL0wk3lXKlu4zYZpzXIK"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
