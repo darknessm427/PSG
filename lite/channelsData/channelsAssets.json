@@ -11,7 +11,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -38,15 +39,6 @@
         ],
         "title": "v2rayNG کانفیگ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/alo_v2rayng.jpg"
-    },
-    "aminaqafarzane": {
-        "types": [
-            "vless",
-            "vmess",
-            "trojan"
-        ],
-        "title": "شاپ امین آقا فرزانه",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/aminaqafarzane.jpg"
     },
     "amirinventor2010": {
         "types": [
@@ -628,8 +620,8 @@
     },
     "fnet00": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🗽 FNET00 | همه چیز آزاد 🤍",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fnet00.jpg"
@@ -971,10 +963,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "trojan",
-            "vmess",
+            "ss",
             "vless",
-            "ss"
+            "vmess",
+            "trojan"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2314,10 +2306,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
-            "vless",
             "vmess",
-            "trojan"
+            "trojan",
+            "ss",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2614,8 +2606,8 @@
     },
     "v2source": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2source.jpg"

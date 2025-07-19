@@ -111,6 +111,7 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -149,6 +150,7 @@
                 "❔ XX | 🟢 | ss | @srovpn | 13",
                 "🇳🇱 NL | 🟢 | ss | @strongprotocol | 7",
                 "🇬🇧 GB | 🟢 | ss | @ultrasurf_12 | 2",
+                "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
                 "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",
                 "🇬🇧 GB | 🟢 | ss | @v2raybe | 6",
                 "🇳🇱 NL | 🟢 | ss | @v2rayngrit | 11",
@@ -343,6 +345,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "1xO2cqPazqjGfCfd"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @v2ray_free_conf | 16",
+            "type": "shadowsocks",
+            "server": "host.phonygilson.icu",
+            "server_port": 49072,
+            "method": "chacha20-ietf-poly1305",
+            "password": "2TyfdE1Di6h5BeFnimMePBYHksAUNXmvpbgiCWJDcDTff2acNnRDXYQpRPoFzcC4vu9WfHrUBV5VwVA6j8S1cNxNLNhZvo2E"
         },
         {
             "tag": "🇬🇧 GB | 🟢 | ss | @v2rayang201 | 7",

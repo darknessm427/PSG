@@ -101,6 +101,7 @@
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇨🇿 CZ | 🟢 | vless | @mowjproxy | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -129,6 +130,7 @@
                 "🇷🇺 RU | 🟢 | vless | @kanfig_majani | 16",
                 "🇩🇪 DE | 🟢 | vless | @mehduox_vpn | 2",
                 "🇩🇪 DE | 🟢 | vless | @merdesert | 3",
+                "🇨🇿 CZ | 🟢 | vless | @mowjproxy | 3",
                 "🇺🇸 US | 🟢 | vless | @proxygrizzly | 0",
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
@@ -438,6 +440,33 @@
                     "public_key": "W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg",
                     "short_id": ""
                 }
+            }
+        },
+        {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @mowjproxy | 3",
+            "type": "vless",
+            "server": "194.182.79.250",
+            "server_port": 52611,
+            "uuid": "211bdee3-b5dc-43d3-b2a5-3716359fc79c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8",
+                    "short_id": "27e90618"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {
