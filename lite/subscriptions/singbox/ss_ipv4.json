@@ -89,13 +89,12 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "🇸🇬 SG | 🟢 | ss | @NamiraNet | 62",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 16",
+                "🇪🇸 ES | 🟢 | ss | @free1ss | 16",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -106,7 +105,7 @@
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
                 "🇬🇧 GB | 🟢 | ss | @outlineopenkey | 9",
-                "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
+                "🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
@@ -122,13 +121,12 @@
         {
             "interval": "10m",
             "outbounds": [
-                "🇸🇬 SG | 🟢 | ss | @NamiraNet | 62",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
                 "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 12",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
-                "🇺🇸 US | 🟢 | ss | @free1ss | 16",
+                "🇪🇸 ES | 🟢 | ss | @free1ss | 16",
                 "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
                 "🇬🇧 GB | 🟢 | ss | @injectormconf | 39",
                 "🇳🇱 NL | 🟢 | ss | @jiedianf | 7",
@@ -139,7 +137,7 @@
                 "🇬🇧 GB | 🟢 | ss | @novinology | 16",
                 "🇺🇸 US | 🟢 | ss | @outline_ir | 16",
                 "🇬🇧 GB | 🟢 | ss | @outlineopenkey | 9",
-                "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
+                "🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 19",
                 "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",
                 "🇪🇪 EE | 🟢 | ss | @shadowsockskeys | 17",
                 "🇫🇮 FI | 🟢 | ss | @strongprotocol | 10",
@@ -157,14 +155,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "🇸🇬 SG | 🟢 | ss | @NamiraNet | 62",
-            "type": "shadowsocks",
-            "server": "45.76.180.205",
-            "server_port": 31298,
-            "method": "chacha20-ietf-poly1305",
-            "password": "c976721a-e390-4dbf-b4f9-72c3feb9594c"
         },
         {
             "tag": "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
@@ -207,12 +197,12 @@
             "password": "OUERiyxvrzTJi5kftx980G"
         },
         {
-            "tag": "🇺🇸 US | 🟢 | ss | @free1ss | 16",
+            "tag": "🇪🇸 ES | 🟢 | ss | @free1ss | 16",
             "type": "shadowsocks",
-            "server": "104.167.197.25",
-            "server_port": 57456,
+            "server": "194.87.45.189",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "360e21d21977dc11"
+            "password": "K2WzmAQJL9La9pZgTV1cur"
         },
         {
             "tag": "🇫🇷 FR | 🟢 | ss | @freevirgoolnet | 7",
@@ -295,12 +285,12 @@
             "password": "CsJL0wk3lXKlu4zYZpzXIK"
         },
         {
-            "tag": "🇦🇹 AT | 🟢 | ss | @outlinereleasedkey | 19",
+            "tag": "🇸🇬 SG | 🟢 | ss | @outlinereleasedkey | 19",
             "type": "shadowsocks",
-            "server": "95.163.176.37",
-            "server_port": 8506,
+            "server": "45.76.180.205",
+            "server_port": 31298,
             "method": "chacha20-ietf-poly1305",
-            "password": "eUh4lSpi7nOYj0vSrqLUh0"
+            "password": "c976721a-e390-4dbf-b4f9-72c3feb9594c"
         },
         {
             "tag": "🇦🇪 AE | 🟢 | ss | @proxy_net_meli | 9",

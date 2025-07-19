@@ -91,13 +91,15 @@
                 "direct",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @arv2ray | 14",
+                "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
+                "🇺🇸 US | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
+                "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 1",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 2",
@@ -139,13 +141,15 @@
             "outbounds": [
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @argooo_vpn | 13",
-                "🇺🇸 US | 🔴 | vless | @arv2ray | 14",
+                "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
+                "🇺🇸 US | 🟢 | vless | @flyv2ray | 4",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
+                "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇺🇸 US | 🔴 | vless | @gh_v2rayng | 19",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 1",
                 "🇺🇸 US | 🔴 | vless | @irv2rey | 2",
@@ -207,7 +211,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @arv2ray | 14",
+            "tag": "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -279,6 +283,24 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🟢 | vless | @flyv2ray | 4",
+            "type": "vless",
+            "server": "104.21.48.1",
+            "server_port": 2083,
+            "uuid": "c4e6a6ef-d782-4a12-a38a-906a61ee5bc1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "cho.chonon.sbs",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
             "type": "vless",
             "server": "91.107.254.202",
@@ -298,6 +320,29 @@
                     "enabled": true,
                     "public_key": "sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ",
                     "short_id": "a0e13102"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+            "type": "vless",
+            "server": "5.161.151.225",
+            "server_port": 6009,
+            "uuid": "bd33dca5-e673-4c02-a629-f7fa368e2333",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "adtarget.com.tr",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
+                    "short_id": "dc5db021ae2038a9"
                 }
             }
         },

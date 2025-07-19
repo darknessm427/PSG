@@ -100,6 +100,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -146,15 +147,13 @@
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 2",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_v_vpn | 6",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 19",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 13",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 11",
@@ -190,6 +189,7 @@
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
+                "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -236,15 +236,13 @@
                 "🇳🇱 NL | 🟢 | vless | @turboo_server | 2",
                 "🇳🇱 NL | 🟢 | vless | @v2ray_v_vpn | 6",
                 "❔ XX | 🟢 | vless | @v2rayang201 | 3",
+                "🇩🇪 DE | 🟢 | vless | @v2raych | 19",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
                 "🇺🇸 US | 🟢 | vless | @v2rayngrit | 15",
                 "🇩🇪 DE | 🟢 | vless | @v2rayngseven | 5",
                 "🇩🇪 DE | 🟢 | vless | @v2rayprotocol | 7",
                 "❔ XX | 🟢 | vless | @v2rayturbo | 4",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 13",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-                "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
                 "❔ XX | 🟢 | vless | @v2rayy_vpn13 | 8",
                 "❔ XX | 🟢 | vless | @v2rayza | 18",
                 "🇳🇱 NL | 🟢 | vless | @v2reay | 11",
@@ -535,6 +533,33 @@
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🟢 | vless | @entrynet | 17",
+            "type": "vless",
+            "server": "api.node.snap.com.digi-gamingzone.koalavault.servers807.ir",
+            "server_port": 2025,
+            "uuid": "9705cfd1-d9b6-4d46-831e-ad06550d8e9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "t.me/entryNET"
             }
         },
         {
@@ -1675,6 +1700,33 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🟢 | vless | @v2raych | 19",
+            "type": "vless",
+            "server": "api.node.snap.com.digi-gamingzone.koalavault.servers807.ir",
+            "server_port": 2025,
+            "uuid": "9705cfd1-d9b6-4d46-831e-ad06550d8e9a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "sadf2341sad"
+            }
+        },
+        {
             "tag": "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -1814,87 +1866,6 @@
                     "public_key": "bf0D8kLkfGVYP8NVpiOGKcm-wutxlcLXua3760tRgkI",
                     "short_id": "adf6b90c"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 13",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 35673,
-            "uuid": "eb6eaa3a-acec-466a-83b6-2579c9dfcd53",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "slack.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "X0Qh1nKfoT6KDIvVnHsGU8lYKHsW2fmn0Tm1QNsFRg8",
-                    "short_id": "752105e2e443eece"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 14",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 20223,
-            "uuid": "56da2541-465c-4e66-a4b8-fdcff2cc1ffd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "github.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ctBMudbuPNp96pmVEuLdNJJ8TXqJ3KR9kAoAvCdrrQM",
-                    "short_id": "3b28"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2rayweb | 15",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 39840,
-            "uuid": "3fae1c0a-1f61-4661-a11e-5bacf28af17e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "openai.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cBtMVPDxwtgUBpOn0gz59eJsjG_Mu8WenSbSdZ6M1kw",
-                    "short_id": "63f2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
             }
         },
         {

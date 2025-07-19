@@ -23,6 +23,7 @@ dns:
     - '+.pool.ntp.org'
 
 proxies: 
+  - {"name":"❔ XX | 🟢 | vless | @config_proxy | 91","type":"vless","server":"[2001:15e8:110:6eb6::1]","port":29706,"uuid":"ab1cab11-7084-4dad-a1f8-f0bd9862783e","tls":true,"network":"grpc","client-fingerprint":"chrome","udp":true,"servername":"sourceforge.net","grpc-opts":{"grpc-service-name":"Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"},"reality-opts":{"public-key":"DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw","short-id":"149517c9"}}
   - {"name":"❔ XX | 🟢 | vless | @deli_servers | 1","type":"vless","server":"[2a01:4f8:c012:81c0::1]","port":1,"uuid":"d3927fcb-1dd4-4a84-af91-75196dcc0ee9","tls":true,"network":"grpc","client-fingerprint":"firefox","udp":true,"servername":"4dsply.com","grpc-opts":{"grpc-service-name":"/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers"},"reality-opts":{"public-key":"L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ","short-id":"bbcb1cf7"}}
   - {"name":"❔ XX | 🟢 | vless | @fire_vpn_channel | 0","type":"vless","server":"[2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e]","port":443,"uuid":"ac864844-c86b-4ac5-bbe9-50fcc05123f2","tls":true,"network":"tcp","client-fingerprint":"chrome","udp":true,"servername":"srhrforall.org","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ","short-id":"6412"}}
   - {"name":"❔ XX | 🟢 | vless | @ghalagyann | 19","type":"vless","server":"[2001:15e8:110:6eb6::1]","port":29706,"uuid":"ab1cab11-7084-4dad-a1f8-f0bd9862783e","tls":true,"network":"grpc=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann","client-fingerprint":"chrome","udp":true,"servername":"sourceforge.net","reality-opts":{"public-key":"DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw","short-id":"149517c9"}}
@@ -40,6 +41,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies: 
+      - '❔ XX | 🟢 | vless | @config_proxy | 91'
       - '❔ XX | 🟢 | vless | @deli_servers | 1'
       - '❔ XX | 🟢 | vless | @fire_vpn_channel | 0'
       - '❔ XX | 🟢 | vless | @ghalagyann | 19'

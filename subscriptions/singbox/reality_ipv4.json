@@ -94,11 +94,10 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
-                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
+                "🇨🇿 CZ | 🟢 | vless | @config_proxy | 90",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -112,11 +111,13 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
+                "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 2",
                 "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
+                "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 18",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 20",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 21",
@@ -223,11 +224,10 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
-                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
+                "🇨🇿 CZ | 🟢 | vless | @config_proxy | 90",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
-                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -241,11 +241,13 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
+                "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 2",
                 "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
                 "🇬🇧 GB | 🟢 | vless | @freevlessvpn | 0",
+                "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 18",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 20",
                 "🇨🇿 CZ | 🟢 | vless | @ghalagyann | 21",
@@ -474,16 +476,16 @@
             }
         },
         {
-            "tag": "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
+            "tag": "🇨🇿 CZ | 🟢 | vless | @config_proxy | 90",
             "type": "vless",
-            "server": "91.98.21.58",
-            "server_port": 18606,
-            "uuid": "10bf842c-ff96-4460-b18c-55d4c3740fc9",
+            "server": "194.182.79.182",
+            "server_port": 29706,
+            "uuid": "ab1cab11-7084-4dad-a1f8-f0bd9862783e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "www.cdn77.com",
+                "server_name": "sourceforge.net",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -491,13 +493,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew",
-                    "short_id": ""
+                    "public_key": "DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw",
+                    "short_id": "149517c9"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {
@@ -574,29 +576,6 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
-            "type": "vless",
-            "server": "194.182.79.64",
-            "server_port": 14074,
-            "uuid": "96095804-6e2b-4ed4-8bd5-49c28cb73679",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng",
-                    "short_id": "61"
                 }
             }
         },
@@ -916,6 +895,33 @@
             }
         },
         {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @flyv2ray | 2",
+            "type": "vless",
+            "server": "194.182.79.43",
+            "server_port": 25244,
+            "uuid": "89fb8f5a-7647-43e0-970b-76a6f9230699",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8",
+                    "short_id": "8126fad06ad38b84"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
+            }
+        },
+        {
             "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
             "type": "vless",
             "server": "213.183.41.63",
@@ -1039,6 +1045,29 @@
                     "enabled": true,
                     "public_key": "GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU",
                     "short_id": "17ce7de25d262bbe"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | vless | @game_file2020 | 9",
+            "type": "vless",
+            "server": "5.161.151.225",
+            "server_port": 6009,
+            "uuid": "bd33dca5-e673-4c02-a629-f7fa368e2333",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "adtarget.com.tr",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc",
+                    "short_id": "dc5db021ae2038a9"
                 }
             }
         },
