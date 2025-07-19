@@ -90,17 +90,18 @@
                 "auto",
                 "direct",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 16",
+                "🇩🇪 DE | 🟢 | trojan | @directvpn | 14",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13"
+                "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -109,17 +110,18 @@
             "interval": "10m",
             "outbounds": [
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
+                "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 16",
+                "🇩🇪 DE | 🟢 | trojan | @directvpn | 14",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇸🇬 SG | 🟢 | trojan | @mpmehi | 0",
                 "🇷🇺 RU | 🟢 | trojan | @noforcedheaven | 15",
-                "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
+                "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
                 "🇫🇷 FR | 🟢 | trojan | @proxyfn | 18",
                 "🇫🇷 FR | 🟢 | trojan | @v2ray_extractor | 19",
                 "🇺🇸 US | 🟢 | trojan | @v2rayngconfig | 45",
-                "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13"
+                "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -152,6 +154,13 @@
                     "Host": "production.tj.ojan.workers.dev"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
+            "type": "trojan",
+            "server": "391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net",
+            "server_port": 15229,
+            "password": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
@@ -190,9 +199,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 16",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @directvpn | 14",
             "type": "trojan",
-            "server": "13.39.238.208",
+            "server": "3.74.12.246",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "tls": {
@@ -268,9 +277,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @privatevpns | 16",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @privatevpns | 14",
             "type": "trojan",
-            "server": "13.39.238.208",
+            "server": "3.74.12.246",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "tls": {
@@ -332,9 +341,9 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @v2rayvpnchannel | 13",
+            "tag": "🇩🇪 DE | 🟢 | trojan | @v2rayvpnchannel | 12",
             "type": "trojan",
-            "server": "13.39.238.208",
+            "server": "18.194.118.31",
             "server_port": 22223,
             "password": "telegram-id-v2rayvpnchannel",
             "tls": {

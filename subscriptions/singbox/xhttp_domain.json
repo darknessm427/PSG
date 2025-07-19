@@ -100,9 +100,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
-                "🇬🇧 GB | 🔴 | vless | @entrynet | 15",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 2",
@@ -110,11 +108,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
-                "PSGkfupfqlfja",
+                "PSGyckfhmgihs",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 1",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
+                "🇳🇱 NL | 🟢 | vless | @proxycrone | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 4",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
@@ -143,9 +141,7 @@
                 "❔ XX | 🔴 | vless | @dgkbza | 21",
                 "🇺🇸 US | 🔴 | vless | @elfv2ray | 2",
                 "🇺🇸 US | 🔴 | vless | @eliteproxyv2 | 9",
-                "🇬🇧 GB | 🔴 | vless | @entrynet | 15",
                 "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
-                "🇺🇸 US | 🔴 | vless | @falcunargo | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 0",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 1",
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 2",
@@ -153,11 +149,11 @@
                 "🇺🇸 US | 🔴 | vless | @fastshovpn | 4",
                 "🇺🇸 US | 🔴 | vless | @father_vpn | 2",
                 "🇺🇸 US | 🔴 | vless | @fnet00 | 8",
-                "PSGkfupfqlfja",
+                "PSGyckfhmgihs",
                 "🇩🇪 DE | 🔴 | vless | @iseqaro | 2",
-                "🇳🇱 NL | 🟢 | vless | @mowjproxy | 1",
                 "🇺🇸 US | 🟢 | vless | @proxie | 11",
                 "🇺🇸 US | 🔴 | vless | @proxy_v2box | 5",
+                "🇳🇱 NL | 🟢 | vless | @proxycrone | 1",
                 "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",
                 "🇺🇸 US | 🔴 | vless | @server_nekobox | 4",
                 "🇺🇸 US | 🟢 | vless | @sharecentrepro | 1",
@@ -292,29 +288,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇬🇧 GB | 🔴 | vless | @entrynet | 15",
-            "type": "vless",
-            "server": "1.ariyanln.com",
-            "server_port": 5051,
-            "uuid": "19a30f83-9516-4a44-8a69-9a5258bc9df8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @evay_vpn | 14",
             "type": "vless",
             "server": "Evay.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "e02a83a6-16c9-4eaf-d40e-1387028d93a0",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔴 | vless | @falcunargo | 1",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "b0ea73c1-2a12-45c1-b9a4-1432c8244a3e",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -382,7 +360,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "PSGkfupfqlfja",
+            "tag": "PSGyckfhmgihs",
             "type": "vless",
             "server": "hibbb.fast.hosting-ip.com",
             "server_port": 80,
@@ -398,24 +376,6 @@
             "uuid": "f353fbf3-b6a1-4524-b916-f65bc077511f",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇳🇱 NL | 🟢 | vless | @mowjproxy | 1",
-            "type": "vless",
-            "server": "statue.lnmarketplace.net",
-            "server_port": 443,
-            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "statue.lnmarketplace.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @proxie | 11",
@@ -443,6 +403,24 @@
             "uuid": "9c2e1da7-8e50-4899-ad69-ad0b52de696c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🟢 | vless | @proxycrone | 1",
+            "type": "vless",
+            "server": "statue.lnmarketplace.net",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇩🇪 DE | 🟢 | vless | @proxystore11 | 6",

@@ -93,6 +93,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
+                "🇺🇸 US | 🔴 | vless | @dailyv2ry | 177",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
@@ -128,7 +129,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇺🇸 US | 🟢 | vless | @v2reay | 12",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 13",
+                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 10",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13"
             ],
@@ -142,6 +143,7 @@
                 "🇺🇸 US | 🔴 | vless | @arv2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @canfing_vpn | 16",
                 "🇺🇸 US | 🔴 | vless | @dailytek | 10",
+                "🇺🇸 US | 🔴 | vless | @dailyv2ry | 177",
                 "🇺🇸 US | 🟢 | vless | @elfv2ray | 4",
                 "🇺🇸 US | 🔴 | vless | @elitevpnv2 | 6",
                 "🇺🇸 US | 🔴 | vless | @fastkanfig | 10",
@@ -177,7 +179,7 @@
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 2",
                 "🇺🇸 US | 🔴 | vless | @v2rayngfreee | 3",
                 "🇺🇸 US | 🟢 | vless | @v2reay | 12",
-                "🇺🇸 US | 🔴 | vless | @vpnaloo | 13",
+                "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
                 "🇺🇸 US | 🔴 | vless | @vpncostumer | 10",
                 "🇳🇱 NL | 🟢 | vless | @vpncostumer | 13"
             ],
@@ -225,6 +227,24 @@
             "uuid": "0b4e0f6a-98a2-468a-910f-4a0b3fbeec36",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @dailyv2ry | 177",
+            "type": "vless",
+            "server": "45.56.83.239",
+            "server_port": 443,
+            "uuid": "66d53d2f-2f3d-4fbb-b766-ac4e2aa1d36d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "45.56.83.239",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🟢 | vless | @elfv2ray | 4",
@@ -796,7 +816,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔴 | vless | @vpnaloo | 13",
+            "tag": "🇺🇸 US | 🔴 | vless | @vpnaloo | 12",
             "type": "vless",
             "server": "172.237.147.79",
             "server_port": 443,
