@@ -89,7 +89,6 @@
             "outbounds": [
                 "auto",
                 "direct",
-                "❔ XX | 🟢 | vless | @freevpnatm | 19",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🔴 | vless | @prrofile_purple | 131",
@@ -102,7 +101,6 @@
         {
             "interval": "10m",
             "outbounds": [
-                "❔ XX | 🟢 | vless | @freevpnatm | 19",
                 "❔ XX | 🔴 | vless | @freevv2rayng | 10",
                 "❔ XX | 🔴 | vless | @internet_nor | 2",
                 "❔ XX | 🔴 | vless | @prrofile_purple | 131",
@@ -117,28 +115,6 @@
         {
             "tag": "direct",
             "type": "direct"
-        },
-        {
-            "tag": "❔ XX | 🟢 | vless | @freevpnatm | 19",
-            "type": "vless",
-            "server": "[2606:4700:3035::6815:1dcd]",
-            "server_port": 443,
-            "uuid": "662e38ba-8427-4955-94aa-76f5347a0ce8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "6DuxYMYmrGrnGKRosltnP1Q0J66"
-            }
         },
         {
             "tag": "❔ XX | 🔴 | vless | @freevv2rayng | 10",

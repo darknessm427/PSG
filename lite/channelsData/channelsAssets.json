@@ -11,7 +11,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "‌NamiraNet / نامیرا نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/NamiraNet.jpg"
@@ -954,10 +955,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
-            "vless",
+            "vmess",
             "trojan",
-            "vmess"
+            "ss",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1484,8 +1485,9 @@
     },
     "mowjproxy": {
         "types": [
+            "vmess",
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1788,7 +1790,6 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vmess",
             "vless",
             "ss"
         ],
@@ -2848,13 +2849,6 @@
         ],
         "title": "Vpn پرطرفدار",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnpopular2023.jpg"
-    },
-    "vpnstorefast": {
-        "types": [
-            "vless"
-        ],
-        "title": "Vpn Store",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnstorefast.jpg"
     },
     "vpnv2rayng90": {
         "types": [
