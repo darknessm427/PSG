@@ -95,7 +95,6 @@
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇮🇷 IR | 🔴 | vless | @asak_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
-                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
@@ -156,7 +155,6 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🔴 | vless | @lion_channel_vpn2 | 7",
                 "🇳🇱 NL | 🔴 | vless | @luckyvpn | 0",
-                "❔ XX | 🔴 | vless | @mafiav2ray | 16",
                 "🇺🇸 US | 🔴 | vless | @magicvpn_shop | 1",
                 "❔ XX | 🔴 | vless | @marzazad | 1",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
@@ -182,6 +180,7 @@
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
+                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 132",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @rez1vpn | 1",
@@ -236,7 +235,6 @@
                 "🇺🇸 US | 🔴 | vless | @aryoovpn | 4",
                 "🇮🇷 IR | 🔴 | vless | @asak_vpn | 11",
                 "🇺🇸 US | 🔴 | vless | @befreewithus | 1",
-                "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🔴 | vless | @castom_v2ray | 4",
                 "❔ XX | 🟢 | vless | @cconfig_v2ray | 9",
                 "❔ XX | 🔴 | vless | @ch_a2l | 5",
@@ -297,7 +295,6 @@
                 "🇩🇪 DE | 🟢 | vless | @lexernet | 11",
                 "❔ XX | 🔴 | vless | @lion_channel_vpn2 | 7",
                 "🇳🇱 NL | 🔴 | vless | @luckyvpn | 0",
-                "❔ XX | 🔴 | vless | @mafiav2ray | 16",
                 "🇺🇸 US | 🔴 | vless | @magicvpn_shop | 1",
                 "❔ XX | 🔴 | vless | @marzazad | 1",
                 "❔ XX | 🟢 | vless | @mastervpnshop1 | 17",
@@ -323,6 +320,7 @@
                 "🇮🇷 IR | 🔴 | vless | @proxy_kuto | 0",
                 "🇩🇪 DE | 🟢 | vless | @proxycrone | 5",
                 "❔ XX | 🟢 | vless | @proxysudo | 2",
+                "🇺🇸 US | 🔴 | vless | @prrofile_purple | 132",
                 "❔ XX | 🔴 | vless | @realvpnmaster | 14",
                 "❔ XX | 🔴 | vless | @red2ray | 13",
                 "🇺🇸 US | 🔴 | vless | @rez1vpn | 1",
@@ -453,29 +451,6 @@
                 "path": "/",
                 "headers": {
                     "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
-            "type": "vless",
-            "server": "de6rt.samsungmarketshop.ir",
-            "server_port": 2083,
-            "uuid": "bf989dce-7af7-423b-a499-71da71cdcef1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
-                    "short_id": "aeba"
                 }
             }
         },
@@ -1499,22 +1474,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔴 | vless | @mafiav2ray | 16",
-            "type": "vless",
-            "server": "bloo-netflix23.maj.gamerme.ir",
-            "server_port": 80,
-            "uuid": "be8962c2-c299-4b2e-a76d-373ddfd9c886",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2048",
-                "headers": {
-                    "Host": "bloo-netflix23.maj.gamerme.ir"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔴 | vless | @magicvpn_shop | 1",
             "type": "vless",
             "server": "fr2.magicvpn.shop",
@@ -1948,6 +1907,22 @@
                     "enabled": true,
                     "public_key": "blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk",
                     "short_id": "b28a0dd8"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔴 | vless | @prrofile_purple | 132",
+            "type": "vless",
+            "server": "famous-experience.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "7f09e7b4-4680-4653-a2da-307d110b6961",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "famous-experience.seotoolsforyou.co.uk"
                 }
             }
         },
