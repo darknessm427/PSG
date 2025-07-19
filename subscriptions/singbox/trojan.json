@@ -89,10 +89,11 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 59",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -107,15 +108,15 @@
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
+                "🇫🇷 FR | 🟢 | trojan | @configshubplus | 15",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 13",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 14",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇭🇰 HK | 🔴 | trojan | @hope_net | 17",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 9",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
@@ -147,10 +148,11 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 59",
                 "❔ XX | 🟢 | trojan | @armodchannel | 59",
                 "❔ XX | 🔴 | trojan | @armodchannel | 60",
                 "❔ XX | 🟢 | trojan | @fati_ffx | 1",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
                 "❔ XX | 🟢 | trojan | @jiedianf | 3",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 4",
@@ -165,15 +167,15 @@
                 "❔ XX | 🟢 | trojan | @xrayzxn | 4",
                 "🇨🇳 CN | 🟢 | trojan | @zdyz2 | 5",
                 "🇯🇵 JP | 🟢 | trojan | @awlix_ir | 9",
+                "🇫🇷 FR | 🟢 | trojan | @configshubplus | 15",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 12",
                 "🇩🇪 DE | 🟢 | trojan | @directvpn | 13",
                 "🇫🇷 FR | 🟢 | trojan | @directvpn | 14",
-                "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
                 "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
                 "🇩🇪 DE | 🔴 | trojan | @freev2raym | 7",
-                "🇭🇰 HK | 🔴 | trojan | @hope_net | 17",
-                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 9",
+                "🏳️  | 🟢 | trojan | @hope_net | 18",
+                "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
                 "🇫🇷 FR | 🟢 | trojan | @jiedianf | 5",
                 "🇺🇸 US | 🟢 | trojan | @kurdistan_vpn_perfectt | 7",
                 "🇩🇪 DE | 🟢 | trojan | @mafiav2ray | 13",
@@ -207,6 +209,29 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇨🇦 CA | 🟢 | trojan | @NamiraNet | 59",
+            "type": "trojan",
+            "server": "aio.zipzap.biz.id",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "aio.zipzap.biz.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/aioproxybot/129.150.49.58-18650",
+                "headers": {
+                    "Host": "aio.zipzap.biz.id"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @armodchannel | 59",
@@ -262,11 +287,27 @@
             }
         },
         {
-            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 13",
+            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 14",
             "type": "trojan",
-            "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
-            "server_port": 15229,
-            "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
+            "server": "production.tj.ojan.workers.dev",
+            "server_port": 443,
+            "password": "9yu6m5okr",
+            "tls": {
+                "enabled": true,
+                "server_name": "production.tj.ojan.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "production.tj.ojan.workers.dev"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @iraniv2ray | 3",
@@ -531,6 +572,22 @@
             }
         },
         {
+            "tag": "🇫🇷 FR | 🟢 | trojan | @configshubplus | 15",
+            "type": "trojan",
+            "server": "13.37.64.205",
+            "server_port": 22223,
+            "password": "telegram-id-directvpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 11",
             "type": "trojan",
             "server": "15.188.241.61",
@@ -595,22 +652,6 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🟢 | trojan | @directvpn | 15",
-            "type": "trojan",
-            "server": "13.37.64.205",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🟢 | trojan | @dnsforyou | 8",
             "type": "trojan",
             "server": "172.67.181.173",
@@ -641,25 +682,41 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇭🇰 HK | 🔴 | trojan | @hope_net | 17",
+            "tag": "🏳️  | 🟢 | trojan | @hope_net | 18",
             "type": "trojan",
-            "server": "18.162.246.4",
-            "server_port": 18443,
-            "password": "ouo"
-        },
-        {
-            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 9",
-            "type": "trojan",
-            "server": "198.23.229.250",
-            "server_port": 443,
-            "password": "2ee85121-31de-4581-a492-eb00f606e392",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "password": "ccabaab-bcaa-baac-cbda-cabcaabcbabc",
             "tls": {
                 "enabled": true,
-                "server_name": "rc6.freeguard.org",
+                "server_name": "127.0.0.1",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | trojan | @ip_cf_config | 13",
+            "type": "trojan",
+            "server": "104.25.165.81",
+            "server_port": 8443,
+            "password": "123456",
+            "tls": {
+                "enabled": true,
+                "server_name": "top-azx.pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/Az1.vpn.33.TOP/?ed=2560",
+                "headers": {
+                    "Host": "top-azx.pages.dev"
                 }
             }
         },

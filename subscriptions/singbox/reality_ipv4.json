@@ -94,9 +94,11 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
+                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -110,7 +112,7 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
@@ -221,9 +223,11 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
+                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -237,7 +241,7 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
@@ -470,6 +474,33 @@
             }
         },
         {
+            "tag": "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
+            "type": "vless",
+            "server": "91.98.21.58",
+            "server_port": 18606,
+            "uuid": "10bf842c-ff96-4460-b18c-55d4c3740fc9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @configasli | 2",
             "type": "vless",
             "server": "5.75.188.7",
@@ -543,6 +574,29 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "194.182.79.64",
+            "server_port": 14074,
+            "uuid": "96095804-6e2b-4ed4-8bd5-49c28cb73679",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng",
+                    "short_id": "61"
                 }
             }
         },
@@ -862,7 +916,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
             "type": "vless",
             "server": "213.183.41.63",
             "server_port": 443,

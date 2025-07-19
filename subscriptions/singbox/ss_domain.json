@@ -98,6 +98,7 @@
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 6",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 5",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -136,6 +137,7 @@
                 "🇩🇪 DE | 🟢 | ss | @freakconfig | 6",
                 "🇬🇧 GB | 🟢 | ss | @freevirgoolnet | 4",
                 "🇬🇧 GB | 🟢 | ss | @imhdiyvp | 5",
+                "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
                 "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",
                 "🇨🇳 CN | 🟢 | ss | @mftizi | 17",
                 "❔ XX | 🟢 | ss | @mt_proxy | 4",
@@ -239,6 +241,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇺🇸 US | 🟢 | ss | @ip_cf_config | 12",
+            "type": "shadowsocks",
+            "server": "beesyar.org",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇺🇸 US | 🟢 | ss | @mester_v2ray | 15",

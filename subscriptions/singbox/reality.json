@@ -94,9 +94,11 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
+                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -110,7 +112,7 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
@@ -217,11 +219,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 95",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
-                "🇫🇷 FR | 🟢 | vless | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -310,9 +310,11 @@
                 "🇮🇪 IE | 🟢 | vless | @appsooner | 10",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 4",
                 "🇨🇿 CZ | 🟢 | vless | @bored_vpn | 8",
+                "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 2",
                 "🇩🇪 DE | 🟢 | vless | @configasli | 4",
                 "🇫🇷 FR | 🟢 | vless | @configasli | 6",
+                "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
                 "🇮🇷 IR | 🟢 | vless | @dargiiriis | 0",
                 "🇫🇷 FR | 🟢 | vless | @darkfiilter | 0",
                 "🇺🇦 UA | 🟢 | vless | @dashv2ray | 4",
@@ -326,7 +328,7 @@
                 "🇺🇸 US | 🟢 | vless | @filtershekan_channel | 10",
                 "🇸🇪 SE | 🟢 | vless | @filtershkan2 | 0",
                 "🇬🇧 GB | 🟢 | vless | @fire_vpn_channel | 1",
-                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+                "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
                 "🇩🇪 DE | 🟢 | vless | @free_serverir | 68",
                 "🇩🇪 DE | 🟢 | vless | @freenapsternetv | 2",
                 "🇵🇱 PL | 🟢 | vless | @freenapsternetv | 4",
@@ -433,11 +435,9 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
-                "🇺🇸 US | 🟢 | vless | @config_proxy | 95",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇬🇧 GB | 🟢 | vless | @dailyv2ry | 170",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
-                "🇫🇷 FR | 🟢 | vless | @entrynet | 18",
                 "🇩🇪 DE | 🟢 | vless | @farahvpn | 17",
                 "🇩🇪 DE | 🟢 | vless | @filter_breaker | 55",
                 "❔ XX | 🟢 | vless | @free_omega | 0",
@@ -648,6 +648,33 @@
             }
         },
         {
+            "tag": "🇦🇪 AE | 🟢 | vless | @config_proxy | 92",
+            "type": "vless",
+            "server": "91.98.21.58",
+            "server_port": 18606,
+            "uuid": "10bf842c-ff96-4460-b18c-55d4c3740fc9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cdn77.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew",
+                    "short_id": ""
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android"
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🟢 | vless | @configasli | 2",
             "type": "vless",
             "server": "5.75.188.7",
@@ -721,6 +748,29 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @configshubplus | 17",
+            "type": "vless",
+            "server": "194.182.79.64",
+            "server_port": 14074,
+            "uuid": "96095804-6e2b-4ed4-8bd5-49c28cb73679",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng",
+                    "short_id": "61"
                 }
             }
         },
@@ -1040,7 +1090,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 11",
+            "tag": "🇷🇺 RU | 🟢 | vless | @free1_vpn | 10",
             "type": "vless",
             "server": "213.183.41.63",
             "server_port": 443,
@@ -3679,29 +3729,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🟢 | vless | @config_proxy | 95",
-            "type": "vless",
-            "server": "amazon-15.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🟢 | vless | @custom_14 | 7",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -3772,33 +3799,6 @@
                     "public_key": "wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM",
                     "short_id": "c7bc4d"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @entrynet | 18",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 35673,
-            "uuid": "eb6eaa3a-acec-466a-83b6-2579c9dfcd53",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "slack.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "X0Qh1nKfoT6KDIvVnHsGU8lYKHsW2fmn0Tm1QNsFRg8",
-                    "short_id": "752105e2e443eece"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "t.me/entryNET"
             }
         },
         {
