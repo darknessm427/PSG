@@ -24,7 +24,7 @@ dns:
 
 proxies: 
   - {"name":"🇳🇱 NL | 🟢 | ss | @ai_duet | 8","type":"ss","server":"194.87.216.189","port":443,"password":"Ib9hxFZxUH4m","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇪🇸 ES | 🟢 | ss | @argo_vpn1 | 8","type":"ss","server":"194.87.45.189","port":443,"password":"K2WzmAQJL9La9pZgTV1cur","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸 US | 🟢 | ss | @argo_vpn1 | 9","type":"ss","server":"104.167.197.25","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇦🇹 AT | 🟢 | ss | @arv2ra | 7","type":"ss","server":"45.138.74.160","port":7261,"password":"pZvwP17Nlz2z6jsYnVgZgf","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🟢 | ss | @bislullproxy | 18","type":"ss","server":"4.250.60.151","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇺🇸 US | 🟢 | ss | @customvpnserver | 27","type":"ss","server":"213.111.142.216","port":8443,"password":"OUERiyxvrzTJi5kftx980G","cipher":"chacha20-ietf-poly1305"}
@@ -72,7 +72,7 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🇳🇱 NL | 🟢 | ss | @ai_duet | 8'
-      - '🇪🇸 ES | 🟢 | ss | @argo_vpn1 | 8'
+      - '🇺🇸 US | 🟢 | ss | @argo_vpn1 | 9'
       - '🇦🇹 AT | 🟢 | ss | @arv2ra | 7'
       - '🇬🇧 GB | 🟢 | ss | @bislullproxy | 18'
       - '🇺🇸 US | 🟢 | ss | @customvpnserver | 27'

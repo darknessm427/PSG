@@ -105,7 +105,6 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -127,6 +126,7 @@
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
+                "🇨🇿 CZ | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
@@ -154,7 +154,6 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10",
@@ -176,6 +175,7 @@
                 "🇩🇪 DE | 🟢 | vless | @sinavm | 2",
                 "🇩🇪 DE | 🟢 | vless | @speedconfig00 | 35",
                 "🇩🇪 DE | 🟢 | vless | @v2ray_inter | 8",
+                "🇨🇿 CZ | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @vipnetmeli | 2",
                 "🇩🇪 DE | 🟢 | vless | @vipv2rey | 39",
                 "🇩🇪 DE | 🟢 | vless | @vpnhouse_official | 0",
@@ -584,33 +584,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 39840,
-            "uuid": "2c44299e-ece9-4cf0-9999-91573a5d885b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "openai.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cBtMVPDxwtgUBpOn0gz59eJsjG_Mu8WenSbSdZ6M1kw",
-                    "short_id": "63f2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
             }
         },
         {
@@ -1126,6 +1099,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn"
+            }
+        },
+        {
+            "tag": "🇨🇿 CZ | 🟢 | vless | @v2source | 19",
+            "type": "vless",
+            "server": "194.182.79.43",
+            "server_port": 25245,
+            "uuid": "aa374d55-b368-4121-8f02-7e6bd9ef1924",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg",
+                    "short_id": "16b619c73e22"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
             }
         },
         {

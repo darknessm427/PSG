@@ -89,6 +89,7 @@
             "outbounds": [
                 "auto",
                 "direct",
+                "🇭🇰 HK | 🔴 | vmess | @NamiraNet | 69",
                 "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
                 "❔ XX | 🔴 | vmess | @armodchannel | 62",
                 "❔ XX | 🔴 | vmess | @bluevpn111 | 2",
@@ -103,6 +104,7 @@
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
                 "🇺🇸 US | 🔴 | vmess | @freevpnatm | 18",
+                "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 15",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -134,7 +136,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 19",
+                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 18",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3",
@@ -146,6 +148,7 @@
         {
             "interval": "10m",
             "outbounds": [
+                "🇭🇰 HK | 🔴 | vmess | @NamiraNet | 69",
                 "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
                 "❔ XX | 🔴 | vmess | @armodchannel | 62",
                 "❔ XX | 🔴 | vmess | @bluevpn111 | 2",
@@ -160,6 +163,7 @@
                 "🇺🇸 US | 🔴 | vmess | @freev2rays | 19",
                 "🇩🇪 DE | 🔴 | vmess | @freevmess | 4",
                 "🇺🇸 US | 🔴 | vmess | @freevpnatm | 18",
+                "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 15",
                 "🇫🇷 FR | 🔴 | vmess | @ir_netproxy | 13",
                 "🇺🇸 US | 🔴 | vmess | @iran_mehr_vpn | 17",
                 "🇺🇸 US | 🟢 | vmess | @iranvpnet | 0",
@@ -191,7 +195,7 @@
                 "🇩🇪 DE | 🟢 | vmess | @v2rayngchannelll | 5",
                 "🇩🇪 DE | 🔴 | vmess | @v2rayngvpnn | 18",
                 "🇩🇪 DE | 🔴 | vmess | @vipv2rayvip | 0",
-                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 19",
+                "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 18",
                 "🇺🇸 US | 🔴 | vmess | @vpngate_config | 18",
                 "🇺🇸 US | 🟢 | vmess | @vpnv2rayonline | 10",
                 "🇩🇪 DE | 🔴 | vmess | @vpnzamin | 3",
@@ -205,6 +209,15 @@
         {
             "tag": "direct",
             "type": "direct"
+        },
+        {
+            "tag": "🇭🇰 HK | 🔴 | vmess | @NamiraNet | 69",
+            "type": "vmess",
+            "server": "143.92.41.155",
+            "server_port": 39632,
+            "uuid": "75404bed-ea79-4a03-ed28-cbbffa291286",
+            "security": "auto",
+            "alter_id": 0
         },
         {
             "tag": "🇮🇷 IR | 🔴 | vmess | @angus_vpn | 3",
@@ -417,6 +430,31 @@
             "transport": {
                 "type": "ws",
                 "path": "/Lf5XcmSPJ9CoRQTqot0LE",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔴 | vmess | @ip_cf_config | 15",
+            "type": "vmess",
+            "server": "134.195.198.147",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
                 "headers": {
                     "Host": ""
                 }
@@ -885,7 +923,7 @@
             "alter_id": 0
         },
         {
-            "tag": "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 19",
+            "tag": "🇨🇭 CH | 🔴 | vmess | @vpnfail_v2ray | 18",
             "type": "vmess",
             "server": "186.190.215.193",
             "server_port": 22324,

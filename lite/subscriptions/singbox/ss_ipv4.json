@@ -90,7 +90,7 @@
                 "auto",
                 "direct",
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇪🇸 ES | 🟢 | ss | @argo_vpn1 | 8",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 9",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
@@ -121,7 +121,7 @@
             "interval": "10m",
             "outbounds": [
                 "🇳🇱 NL | 🟢 | ss | @ai_duet | 8",
-                "🇪🇸 ES | 🟢 | ss | @argo_vpn1 | 8",
+                "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 9",
                 "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",
                 "🇬🇧 GB | 🟢 | ss | @bislullproxy | 18",
                 "🇺🇸 US | 🟢 | ss | @customvpnserver | 27",
@@ -163,12 +163,12 @@
             "password": "Ib9hxFZxUH4m"
         },
         {
-            "tag": "🇪🇸 ES | 🟢 | ss | @argo_vpn1 | 8",
+            "tag": "🇺🇸 US | 🟢 | ss | @argo_vpn1 | 9",
             "type": "shadowsocks",
-            "server": "194.87.45.189",
-            "server_port": 443,
+            "server": "104.167.197.25",
+            "server_port": 57456,
             "method": "chacha20-ietf-poly1305",
-            "password": "K2WzmAQJL9La9pZgTV1cur"
+            "password": "360e21d21977dc11"
         },
         {
             "tag": "🇦🇹 AT | 🟢 | ss | @arv2ra | 7",

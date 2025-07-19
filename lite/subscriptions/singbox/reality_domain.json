@@ -105,7 +105,6 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
@@ -132,7 +131,6 @@
                 "❔ XX | 🟢 | vless | @torang_vpn | 16",
                 "❔ XX | 🟢 | vless | @v2rayng_my2 | 1",
                 "❔ XX | 🟢 | vless | @v2rayngconfings | 17",
-                "🇫🇷 FR | 🟢 | vless | @v2source | 19",
                 "🇩🇪 DE | 🟢 | vless | @v2trayproxy | 13",
                 "❔ XX | 🟢 | vless | @vp22ray | 10",
                 "❔ XX | 🟢 | vless | @vpnwlf | 10"
@@ -540,33 +538,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🟢 | vless | @v2source | 19",
-            "type": "vless",
-            "server": "join-dailyconfigs.resurrection-time.sbs",
-            "server_port": 39840,
-            "uuid": "2c44299e-ece9-4cf0-9999-91573a5d885b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "openai.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "cBtMVPDxwtgUBpOn0gz59eJsjG_Mu8WenSbSdZ6M1kw",
-                    "short_id": "63f2"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060"
             }
         },
         {

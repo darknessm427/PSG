@@ -97,6 +97,7 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇫🇷 FR | 🟢 | vless | @config_proxy | 69",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
@@ -107,6 +108,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "❔ XX | 🟢 | vless | @ip_cf_config | 14",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -128,7 +130,7 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇬🇧 GB | 🟢 | vless | @outline_ir | 13",
-                "🇬🇧 GB | 🟢 | vless | @outline_ir | 15",
+                "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -185,6 +187,7 @@
                 "❔ XX | 🟢 | vless | @buffalo_vpn | 5",
                 "🇩🇪 DE | 🟢 | vless | @canfing_vpn | 19",
                 "❔ XX | 🟢 | vless | @catvpns | 10",
+                "🇫🇷 FR | 🟢 | vless | @config_proxy | 69",
                 "❔ XX | 🟢 | vless | @custom_14 | 7",
                 "🇩🇪 DE | 🟢 | vless | @dalton_ping | 7",
                 "🇳🇱 NL | 🟢 | vless | @dalton_ping | 8",
@@ -195,6 +198,7 @@
                 "❔ XX | 🟢 | vless | @fsv2ray | 1",
                 "❔ XX | 🟢 | vless | @fsv2ray | 2",
                 "❔ XX | 🟢 | vless | @fsv2ray | 3",
+                "❔ XX | 🟢 | vless | @ip_cf_config | 14",
                 "🇦🇪 AE | 🟢 | vless | @iran_access | 13",
                 "❔ XX | 🟢 | vless | @iran_mehr_vpn | 15",
                 "🇺🇸 US | 🟢 | vless | @iranbaxvpn | 4",
@@ -216,7 +220,7 @@
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 2",
                 "🇳🇱 NL | 🟢 | vless | @nn_vpn | 3",
                 "🇬🇧 GB | 🟢 | vless | @outline_ir | 13",
-                "🇬🇧 GB | 🟢 | vless | @outline_ir | 15",
+                "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 0",
                 "❔ XX | 🟢 | vless | @persian_proxy6 | 3",
                 "❔ XX | 🟢 | vless | @proxy_iranv2 | 3",
@@ -458,6 +462,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🟢 | vless | @config_proxy | 69",
+            "type": "vless",
+            "server": "frdhiss.sadyellow.ir",
+            "server_port": 443,
+            "uuid": "8059ab08-19ac-4924-881c-4d01a8865370",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "babanooel.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_mPQpNgqDJeDUmXPeWTcVigbcH33KejxLoErq_ps6Uk",
+                    "short_id": "d00ab92f90fb44"
+                }
             }
         },
         {
@@ -712,6 +739,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@FsV2ray"
+            }
+        },
+        {
+            "tag": "❔ XX | 🟢 | vless | @ip_cf_config | 14",
+            "type": "vless",
+            "server": "WLF-V-P-N-ID2.dnsfree.one",
+            "server_port": 443,
+            "uuid": "---WLFVPN---",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU",
+                    "short_id": "6bb85179e30d4fc2"
+                }
             }
         },
         {
@@ -1253,7 +1303,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🟢 | vless | @outline_ir | 15",
+            "tag": "🇺🇸 US | 🟢 | vless | @outline_ir | 15",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,

@@ -90,7 +90,6 @@
                 "auto",
                 "direct",
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
@@ -101,7 +100,6 @@
             "interval": "10m",
             "outbounds": [
                 "🇺🇸 US | 🟢 | trojan | @cryptoguardvpn | 2",
-                "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
                 "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
                 "🇩🇪 DE | 🔴 | trojan | @teamvpnpro | 6"
             ],
@@ -136,13 +134,6 @@
                     "Host": "production.tj.ojan.workers.dev"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔴 | trojan | @ip_cf_config | 14",
-            "type": "trojan",
-            "server": "391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net",
-            "server_port": 15229,
-            "password": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🟢 | trojan | @maradona_vpn | 8",
